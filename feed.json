@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T07:16:11+00:00",
+ "generated_at": "2026-09-24T12:32:49+00:00",
  "about": "Concept feed: source headline + our own one-line summary + link. No article text. Events and matches are read from scoretab.in.",
  "events": [
   {
@@ -7,13 +7,13 @@
    "name": "UEFA Nations League",
    "sport": "football",
    "matches_listed": 10,
-   "stories": 10
+   "stories": 9
   },
   {
    "slug": "friendlies",
    "name": "International Friendlies",
    "sport": "football",
-   "matches_listed": 17,
+   "matches_listed": 14,
    "stories": 1
   },
   {
@@ -48,14 +48,14 @@
    "slug": "chengdu",
    "name": "Chengdu Open",
    "sport": "tennis",
-   "matches_listed": 18,
+   "matches_listed": 14,
    "stories": 0
   },
   {
    "slug": "hangzhou",
    "name": "Hangzhou Open",
    "sport": "tennis",
-   "matches_listed": 17,
+   "matches_listed": 14,
    "stories": 0
   },
   {
@@ -69,18 +69,53 @@
    "slug": "singapore",
    "name": "Singapore Open",
    "sport": "tennis",
-   "matches_listed": 5,
+   "matches_listed": 4,
    "stories": 0
   },
   {
    "slug": "billie-jean-king-cup",
    "name": "Billie Jean King Cup",
    "sport": "tennis",
-   "matches_listed": 3,
+   "matches_listed": 2,
    "stories": 3
+  },
+  {
+   "slug": "us-open",
+   "name": "US Open",
+   "sport": "tennis",
+   "matches_listed": 0,
+   "stories": 1
   }
  ],
  "stories": [
+  {
+   "id": 583,
+   "sport": "cricket",
+   "one_line": "Muhammad Shahzad scored a 49-ball first-class century, breaking a Pakistan legend’s national record.",
+   "title": "Uncapped 22-year-old breaks Pakistan legend’s national record with 49-ball first-class hundred",
+   "url": "https://www.wisden.com/cricket-news/uncapped-22-year-old-muhammad-shahzad-breaks-misbah-ul-haq-pakistan-national-record-with-49-ball-first-class-hundred",
+   "source": "Wisden",
+   "also_reported_by": [],
+   "category": "Player Milestone & Record",
+   "published_at": "2026-09-24T12:06:00+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 625,
+   "sport": "cricket",
+   "one_line": "Robin Das faces court over two rape charges, set to appear on October 9.",
+   "title": "Essex cricketer Robin Das charged with two counts of rape; set to appear in court",
+   "url": "https://cricketaddictor.com/cricket-news/essex-cricketer-robin-das-charged-with-two-counts-of-rape-set-to-appear-in-court-464203",
+   "source": "CricketAddictor",
+   "also_reported_by": [
+    "Hindustan Times Cricket"
+   ],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-24T09:13:49+00:00",
+   "events": [],
+   "teams": []
+  },
   {
    "id": 330,
    "sport": "football",
@@ -147,17 +182,60 @@
    "teams": []
   },
   {
-   "id": 15,
-   "sport": "cricket",
-   "one_line": "Wasim Akram criticises Razaullah's celebrations following Pakistan's 3-0 loss to England.",
-   "title": "‘Hide your face’: Wasim Akram rips into Razaullah celebrations after Pakistan are hammered by England",
-   "url": "https://www.hindustantimes.com/cricket/hide-your-face-wasim-akram-rips-into-razaullah-celebrations-after-pakistan-are-hammered-by-england-101789986396841.html",
-   "source": "Hindustan Times Cricket",
+   "id": 639,
+   "sport": "football",
+   "one_line": "Former England striker Andy Carroll says he was sexually assaulted in 2021 by a man now jailed for three years.",
+   "title": "Carroll reveals he was sexually assaulted in 2021",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6grv7x544qro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
    "also_reported_by": [],
    "category": "Off-field & Controversy",
-   "published_at": "2026-09-21T10:42:50+00:00",
+   "published_at": "2026-09-24T12:18:04+00:00",
    "events": [],
    "teams": []
+  },
+  {
+   "id": 621,
+   "sport": "cricket",
+   "one_line": "Sam Konstas says his shoulder-barge with Virat Kohli is part of the game.",
+   "title": "Sam Konstas breaks silence on shoulder-barge incident with Virat Kohli, calls it 'part of the game'",
+   "url": "https://cricketaddictor.com/cricket-news/sam-konstas-breaks-silence-on-shoulder-barge-incident-with-virat-kohli-calls-it-part-of-the-game-464208",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-24T10:31:11+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 626,
+   "sport": "cricket",
+   "one_line": "BCCI updates on Asia Cup trophies after India refused to accept them from Mohsin Naqvi.",
+   "title": "BCCI issues major update on Asia Cup trophies after India’s refusal to accept them from Mohsin Naqvi",
+   "url": "https://cricketaddictor.com/cricket-news/bcci-issues-major-update-on-asia-cup-trophies-after-indias-refusal-to-accept-them-from-mohsin-naqvi-464202",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-24T07:39:18+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 647,
+   "sport": "football",
+   "one_line": "Shea Charles becomes Northern Ireland's most expensive footballer after transfer to Fulham.",
+   "title": "Charles taking record-breaking price tag in his stride",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cw98022gvjr1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Player Milestone & Record",
+   "published_at": "2026-09-24T06:41:49+00:00",
+   "events": [
+    "premier-league"
+   ],
+   "teams": [
+    "Northern Ireland"
+   ]
   },
   {
    "id": 309,
@@ -285,9 +363,7 @@
    "title": "Cricket brings first gold for India: Harmanpreet’s women defend Asian Games crown with crushing win over Sri Lanka",
    "url": "https://www.hindustantimes.com/cricket/cricket-brings-first-gold-for-india-harmanpreet-s-women-defend-asian-games-crown-with-crushing-win-over-sri-lanka-101790062551798.html",
    "source": "Hindustan Times Cricket",
-   "also_reported_by": [
-    "Wisden"
-   ],
+   "also_reported_by": [],
    "category": "Match Result",
    "published_at": "2026-09-22T07:54:53+00:00",
    "events": [],
@@ -307,15 +383,201 @@
    "teams": []
   },
   {
-   "id": 174,
+   "id": 618,
+   "sport": "cricket",
+   "one_line": "Abhiram Yadav joins ICC Chief Executives Committee, becoming one of three Associate member positions.",
+   "title": "Jay Shah’s ICC influence grows as Abhiram Yadav joins Chief Executives’ Committee",
+   "url": "https://cricketaddictor.com/cricket-news/jay-shahs-icc-influence-grows-as-abhiram-yadav-joins-chief-executives-committee-464211",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Other",
+   "published_at": "2026-09-24T12:01:25+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 703,
    "sport": "football",
-   "one_line": "Former Birmingham winger Jordan Graham hospitalized after serious road traffic accident.",
-   "title": "Ex-Birmingham winger Graham in hospital after serious accident",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c83v427kkknwo?at_medium=RSS&at_campaign=rss",
+   "one_line": "Oli McBurnie says he aims to change Scotland’s story after his national team recall.",
+   "title": "'I'm here to change the story' - McBurnie on Scotland recall",
+   "url": "https://www.bbc.co.uk/sounds/play/p0pc29mg?at_medium=RSS&at_campaign=rss",
    "source": "BBC Football",
    "also_reported_by": [],
+   "category": "Preview & Build-up",
+   "published_at": "2026-09-24T12:00:00+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 619,
+   "sport": "cricket",
+   "one_line": "BCCI may appoint Muthoot Fincorp as its new title sponsor for national teams.",
+   "title": "Muthoot Fincorp set to become BCCI’s new title sponsor",
+   "url": "https://cricketaddictor.com/cricket-news/muthoot-fincorp-set-to-become-bccis-new-title-sponsor-464210",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Other",
+   "published_at": "2026-09-24T11:50:21+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 701,
+   "sport": "football",
+   "one_line": "James Wilson and Findlay Curtis exit Scotland Nations League squad to play U-21s.",
+   "title": "Wilson & Curtis leave Scotland squad to join U-21s",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6y8zmndyjkro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Selection & Squad",
+   "published_at": "2026-09-24T11:25:08+00:00",
+   "events": [
+    "uefa-nations-league"
+   ],
+   "teams": []
+  },
+  {
+   "id": 700,
+   "sport": "football",
+   "one_line": "Marink Reedijk becomes Hibernian’s new manager, aiming to develop a brave, intense team.",
+   "title": "Hibs appoint Dutchman Reedijk as new manager",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqe9e7ver2xpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Other",
+   "published_at": "2026-09-24T11:15:09+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 620,
+   "sport": "cricket",
+   "one_line": "Gautam Gambhir says Hardik Pandya still has injury time before the ODI World Cup.",
+   "title": "Gautam Gambhir stresses game time for Hardik Pandya ahead of ODI World Cup",
+   "url": "https://cricketaddictor.com/cricket-news/gautam-gambhir-stresses-game-time-for-hardik-pandya-ahead-of-odi-world-cup-464209",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
    "category": "Injury & Fitness",
-   "published_at": "2026-09-21T12:31:00+00:00",
+   "published_at": "2026-09-24T10:28:16+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 622,
+   "sport": "cricket",
+   "one_line": "Abhishek Sharma’s performances strengthen his case for India’s T20I vice-captaincy.",
+   "title": "Abhishek Sharma strengthens case for India’s T20I vice-captaincy after Afghanistan series",
+   "url": "https://cricketaddictor.com/cricket-news/abhishek-sharma-strengthens-case-for-indias-t20i-vice-captaincy-after-afghanistan-series-464207",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Selection & Squad",
+   "published_at": "2026-09-24T10:25:04+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 623,
+   "sport": "cricket",
+   "one_line": "Laxmi Ratan Shukla appointed Rest of India batting coach for the Irani Cup.",
+   "title": "Laxmi Ratan Shukla named Rest of India batting coach for Irani Cup against Jammu&Kashmir",
+   "url": "https://cricketaddictor.com/cricket-news/laxmi-ratan-shukla-named-rest-of-india-batting-coach-for-irani-cup-against-jammukashmir-464205",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Other",
+   "published_at": "2026-09-24T09:44:43+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 584,
+   "sport": "cricket",
+   "one_line": "England’s winter tour to South Africa is approaching, with several tours highlighted.",
+   "title": "South Africa awaits: England's winter adventure is almost here",
+   "url": "https://www.wisden.com/cricket-news/south-africa-awaits-englands-winter-adventure-is-almost-here",
+   "source": "Wisden",
+   "also_reported_by": [],
+   "category": "Series & Tournament",
+   "published_at": "2026-09-24T09:04:00+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 560,
+   "sport": "cricket",
+   "one_line": "Luke Williams named head coach of Mumbai Indians women’s team.",
+   "title": "Who is Luke Williams, the new head coach of Mumbai Indians’ women’s team?",
+   "url": "https://www.hindustantimes.com/cricket/who-is-luke-williams-the-new-head-coach-of-mumbai-indians-women-s-team-101790239065486.html",
+   "source": "Hindustan Times Cricket",
+   "also_reported_by": [
+    "CricketAddictor"
+   ],
+   "category": "Other",
+   "published_at": "2026-09-24T08:55:54+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 585,
+   "sport": "cricket",
+   "one_line": "India hosts West Indies for three ODIs, with squads and schedule announced.",
+   "title": "India vs West Indies ODIs: Full squads, team news, schedule and all you need to know for West Indies tour of India",
+   "url": "https://www.wisden.com/series/india-vs-west-indies-m-2026/cricket-news/india-vs-west-indies-odis-full-squads-team-news-schedule-and-all-you-need-to-know-for-west-indies-tour-of-india",
+   "source": "Wisden",
+   "also_reported_by": [],
+   "category": "Series & Tournament",
+   "published_at": "2026-09-24T08:06:00+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 643,
+   "sport": "football",
+   "one_line": "Oli McBurnie says he is grateful and ready to prove Scotland’s worth.",
+   "title": "'Eternally grateful' McBurnie ready to show what Scotland have missed",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6qjk1122e9jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Preview & Build-up",
+   "published_at": "2026-09-24T07:05:06+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 628,
+   "sport": "cricket",
+   "one_line": "T20 Mumbai League adds ninth franchise for Navi Mumbai after Aspects Sports wins rights.",
+   "title": "T20 Mumbai League expands to 9 teams as Aspects Sports secures Navi Mumbai franchise",
+   "url": "https://cricketaddictor.com/cricket-news/t20-mumbai-league-expands-to-9-teams-as-aspects-sports-secures-navi-mumbai-franchise-464200",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Series & Tournament",
+   "published_at": "2026-09-24T06:57:42+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 586,
+   "sport": "cricket",
+   "one_line": "CSK appoints Zaheer Khan as head coach, surprising many.",
+   "title": "The paradigm shift at Chepauk: Why CSK chose Zaheer Khan",
+   "url": "https://www.wisden.com/series/ipl-2026/cricket-news/the-paradigm-shift-at-chepauk-why-csk-chose-zaheer-khan",
+   "source": "Wisden",
+   "also_reported_by": [],
+   "category": "Other",
+   "published_at": "2026-09-24T06:06:00+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 630,
+   "sport": "cricket",
+   "one_line": "Sanjiv Goenka questions reasons behind Zaheer Khan's departure from LSG.",
+   "title": "Sanjiv Goenka questioned over Zaheer Khan’s LSG exit",
+   "url": "https://cricketaddictor.com/cricket-news/sanjiv-goenka-questioned-over-zaheer-khans-lsg-exit-464196",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-24T05:57:10+00:00",
    "events": [],
    "teams": []
   },
@@ -401,6 +663,21 @@
    "also_reported_by": [],
    "category": "Off-field & Controversy",
    "published_at": "2026-09-23T21:01:16+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 302,
+   "sport": "cricket",
+   "one_line": "Singh calls for Sharma and Kohli to be selected for 2027 World Cup.",
+   "title": "Rinku Singh urges selectors to pick Rohit Sharma, Virat Kohli for 2027 World Cup",
+   "url": "https://cricketaddictor.com/cricket-news/rinku-singh-urges-selectors-to-pick-rohit-sharma-virat-kohli-for-2027-world-cup-464189",
+   "source": "CricketAddictor",
+   "also_reported_by": [
+    "Hindustan Times Cricket"
+   ],
+   "category": "Selection & Squad",
+   "published_at": "2026-09-23T18:04:10+00:00",
    "events": [],
    "teams": []
   },
@@ -495,21 +772,6 @@
     "Hindustan Times Cricket"
    ],
    "category": "Other",
-   "published_at": "2026-09-23T18:04:08+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 313,
-   "sport": "cricket",
-   "one_line": "Raina backs Kohli and Sharma for India's 2027 ODI World Cup squad.",
-   "title": "Virat Kohli and Rohit Sharma get strong 2027 World Cup backing before West Indies ODIs",
-   "url": "https://cricketaddictor.com/cricket-news/virat-kohli-and-rohit-sharma-get-strong-2027-world-cup-backing-before-west-indies-odis-464174",
-   "source": "CricketAddictor",
-   "also_reported_by": [
-    "Hindustan Times Cricket"
-   ],
-   "category": "Preview & Build-up",
    "published_at": "2026-09-23T18:04:08+00:00",
    "events": [],
    "teams": []
@@ -612,19 +874,6 @@
    "teams": []
   },
   {
-   "id": 260,
-   "sport": "cricket",
-   "one_line": "South Africa hosts Australia for three ODIs in September 2026.",
-   "title": "South Africa vs Australia ODIs: Full squads, team news, schedule and all you need to know for Australia tour of South Africa",
-   "url": "https://www.wisden.com/series/south-africa-vs-australia-m-2026/cricket-news/south-africa-vs-australia-odis-full-squads-team-news-schedule-and-all-you-need-to-know-for-australia-tour-of-south-africa",
-   "source": "Wisden",
-   "also_reported_by": [],
-   "category": "Series & Tournament",
-   "published_at": "2026-09-23T12:36:00+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
    "id": 343,
    "sport": "football",
    "one_line": "Kerr and Thomas named in Scotland squad for World Cup play-offs.",
@@ -673,6 +922,19 @@
    "also_reported_by": [],
    "category": "Series & Tournament",
    "published_at": "2026-09-23T12:19:00+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 262,
+   "sport": "cricket",
+   "one_line": "South Africa-Australia ODI series starts 24 September in Durban; viewing details provided.",
+   "title": "South Africa vs Australia ODIs, live streaming and TV channels: Where to watch and match timings for Australia tour of South Africa",
+   "url": "https://www.wisden.com/series/south-africa-vs-australia-m-2026/cricket-news/south-africa-vs-australia-odis-live-streaming-and-tv-channels-where-to-watch-and-match-timings-for-australia-tour-of-south-africa",
+   "source": "Wisden",
+   "also_reported_by": [],
+   "category": "Series & Tournament",
+   "published_at": "2026-09-23T12:12:00+00:00",
    "events": [],
    "teams": []
   },
@@ -1353,222 +1615,110 @@
    ]
   },
   {
-   "id": 12,
+   "id": 558,
    "sport": "cricket",
-   "one_line": "Yashbardhan Singh Chauhan scores 122 against Australia U19, showing control and patience.",
-   "title": "Virat Kohli-Shubman Gill mould? Yashbardhan Singh Chauhan's latest hundred offers India a glimpse of something special",
-   "url": "https://www.hindustantimes.com/cricket/virat-kohli-shubman-gill-mould-yashbardhan-singh-chauhans-latest-hundred-offers-india-a-glimpse-of-something-special-101789991380107.html",
+   "one_line": "David Miller says he still wants to play in the 2027 World Cup despite lacking a South Africa contract.",
+   "title": "Despite no South Africa contract, David Miller happy to be in 2027 World Cup plans: ‘I still want to play'",
+   "url": "https://www.hindustantimes.com/cricket/despite-no-south-africa-contract-david-miller-happy-to-be-in-2027-world-cup-plans-i-still-want-to-play-101790246553756.html",
    "source": "Hindustan Times Cricket",
    "also_reported_by": [],
-   "category": "Player Milestone & Record",
-   "published_at": "2026-09-21T12:31:06+00:00",
+   "category": "Other",
+   "published_at": "2026-09-24T11:20:21+00:00",
    "events": [],
    "teams": []
   },
   {
-   "id": 76,
+   "id": 559,
    "sport": "cricket",
-   "one_line": "India and Japan to play a historic one-off T20I on September 22 in Sano.",
-   "title": "'Vaibhav Sooryavanshi's craze is on another level altogether': Japan cricketer Abhishek Anand",
-   "url": "https://cricketaddictor.com/cricket-news/vaibhav-sooryavanshis-craze-is-on-another-level-altogether-japan-cricketer-abhishek-anand-464104",
+   "one_line": "Aussie bowler drinks beer with Shane Warne to forget a 2006 ODI nightmare.",
+   "title": "0/113, then beers with Shane Warne: Hounded Aussie bowler cracked open few cold ones to forget ‘greatest ODI’ nightmare",
+   "url": "https://www.hindustantimes.com/cricket/113-runs-then-beers-with-shane-warne-australia-bowler-mick-lewis-drowned-greatest-odi-nightmare-in-cold-ones-101790244115338.html",
+   "source": "Hindustan Times Cricket",
+   "also_reported_by": [],
+   "category": "Other",
+   "published_at": "2026-09-24T10:19:39+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 638,
+   "sport": "football",
+   "one_line": "Manchester City’s data team helped rebuild the squad over 18 months.",
+   "title": "How Man City overhauled their squad from a 650,000-strong database",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm1wx51gyly5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Other",
+   "published_at": "2026-09-24T09:31:22+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 624,
+   "sport": "cricket",
+   "one_line": "Gautam Gambhir discusses Shreyas Iyer’s qualities as a special leader.",
+   "title": "Gautam Gambhir explains what makes Shreyas Iyer a special leader",
+   "url": "https://cricketaddictor.com/cricket-news/gautam-gambhir-explains-what-makes-shreyas-iyer-a-special-leader-464204",
    "source": "CricketAddictor",
    "also_reported_by": [],
-   "category": "Preview & Build-up",
-   "published_at": "2026-09-21T11:43:23+00:00",
+   "category": "Other",
+   "published_at": "2026-09-24T09:25:21+00:00",
    "events": [],
    "teams": []
   },
   {
-   "id": 13,
+   "id": 561,
    "sport": "cricket",
-   "one_line": "Shreyas Iyer anticipates playing the historic India-Japan match celebrating 75 years of relations.",
-   "title": "Shreyas Iyer looking forward to ‘embracing new culture’ ahead of the historic game against Japan",
-   "url": "https://www.hindustantimes.com/cricket/shreyas-iyer-looking-forward-to-embracing-new-culture-ahead-of-the-historic-game-against-japan-101789989441115.html",
+   "one_line": "Vaibhav Sooryavanshi faces a challenge from New Zealand on pacey, bouncy pitches.",
+   "title": "Vaibhav Sooryavanshi receives daunting challenge from New Zealand: ‘Let’s see how he fares on pacey and bouncy pitches’",
+   "url": "https://www.hindustantimes.com/cricket/vaibhav-sooryavanshi-receives-a-daunting-challenge-from-new-zealand-let-s-see-how-he-faces-on-pacey-and-bouncy-pitches-101790234235227.html",
    "source": "Hindustan Times Cricket",
-   "also_reported_by": [
-    "CricketAddictor"
-   ],
-   "category": "Preview & Build-up",
-   "published_at": "2026-09-21T11:36:16+00:00",
+   "also_reported_by": [],
+   "category": "Other",
+   "published_at": "2026-09-24T07:27:52+00:00",
    "events": [],
    "teams": []
   },
   {
-   "id": 201,
+   "id": 642,
    "sport": "football",
-   "one_line": "Former Liverpool forward Salah receives six-month driving ban for speeding.",
-   "title": "Ex-Liverpool forward Salah gets six-month driving ban",
-   "url": "https://www.bbc.co.uk/news/articles/cm2dw27jpy0ko?at_medium=RSS&at_campaign=rss",
+   "one_line": "Manchester United sells Old Trafford pitch cubes for £125 each.",
+   "title": "Man Utd selling Old Trafford turf cubes for £125",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzjedq51lo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Football",
    "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-21T11:32:41+00:00",
+   "category": "Other",
+   "published_at": "2026-09-24T07:08:11+00:00",
    "events": [],
    "teams": []
   },
   {
-   "id": 14,
-   "sport": "cricket",
-   "one_line": "Typhoon rain disrupts training ahead of India-Japan T20I, leaving Sano ground soaked.",
-   "title": "Historic India-Japan T20I under cloud as typhoon rain wrecks training and leaves Sano ground soaked",
-   "url": "https://www.hindustantimes.com/cricket/historic-india-japan-t20i-under-cloud-as-typhoon-rain-wrecks-training-and-leaves-sano-ground-soaked-101789989348584.html",
-   "source": "Hindustan Times Cricket",
-   "also_reported_by": [
-    "CricketAddictor"
+   "id": 709,
+   "sport": "tennis",
+   "one_line": "Alcaraz reflects on US Open loss, missing Sinner, and excitement for Laver Cup.",
+   "title": "'I suffered, but I enjoyed' - Alcaraz on smiling after defeat at 3:34am",
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/cmvgy73zvwx1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Tennis",
+   "also_reported_by": [],
+   "category": "Other",
+   "published_at": "2026-09-24T06:56:50+00:00",
+   "events": [
+    "us-open"
    ],
-   "category": "Preview & Build-up",
-   "published_at": "2026-09-21T11:26:00+00:00",
-   "events": [],
    "teams": []
   },
   {
-   "id": 77,
+   "id": 629,
    "sport": "cricket",
-   "one_line": "Japan will play a friendly T20I against India ahead of the 2026 Asian Games.",
-   "title": "Japan T20I record ahead of India clash: Wins, highest run-scorer, leading wicket-taker & more",
-   "url": "https://cricketaddictor.com/cricket-news/japan-t20i-record-ahead-of-india-clash-wins-highest-run-scorer-leading-wicket-taker-more-464101",
+   "one_line": "Rahane jokes about earnings compared to Tendulkar during podcast with Steve Waugh.",
+   "title": "“Did you make as much money as Sachin Tendulkar?” - Ajinkya Rahane’s hilarious reply to Steve Waugh",
+   "url": "https://cricketaddictor.com/cricket-news/did-you-make-as-much-money-as-sachin-tendulkar-ajinkya-rahanes-hilarious-reply-to-steve-waugh-464199",
    "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Preview & Build-up",
-   "published_at": "2026-09-21T11:18:29+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 193,
-   "sport": "football",
-   "one_line": "Harry Wilson, Nathan Broadhead and Karl Darlow excluded from Wales squad.",
-   "title": "Wilson, Darlow and Broadhead out of Wales squad",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cw8r68mv415lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Selection & Squad",
-   "published_at": "2026-09-21T11:15:06+00:00",
-   "events": [
-    "uefa-nations-league"
-   ],
-   "teams": [
-    "Wales"
-   ]
-  },
-  {
-   "id": 29,
-   "sport": "cricket",
-   "one_line": "Pirates win the 2026 Disability Premier League final against Hawks by four wickets.",
-   "title": "Pirates down Hawks to win second Disability Premier League title",
-   "url": "https://www.wisden.com/club-news/cricket-news/pirates-down-hawks-to-win-second-disability-premier-league-title",
-   "source": "Wisden",
-   "also_reported_by": [],
-   "category": "Match Result",
-   "published_at": "2026-09-21T10:55:00+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 16,
-   "sport": "cricket",
-   "one_line": "Japan players aim to impress in the historic India-Japan tie, despite India's favoritism.",
-   "title": "‘Want to show we can compete’: Japanese players look to impress ahead of historic 75-year tie vs Shreyas Iyer's India",
-   "url": "https://www.hindustantimes.com/cricket/want-to-show-we-can-compete-japanese-players-look-to-impress-ahead-of-historic-75-year-tie-vs-shreyas-iyers-india-101789984375329.html",
-   "source": "Hindustan Times Cricket",
    "also_reported_by": [
-    "CricketAddictor"
+    "Hindustan Times Cricket"
    ],
-   "category": "Preview & Build-up",
-   "published_at": "2026-09-21T10:19:46+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 214,
-   "sport": "football",
-   "one_line": "Explains structure and league membership of upcoming UEFA Nations League.",
-   "title": "How does the Nations League work and who is in each league?",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c9wnkvqxwg8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Series & Tournament",
-   "published_at": "2026-09-21T09:16:51+00:00",
-   "events": [
-    "uefa-nations-league"
-   ],
-   "teams": []
-  },
-  {
-   "id": 183,
-   "sport": "football",
-   "one_line": "Rangers defeat Celtic in Scottish Premiership with first-half goal.",
-   "title": "Rangers beat Celtic again thanks to Naderi goal",
-   "url": "https://www.bbc.co.uk/sport/videos/cwn74pkz6d6xo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Match Result",
-   "published_at": "2026-09-21T09:00:55+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 31,
-   "sport": "cricket",
-   "one_line": "David Bedingham scores twin hundreds in CSA 4-Day Series, aiding Western Province's win.",
-   "title": "1029 county runs, twin hundreds back home: South Africa batter’s Test recall case is hard to ignore",
-   "url": "https://www.wisden.com/cricket-news/1029-county-runs-twin-hundreds-back-home-south-africa-batters-david-bedingham-test-recall-case-is-hard-to-ignore",
-   "source": "Wisden",
-   "also_reported_by": [],
-   "category": "Player Milestone & Record",
-   "published_at": "2026-09-21T08:47:00+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 182,
-   "sport": "football",
-   "one_line": "Highlights all goals scored in Women's Super League matchweek three.",
-   "title": "All the goals from the Women's Super League - matchweek three",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cm0qx2191yxgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Match Result",
-   "published_at": "2026-09-21T08:15:52+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 18,
-   "sport": "cricket",
-   "one_line": "Sanath Jayasuriya urges Indian management to let Vaibhav Sooryavanshi develop independently.",
-   "title": "From one basher to another: Will Sanath Jayasuriya’s views on Vaibhav Sooryavanshi reach Indian team management?",
-   "url": "https://www.hindustantimes.com/cricket/from-one-basher-to-another-will-sanath-jayasuriya-s-views-on-vaibhav-sooryavanshi-reach-indian-team-management-101789977379559.html",
-   "source": "Hindustan Times Cricket",
-   "also_reported_by": [],
-   "category": "Selection & Squad",
-   "published_at": "2026-09-21T08:11:18+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 184,
-   "sport": "football",
-   "one_line": "Highlights include Ayr and Stenhousemuir victories in Scottish lower leagues.",
-   "title": "SPFL highlights: Ayr & Stenhousemuir win as Stranraer make gains",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cm4gj92n5qz8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Match Result",
-   "published_at": "2026-09-21T08:07:31+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 32,
-   "sport": "cricket",
-   "one_line": "Maaz Sadaqat scores 114 in CPL final, but Sufyan Moqim takes four wickets.",
-   "title": "Pakistan sensation hits historic CPL final hundred, but gets overshadowed by national teammate",
-   "url": "https://www.wisden.com/series/caribbean-premier-league-men-2026/cricket-news/pakistan-sensation-maaz-sadaqat-hits-historic-cpl-final-hundred-but-gets-overshadowed-by-national-teammate-sufyan-moqim",
-   "source": "Wisden",
-   "also_reported_by": [],
-   "category": "Player Milestone & Record",
-   "published_at": "2026-09-21T08:03:00+00:00",
+   "category": "Other",
+   "published_at": "2026-09-24T06:30:51+00:00",
    "events": [],
    "teams": []
   },
@@ -1608,19 +1758,6 @@
    "also_reported_by": [],
    "category": "Preview & Build-up",
    "published_at": "2026-09-24T05:05:26+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 235,
-   "sport": "cricket",
-   "one_line": "Ajinkya Rahane compares himself to Sachin Tendulkar in a conversation with Steve Waugh.",
-   "title": "‘Did you make as much money as Sachin?’ Why Ajinkya Rahane reminds Steve Waugh of the great Tendulkar",
-   "url": "https://www.hindustantimes.com/cricket/did-you-make-as-much-money-as-sachin-why-steve-waugh-thinks-ajinkya-rahane-reminds-him-of-the-great-tendulkar-101790223435329.html",
-   "source": "Hindustan Times Cricket",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-24T04:49:20+00:00",
    "events": [],
    "teams": []
   },
@@ -1682,6 +1819,21 @@
    "teams": []
   },
   {
+   "id": 301,
+   "sport": "cricket",
+   "one_line": "Gambhir says Gill benefits from experience of Sharma and Kohli.",
+   "title": "Gautam Gambhir reveals why Shubman Gill is lucky to have Rohit Sharma and Virat Kohli around",
+   "url": "https://cricketaddictor.com/cricket-news/gautam-gambhir-reveals-why-shubman-gill-is-lucky-to-have-rohit-sharma-and-virat-kohli-around-464192",
+   "source": "CricketAddictor",
+   "also_reported_by": [
+    "Hindustan Times Cricket"
+   ],
+   "category": "Other",
+   "published_at": "2026-09-23T18:04:10+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
    "id": 312,
    "sport": "cricket",
    "one_line": "Ashwin warns India about struggles on slow, turning pitches after Japan match.",
@@ -1691,19 +1843,6 @@
    "also_reported_by": [],
    "category": "Other",
    "published_at": "2026-09-23T18:04:08+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 239,
-   "sport": "cricket",
-   "one_line": "Gambhir praises Sharma and Kohli, noting Gill's fortune.",
-   "title": "India head coach Gautam Gambhir appreciates Rohit Sharma and Virat Kohli: ‘Shubman Gill is very fortunate'",
-   "url": "https://www.hindustantimes.com/cricket/india-head-coach-gautam-gambhir-appreciates-rohit-sharma-and-virat-kohli-shubman-gill-is-very-fortunate-101790174825673.html",
-   "source": "Hindustan Times Cricket",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-23T15:04:46+00:00",
    "events": [],
    "teams": []
   },
@@ -1997,21 +2136,6 @@
    "teams": []
   },
   {
-   "id": 274,
-   "sport": "cricket",
-   "one_line": "England and Sri Lanka to play three ODIs after T20I sweep.",
-   "title": "ENG vs SL ODIs, live streaming and TV channels: Where to watch live and match timings for Sri Lanka tour of England",
-   "url": "https://www.wisden.com/series/england-vs-sri-lanka-m-2026/cricket-news/eng-vs-sl-odis-live-streaming-and-tv-channels-where-to-watch-live-and-match-timings-for-sri-lanka-tour-of-england",
-   "source": "Wisden",
-   "also_reported_by": [
-    "CricketAddictor"
-   ],
-   "category": "Series & Tournament",
-   "published_at": "2026-09-22T07:42:00+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
    "id": 370,
    "sport": "football",
    "one_line": "BBC podcast explores Sheffield FC's season at world's oldest club.",
@@ -2090,6 +2214,21 @@
    "teams": []
   },
   {
+   "id": 63,
+   "sport": "cricket",
+   "one_line": "Wet outfield delays toss for India vs Japan T20I at Sano.",
+   "title": "India vs Japan T20I weather update: Toss delayed due to wet outfield at Sano",
+   "url": "https://cricketaddictor.com/cricket-news/india-vs-japan-t20i-weather-update-toss-delayed-due-to-wet-outfield-at-sano-464122",
+   "source": "CricketAddictor",
+   "also_reported_by": [
+    "Hindustan Times Cricket"
+   ],
+   "category": "Preview & Build-up",
+   "published_at": "2026-09-22T04:06:18+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
    "id": 4,
    "sport": "cricket",
    "one_line": "World Cup hero's career took a brutal turn after captaining Sanju Samson and Axar Patel.",
@@ -2142,11 +2281,24 @@
    "teams": []
   },
   {
-   "id": 72,
+   "id": 67,
    "sport": "cricket",
-   "one_line": "Live streaming and weather details for India vs Japan T20I 2026.",
-   "title": "IND vs JPN Playing 11 Today, Live Streaming, Pitch & Weather: India vs Japan T20I 2026",
-   "url": "https://cricketaddictor.com/cricket-news/ind-vs-jpn-playing-11-today-live-streaming-pitch-weather-india-vs-japan-t20i-2026-464110",
+   "one_line": "Fantasy cricket tips and predictions for England vs Sri Lanka 1st ODI.",
+   "title": "ENG vs SL Dream11 Prediction Today Match, Dream11 Team Today, Fantasy Cricket Tips, Playing XI, Pitch Report, Injury Update- Sri Lanka Tour of England 2026, 1st ODI",
+   "url": "https://cricketaddictor.com/cricket-news/eng-vs-sl-dream11-prediction-today-match-dream11-team-today-fantasy-cricket-tips-playing-xi-pitch-report-injury-update-sri-lanka-tour-of-england-2026-1st-odi-464115",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Other",
+   "published_at": "2026-09-21T18:04:26+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 71,
+   "sport": "cricket",
+   "one_line": "Japan urges India to compete ahead of historic T20I match.",
+   "title": "“We want to show we can compete”: Japan warns India ahead of historic T20I",
+   "url": "https://cricketaddictor.com/cricket-news/we-want-to-show-we-can-compete-japan-warns-india-ahead-of-historic-t20i-464113",
    "source": "CricketAddictor",
    "also_reported_by": [],
    "category": "Preview & Build-up",
@@ -2225,37 +2377,47 @@
    "published_at": "2026-09-21T13:30:11+00:00",
    "events": [],
    "teams": []
-  },
-  {
-   "id": 204,
-   "sport": "football",
-   "one_line": "Wrexham owners Reynolds and Mac purchase football pub featured in documentary.",
-   "title": "Wrexham owners Reynolds and Mac buy football pub",
-   "url": "https://www.bbc.co.uk/news/articles/cmd68px6eg6vo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-21T12:06:51+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 181,
-   "sport": "football",
-   "one_line": "Investigates frequency of hat-tricks scored in Premier League defeats.",
-   "title": "How many times has a player scored a hat-trick in a Premier League loss?",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c6e30pz1dkj9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-21T09:05:00+00:00",
-   "events": [
-    "premier-league"
-   ],
-   "teams": []
   }
  ],
  "storylines": [
+  {
+   "first": "2026-09-19",
+   "last": "2026-09-24",
+   "days": 2,
+   "stories": [
+    {
+     "id": 40,
+     "one_line": "Mohammad Farooq hit 14 sixes in a 163-run first-class innings in the President’s Trophy.",
+     "url": "https://www.wisden.com/cricket-news/young-pakistani-opener-breaks-national-first-class-record-with-14-sixes-in-fiery-hundred-mohammad-farooq",
+     "published_at": "2026-09-19T13:02:00+00:00"
+    },
+    {
+     "id": 583,
+     "one_line": "Muhammad Shahzad scored a 49-ball first-class century, breaking a Pakistan legend’s national record.",
+     "url": "https://www.wisden.com/cricket-news/uncapped-22-year-old-muhammad-shahzad-breaks-misbah-ul-haq-pakistan-national-record-with-49-ball-first-class-hundred",
+     "published_at": "2026-09-24T12:06:00+00:00"
+    }
+   ]
+  },
+  {
+   "first": "2026-09-23",
+   "last": "2026-09-24",
+   "days": 2,
+   "stories": [
+    {
+     "id": 260,
+     "one_line": "South Africa hosts Australia for three ODIs in September 2026.",
+     "url": "https://www.wisden.com/series/south-africa-vs-australia-m-2026/cricket-news/south-africa-vs-australia-odis-full-squads-team-news-schedule-and-all-you-need-to-know-for-australia-tour-of-south-africa",
+     "published_at": "2026-09-23T12:36:00+00:00"
+    },
+    {
+     "id": 585,
+     "one_line": "India hosts West Indies for three ODIs, with squads and schedule announced.",
+     "url": "https://www.wisden.com/series/india-vs-west-indies-m-2026/cricket-news/india-vs-west-indies-odis-full-squads-team-news-schedule-and-all-you-need-to-know-for-west-indies-tour-of-india",
+     "published_at": "2026-09-24T08:06:00+00:00"
+    }
+   ]
+  },
   {
    "first": "2026-09-22",
    "last": "2026-09-23",
@@ -2351,7 +2513,6 @@
     322,
     336,
     187,
-    193,
     324,
     329,
     167
@@ -2416,6 +2577,17 @@
    "away": "Denmark",
    "story_ids": [
     321
+   ]
+  },
+  {
+   "scoretab_url": "https://scoretab.in/matches/football/2026-09-25/uefa-nations-league/georgia-vs-northern-ireland/1528881",
+   "sport": "football",
+   "event": "uefa-nations-league",
+   "date": "2026-09-25",
+   "home": "Georgia",
+   "away": "Northern Ireland",
+   "story_ids": [
+    647
    ]
   }
  ]
