@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-25T09:01:53+00:00",
+ "generated_at": "2026-09-25T12:32:37+00:00",
  "about": "Concept feed: source headline + our own one-line summary + link. No article text. Events and matches are read from scoretab.in.",
  "events": [
   {
@@ -13,14 +13,14 @@
    "slug": "friendlies",
    "name": "International Friendlies",
    "sport": "football",
-   "matches_listed": 9,
+   "matches_listed": 6,
    "stories": 1
   },
   {
    "slug": "ifa-shield",
    "name": "IFA Shield",
    "sport": "football",
-   "matches_listed": 2,
+   "matches_listed": 1,
    "stories": 0
   },
   {
@@ -28,14 +28,14 @@
    "name": "La Liga",
    "sport": "football",
    "matches_listed": 0,
-   "stories": 2
+   "stories": 1
   },
   {
    "slug": "premier-league",
    "name": "Premier League",
    "sport": "football",
    "matches_listed": 0,
-   "stories": 7
+   "stories": 8
   },
   {
    "slug": "champions-league",
@@ -48,14 +48,14 @@
    "slug": "chengdu",
    "name": "Chengdu Open",
    "sport": "tennis",
-   "matches_listed": 6,
+   "matches_listed": 4,
    "stories": 0
   },
   {
    "slug": "hangzhou",
    "name": "Hangzhou Open",
    "sport": "tennis",
-   "matches_listed": 10,
+   "matches_listed": 7,
    "stories": 0
   },
   {
@@ -66,17 +66,10 @@
    "stories": 0
   },
   {
-   "slug": "singapore",
-   "name": "Singapore Open",
-   "sport": "tennis",
-   "matches_listed": 3,
-   "stories": 0
-  },
-  {
    "slug": "billie-jean-king-cup",
    "name": "Billie Jean King Cup",
    "sport": "tennis",
-   "matches_listed": 1,
+   "matches_listed": 2,
    "stories": 2
   },
   {
@@ -191,6 +184,32 @@
    "also_reported_by": [],
    "category": "Player Milestone & Record",
    "published_at": "2026-09-23T17:45:20+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 1076,
+   "sport": "cricket",
+   "one_line": "West Indies Cricket Board cuts player fees by 25% and suspends two domestic tournaments.",
+   "title": "West Indies players face 25% pay cut, CWI suspends domestic tournaments as part of cost-cutting measures",
+   "url": "https://www.wisden.com/cricket-news/cricket-west-indies-cuts-player-pay-by-25-suspends-domestic-tournaments-in-sweeping-cost-cutting-measures",
+   "source": "Wisden",
+   "also_reported_by": [],
+   "category": "Series & Tournament",
+   "published_at": "2026-09-25T12:17:00+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 1119,
+   "sport": "cricket",
+   "one_line": "Marco Jansen joins a rare ODI list after an all‑round performance against Australia.",
+   "title": "Marco Jansen joins Sachin Tendulkar in rare ODI list after heroics vs Australia",
+   "url": "https://cricketaddictor.com/cricket-news/marco-jansen-joins-sachin-tendulkar-in-rare-odi-list-after-heroics-vs-australia-464248",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Player Milestone & Record",
+   "published_at": "2026-09-25T10:19:08+00:00",
    "events": [],
    "teams": []
   },
@@ -407,6 +426,140 @@
    "also_reported_by": [],
    "category": "Off-field & Controversy",
    "published_at": "2026-09-22T15:22:04+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 1113,
+   "sport": "cricket",
+   "one_line": "Kevin Pietersen may extend his England white‑ball consultancy into Test cricket after discussion with new coach Stephen Fleming.",
+   "title": "Kevin Pietersen eyes England Test role after discussion with Stephen Fleming",
+   "url": "https://cricketaddictor.com/cricket-news/kevin-pietersen-eyes-england-test-role-after-discussion-with-stephen-fleming-464255",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Selection & Squad",
+   "published_at": "2026-09-25T12:28:32+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 1135,
+   "sport": "football",
+   "one_line": "Premier League joins other European leagues in calling for fundamental FIFA reforms.",
+   "title": "Premier League joins call for Fifa reforms",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cq62k9pzy21do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-25T11:53:25+00:00",
+   "events": [
+    "premier-league"
+   ],
+   "teams": []
+  },
+  {
+   "id": 1114,
+   "sport": "cricket",
+   "one_line": "Australia Women will tour Sri Lanka for a three‑match ODI series in December 2026.",
+   "title": "Australia Women set for historic Sri Lanka tour in December 2026",
+   "url": "https://cricketaddictor.com/cricket-news/australia-women-set-for-historic-sri-lanka-tour-in-december-2026-464254",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Series & Tournament",
+   "published_at": "2026-09-25T11:43:42+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 1115,
+   "sport": "cricket",
+   "one_line": "Rohit Sharma has delivered five notable ODI innings against West Indies.",
+   "title": "Rohit Sharma’s Top 5 iconic ODI knocks against West Indies",
+   "url": "https://cricketaddictor.com/cricket-news/rohit-sharmas-top-5-iconic-odi-knocks-against-west-indies-464252",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Player Milestone & Record",
+   "published_at": "2026-09-25T11:03:46+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 1134,
+   "sport": "football",
+   "one_line": "Jason Knight is first Republic of Ireland player to oppose playing Israel.",
+   "title": "Israel game should not go ahead - Republic of Ireland's Knight",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm750g0zx9weo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-25T10:59:44+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 1116,
+   "sport": "cricket",
+   "one_line": "Cricket Association of Bengal plans a special India tri‑series at Eden Gardens.",
+   "title": "Sourav Ganguly reveals CAB plans for special India tri-series at Eden Gardens",
+   "url": "https://cricketaddictor.com/cricket-news/sourav-ganguly-reveals-cab-plans-for-special-india-tri-series-at-eden-gardens-464251",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Series & Tournament",
+   "published_at": "2026-09-25T10:43:33+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 1188,
+   "sport": "football",
+   "one_line": "September 2026 sees significant signings and departures across Premier League, Scottish Premiership, EFL and Women’s Super League.",
+   "title": "All done deals in September 2026",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-25T10:21:39+00:00",
+   "events": [
+    "premier-league"
+   ],
+   "teams": []
+  },
+  {
+   "id": 1133,
+   "sport": "football",
+   "one_line": "Chelsea faces an FA charge for alleged discriminatory chanting during a win at Fulham.",
+   "title": "Chelsea charged by FA over discriminatory chanting",
+   "url": "https://www.bbc.co.uk/sport/football/articles/crvgyw9qnpl3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-25T10:19:05+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 1120,
+   "sport": "cricket",
+   "one_line": "England and Wales Cricket Board names a 15‑player squad for the 2027 Women’s U19 T20 World Cup.",
+   "title": "England squad announced for 2027 Women’s U19 T20 World Cup",
+   "url": "https://cricketaddictor.com/cricket-news/england-squad-announced-for-2027-womens-u19-t20-world-cup-464249",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Selection & Squad",
+   "published_at": "2026-09-25T10:12:06+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 1192,
+   "sport": "football",
+   "one_line": "Aberdeen lose 500 semi‑final tickets after a pitch invasion and pyrotechnics display by fans.",
+   "title": "Aberdeen lose 500 semi-final tickets after pitch invasion",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cq62jxymr012o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-25T09:47:09+00:00",
    "events": [],
    "teams": []
   },
@@ -1419,7 +1572,9 @@
    "events": [
     "billie-jean-king-cup"
    ],
-   "teams": []
+   "teams": [
+    "Czechia"
+   ]
   },
   {
    "id": 251,
@@ -1525,74 +1680,98 @@
    "events": [
     "billie-jean-king-cup"
    ],
-   "teams": []
+   "teams": [
+    "Czechia"
+   ]
   },
   {
-   "id": 365,
+   "id": 1137,
    "sport": "football",
-   "one_line": "La Liga chief dismisses claims of a refereeing conspiracy against Real Madrid.",
-   "title": "'In another galaxy' - La Liga chief dismisses Real's ref conspiracy claims",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cmvgye6g53l7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-22T12:09:29+00:00",
-   "events": [
-    "la-liga"
-   ],
-   "teams": []
-  },
-  {
-   "id": 363,
-   "sport": "football",
-   "one_line": "Arsenal manager Arteta signs new contract with club.",
-   "title": "Arteta agrees new deal with champions Arsenal",
-   "url": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
+   "one_line": "Southend United boss Kieron Dyer cites his liver transplant anniversary as inspiration for a pre‑match talk.",
+   "title": "Liver transplant anniversary inspired team talk - Southend boss Dyer",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm0e3jvn3rvyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Football",
    "also_reported_by": [],
    "category": "Other",
-   "published_at": "2026-09-22T11:48:23+00:00",
-   "events": [
-    "premier-league"
-   ],
-   "teams": []
-  },
-  {
-   "id": 271,
-   "sport": "cricket",
-   "one_line": "India returns to top of ICC T20I rankings after win over Japan.",
-   "title": "Latest ICC men's T20I rankings: India displace England to reclaim No.1 spot after Japan thriller",
-   "url": "https://www.wisden.com/cricket-news/latest-icc-mens-t20i-rankings-india-displace-england-to-reclaim-no1-spot-after-japan-thriller",
-   "source": "Wisden",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-22T11:19:00+00:00",
+   "published_at": "2026-09-25T11:27:13+00:00",
    "events": [],
    "teams": []
   },
   {
-   "id": 254,
+   "id": 1048,
    "sport": "cricket",
-   "one_line": "India's protest leads to overturned wide call, saving match.",
-   "title": "Shreyas, Axar protest umpire’s call, get decision overturned: How a last-over wide drama saved India the embarrassment",
-   "url": "https://www.hindustantimes.com/cricket/shreyas-axar-protest-umpire-s-call-get-decision-overturned-how-a-last-over-wide-drama-saved-india-the-embarrassment-101790068208861.html",
+   "one_line": "Joe Root recalls watching Sachin Tendulkar, Sourav Ganguly and Rahul Dravid dominate England in 2002.",
+   "title": "Hot on Sachin Tendulkar’s heels, Joe Root remembers master blaster’s 2002 onslaught: ‘It was a great experience’",
+   "url": "https://www.hindustantimes.com/cricket/hot-on-sachin-tendulkar-s-heels-joe-root-remembers-master-blaster-s-2002-onslaught-it-was-a-great-experience-101790331693296.html",
    "source": "Hindustan Times Cricket",
    "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-22T09:20:56+00:00",
+   "category": "Other",
+   "published_at": "2026-09-25T10:45:33+00:00",
    "events": [],
    "teams": []
   },
   {
-   "id": 272,
+   "id": 1117,
    "sport": "cricket",
-   "one_line": "India's protest overturns wide call, securing win over Japan.",
-   "title": "India bully umpire into overturning wide call to avoid shock defeat to Japan",
-   "url": "https://www.wisden.com/cricket-news/india-bully-umpire-into-overturning-wide-call-to-avoid-shock-defeat-to-japan",
-   "source": "Wisden",
+   "one_line": "Malaysia will play Oman in the sixth match of the Asian Games Men’s T20I 2026.",
+   "title": "MAL vs OMN Dream11 Prediction Today Match, Dream11 Team Today, Fantasy Cricket Tips, Playing XI, Pitch Report, Injury Update- Asian Games Men’s T20I 2026, Match 6",
+   "url": "https://cricketaddictor.com/fantasy-cricket/mal-vs-omn-dream11-prediction-today-match-dream11-team-today-fantasy-cricket-tips-playing-xi-pitch-report-injury-update-asian-games-mens-t20i-2026-match-6-464244",
+   "source": "CricketAddictor",
    "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-22T09:05:00+00:00",
+   "category": "Preview & Build-up",
+   "published_at": "2026-09-25T10:39:30+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 1118,
+   "sport": "cricket",
+   "one_line": "Dhruv Jurel says he admires Vaibhav Sooryavanshi’s fearless batting but finds comparison unfair.",
+   "title": "Dhruv Jurel jealous of Vaibhav Sooryavanshi? India star drops honest statement",
+   "url": "https://cricketaddictor.com/cricket-news/dhruv-jurel-jealous-of-vaibhav-sooryavanshi-india-star-drops-honest-statement-464250",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Other",
+   "published_at": "2026-09-25T10:23:22+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 1146,
+   "sport": "football",
+   "one_line": "Paris Saint‑Germain visits Reading for an AI summit, according to Reading’s Head of AI Stuart Fenton.",
+   "title": "Why PSG are visiting League One club Reading for AI summit",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cv62k9k2nwx2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Other",
+   "published_at": "2026-09-25T10:09:03+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 1122,
+   "sport": "cricket",
+   "one_line": "Virender Sehwag supports his son Arjun Tendulkar and others amid father‑son comparisons.",
+   "title": "Virender Sehwag backs Aaryavir, Anvay and Arjun Tendulkar amid father-son comparisons",
+   "url": "https://cricketaddictor.com/cricket-news/virender-sehwag-backs-aaryavir-anvay-and-arjun-tendulkar-amid-father-son-comparisons-464245",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Other",
+   "published_at": "2026-09-25T09:27:18+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 1049,
+   "sport": "cricket",
+   "one_line": "Vijay Dahiya will coach Delhi in the upcoming domestic season, his second stint.",
+   "title": "Former India wicketkeeper batsman Vijay Dahiya to coach Delhi in the upcoming domestic season; it's his second stint",
+   "url": "https://www.hindustantimes.com/cricket/former-india-wicketkeeper-batsman-vijay-dahiya-to-coach-delhi-in-the-upcoming-domestic-season-its-his-second-stint-101790324911694.html",
+   "source": "Hindustan Times Cricket",
+   "also_reported_by": [],
+   "category": "Other",
+   "published_at": "2026-09-25T08:46:46+00:00",
    "events": [],
    "teams": []
   },
@@ -1660,6 +1839,19 @@
    "also_reported_by": [],
    "category": "Preview & Build-up",
    "published_at": "2026-09-25T07:04:36+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 1079,
+   "sport": "cricket",
+   "one_line": "The article questions whether hitting a tree can earn four runs in cricket.",
+   "title": "Hit the tree and get four runs: Is this one of cricket’s strangest rules?",
+   "url": "https://www.wisden.com/cricket-videos/hit-the-tree-and-get-four-runs-is-this-one-of-crickets-strangest-rules",
+   "source": "Wisden",
+   "also_reported_by": [],
+   "category": "Other",
+   "published_at": "2026-09-25T06:45:00+00:00",
    "events": [],
    "teams": []
   },
@@ -2336,6 +2528,25 @@
  ],
  "storylines": [
   {
+   "first": "2026-09-21",
+   "last": "2026-09-25",
+   "days": 2,
+   "stories": [
+    {
+     "id": 68,
+     "one_line": "Fantasy cricket tips and predictions for Sri Lanka vs India women's final.",
+     "url": "https://cricketaddictor.com/cricket-news/sl-vs-ind-dream11-prediction-today-match-dream11-team-today-fantasy-cricket-tips-playing-xi-pitch-report-injury-update-asian-games-womens-t20-2026-final-464111",
+     "published_at": "2026-09-21T18:04:25+00:00"
+    },
+    {
+     "id": 1117,
+     "one_line": "Malaysia will play Oman in the sixth match of the Asian Games Men’s T20I 2026.",
+     "url": "https://cricketaddictor.com/fantasy-cricket/mal-vs-omn-dream11-prediction-today-match-dream11-team-today-fantasy-cricket-tips-playing-xi-pitch-report-injury-update-asian-games-mens-t20i-2026-match-6-464244",
+     "published_at": "2026-09-25T10:39:30+00:00"
+    }
+   ]
+  },
+  {
    "first": "2026-09-23",
    "last": "2026-09-25",
    "days": 2,
@@ -2351,6 +2562,25 @@
      "one_line": "Sanath Jayasuriya supports Rohit Sharma and Virat Kohli to play in India's 2027 ODI World Cup.",
      "url": "https://cricketaddictor.com/cricket-news/sanath-jayasuriya-weighs-in-on-rohit-sharma-virat-kohlis-2027-world-cup-future-464227",
      "published_at": "2026-09-25T05:16:12+00:00"
+    }
+   ]
+  },
+  {
+   "first": "2026-09-23",
+   "last": "2026-09-25",
+   "days": 2,
+   "stories": [
+    {
+     "id": 313,
+     "one_line": "Raina backs Kohli and Sharma for India's 2027 ODI World Cup squad.",
+     "url": "https://cricketaddictor.com/cricket-news/virat-kohli-and-rohit-sharma-get-strong-2027-world-cup-backing-before-west-indies-odis-464174",
+     "published_at": "2026-09-23T18:04:08+00:00"
+    },
+    {
+     "id": 1112,
+     "one_line": "Rohit Sharma and Virat Kohli have strong ODI records against West Indies.",
+     "url": "https://cricketaddictor.com/cricket-news/rohit-sharma-vs-virat-kohli-who-has-better-record-against-west-indies-464226",
+     "published_at": "2026-09-25T05:18:08+00:00"
     }
    ]
   },
@@ -2486,6 +2716,18 @@
    "story_ids": [
     647,
     974
+   ]
+  },
+  {
+   "scoretab_url": "https://scoretab.in/matches/tennis/2026-09-25/billie-jean-king-cup/spain-vs-czechia/17169391",
+   "sport": "tennis",
+   "event": "billie-jean-king-cup",
+   "date": "2026-09-25",
+   "home": "Spain",
+   "away": "Czechia",
+   "story_ids": [
+    387,
+    392
    ]
   },
   {
