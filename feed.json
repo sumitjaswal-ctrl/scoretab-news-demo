@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-09-25T19:22:21+00:00",
+ "generated_at": "2026-09-26T05:18:56+00:00",
  "about": "Concept feed: source headline + our own one-line summary + link. No article text. Events and matches are read from scoretab.in.",
  "events": [
   {
    "slug": "uefa-nations-league",
    "name": "UEFA Nations League",
    "sport": "football",
-   "matches_listed": 21,
+   "matches_listed": 15,
    "stories": 9
   },
   {
    "slug": "friendlies",
    "name": "International Friendlies",
    "sport": "football",
-   "matches_listed": 15,
+   "matches_listed": 14,
    "stories": 1
   },
   {
@@ -62,7 +62,7 @@
    "slug": "seoul",
    "name": "Seoul (Korea Open)",
    "sport": "tennis",
-   "matches_listed": 5,
+   "matches_listed": 2,
    "stories": 0
   },
   {
@@ -840,9 +840,7 @@
    "category": "Preview & Build-up",
    "published_at": "2026-09-25T05:51:22+00:00",
    "events": [],
-   "teams": [
-    "France"
-   ]
+   "teams": []
   },
   {
    "id": 885,
@@ -1443,8 +1441,7 @@
     "friendlies"
    ],
    "teams": [
-    "Denmark",
-    "Ukraine"
+    "Denmark"
    ]
   },
   {
@@ -1676,19 +1673,6 @@
    "teams": [
     "Scotland"
    ]
-  },
-  {
-   "id": 250,
-   "sport": "cricket",
-   "one_line": "Harmanpreet Kaur's era marks India's women's cricket rise from survival to supremacy.",
-   "title": "Harmanpreet Kaur and the making of a winning habit: How India women's cricket travelled from survival to supremacy",
-   "url": "https://www.hindustantimes.com/cricket/harmanpreet-kaur-and-the-making-of-a-winning-habit-how-india-womens-cricket-travelled-from-survival-to-supremacy-101790099416766.html",
-   "source": "Hindustan Times Cricket",
-   "also_reported_by": [],
-   "category": "Player Milestone & Record",
-   "published_at": "2026-09-22T23:44:47+00:00",
-   "events": [],
-   "teams": []
   },
   {
    "id": 1294,
@@ -2518,32 +2502,6 @@
    "published_at": "2026-09-23T05:24:56+00:00",
    "events": [],
    "teams": []
-  },
-  {
-   "id": 386,
-   "sport": "tennis",
-   "one_line": "Emma Raducanu cites Andre Agassi's 2009 book for confidence.",
-   "title": "'Be comfortable in your own identity' - Agassi's advice to Raducanu",
-   "url": "https://www.bbc.co.uk/sport/tennis/articles/cwd08m2x93mpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Tennis",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-23T05:18:54+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 366,
-   "sport": "football",
-   "one_line": "Celtic backs manager Martin O'Neill after a painful week.",
-   "title": "O'Neill receives Celtic backing after 'painful' week",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cmlyq01pzdy8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-22T20:04:25+00:00",
-   "events": [],
-   "teams": []
   }
  ],
  "storylines": [
@@ -2809,28 +2767,6 @@
    "story_ids": [
     826,
     328
-   ]
-  },
-  {
-   "scoretab_url": "https://scoretab.in/matches/football/2026-09-26/uefa-nations-league/turkiye-vs-france/1528882",
-   "sport": "football",
-   "event": "uefa-nations-league",
-   "date": "2026-09-26",
-   "home": "Turkiye",
-   "away": "France",
-   "story_ids": [
-    976
-   ]
-  },
-  {
-   "scoretab_url": "https://scoretab.in/matches/football/2026-09-26/uefa-nations-league/hungary-vs-ukraine/1528884",
-   "sport": "football",
-   "event": "uefa-nations-league",
-   "date": "2026-09-26",
-   "home": "Hungary",
-   "away": "Ukraine",
-   "story_ids": [
-    321
    ]
   },
   {
