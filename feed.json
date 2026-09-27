@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-09-27T12:51:28+00:00",
+ "generated_at": "2026-09-27T20:43:21+00:00",
  "about": "Concept feed: source headline + our own one-line summary + link. No article text. Events and matches are read from scoretab.in.",
  "events": [
   {
    "slug": "uefa-nations-league",
    "name": "UEFA Nations League",
    "sport": "football",
-   "matches_listed": 10,
-   "stories": 11
+   "matches_listed": 9,
+   "stories": 15
   },
   {
    "slug": "ifa-shield",
    "name": "IFA Shield",
    "sport": "football",
-   "matches_listed": 1,
+   "matches_listed": 2,
    "stories": 0
   },
   {
@@ -41,11 +41,67 @@
    "slug": "billie-jean-king-cup",
    "name": "Billie Jean King Cup",
    "sport": "tennis",
-   "matches_listed": 1,
-   "stories": 0
+   "matches_listed": 0,
+   "stories": 1
   }
  ],
  "stories": [
+  {
+   "id": 1998,
+   "sport": "cricket",
+   "one_line": "Kohli becomes fastest to 15,000 ODI runs in first ODI.",
+   "title": "Virat Kohli becomes fastest to reach 15,000 ODI runs in 1st ODI vs West Indies",
+   "url": "https://cricketaddictor.com/cricket-news/virat-kohli-becomes-fastest-to-reach-15000-odi-runs-in-1st-odi-vs-west-indies-464341",
+   "source": "CricketAddictor",
+   "also_reported_by": [
+    "Hindustan Times Cricket"
+   ],
+   "category": "Player Milestone & Record",
+   "published_at": "2026-09-27T18:04:34+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 1999,
+   "sport": "cricket",
+   "one_line": "Gill fastest Indian opener to 3,000 ODI runs in first ODI.",
+   "title": "Shubman Gill becomes fastest Indian opener to smash 3,000 during 1st ODI vs WI",
+   "url": "https://cricketaddictor.com/cricket-news/shubman-gill-becomes-fastest-indian-opener-to-smash-3000-during-1st-odi-vs-wi-464340",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Player Milestone & Record",
+   "published_at": "2026-09-27T18:04:34+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2000,
+   "sport": "cricket",
+   "one_line": "Sharma surpasses Tendulkar record in 200th ODI innings as opener.",
+   "title": "Rohit Sharma breaks Sachin Tendulkar’s record in 200th ODI innings as opener",
+   "url": "https://cricketaddictor.com/cricket-news/rohit-sharma-breaks-sachin-tendulkars-record-in-200th-odi-innings-as-opener-464338",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Player Milestone & Record",
+   "published_at": "2026-09-27T18:04:32+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2014,
+   "sport": "football",
+   "one_line": "Premier League faces uncertainty after a ruling on 115 charges against Manchester City.",
+   "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-27T14:24:46+00:00",
+   "events": [
+    "premier-league"
+   ],
+   "teams": []
+  },
   {
    "id": 1585,
    "sport": "football",
@@ -116,42 +172,74 @@
    "teams": []
   },
   {
-   "id": 783,
-   "sport": "cricket",
-   "one_line": "Kusal Mendis century against England breaks Sanath Jayasuriya ODI record.",
-   "title": "Kusal Mendis century vs England breaks Sanath Jayasuriya ODI record as captain",
-   "url": "https://cricketaddictor.com/cricket-news/kusal-mendis-century-vs-england-breaks-sanath-jayasuriya-odi-record-as-captain-464223",
-   "source": "CricketAddictor",
+   "id": 2016,
+   "sport": "football",
+   "one_line": "Fernandes, Gakpo and Dorgu added to international break injury list.",
+   "title": "Fernandes, Gakpo & Dorgu join international break's injury list",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm0qxknzpn8jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
    "also_reported_by": [],
+   "category": "Injury & Fitness",
+   "published_at": "2026-09-27T19:05:33+00:00",
+   "events": [
+    "uefa-nations-league"
+   ],
+   "teams": []
+  },
+  {
+   "id": 1992,
+   "sport": "cricket",
+   "one_line": "Miller scores 142 against Australia, breaking multiple records.",
+   "title": "David Miller’s 142 vs Australia: All the records broken by South Africa star",
+   "url": "https://cricketaddictor.com/cricket-news/david-millers-142-vs-australia-all-the-records-broken-by-south-africa-star-464346",
+   "source": "CricketAddictor",
+   "also_reported_by": [
+    "Hindustan Times Cricket"
+   ],
    "category": "Player Milestone & Record",
-   "published_at": "2026-09-24T18:18:52+00:00",
+   "published_at": "2026-09-27T18:04:35+00:00",
    "events": [],
    "teams": []
   },
   {
-   "id": 789,
+   "id": 1937,
    "sport": "cricket",
-   "one_line": "Hayley Matthews sets world record in ODI against Zimbabwe.",
-   "title": "Hayley Matthews creates world record against Zimbabwe, joins Virat Kohli and Rohit Sharma in elite list",
-   "url": "https://cricketaddictor.com/cricket-news/hayley-matthews-creates-world-record-against-zimbabwe-joins-virat-kohli-and-rohit-sharma-in-elite-list-464217",
-   "source": "CricketAddictor",
+   "one_line": "England win ODI series with 223‑run victory over Sri Lanka.",
+   "title": "Tom Banton's maiden ton powers England to record Sri Lanka rout as hosts seal ODI series with crushing 223-run win",
+   "url": "https://www.hindustantimes.com/cricket/tom-bantons-maiden-ton-powers-england-to-record-sri-lanka-rout-as-hosts-seal-odi-series-with-crushing-223-run-win-101790530161261.html",
+   "source": "Hindustan Times Cricket",
    "also_reported_by": [],
-   "category": "Player Milestone & Record",
-   "published_at": "2026-09-24T18:04:25+00:00",
+   "category": "Match Result",
+   "published_at": "2026-09-27T17:34:31+00:00",
    "events": [],
    "teams": []
   },
   {
-   "id": 746,
-   "sport": "cricket",
-   "one_line": "Afghanistan debutant takes four wickets and two maidens in Asian Games opener.",
-   "title": "4-8 and two double-wicket maidens: Afghanistan debutant spins his way to national record with stunning spell in Asian Games opener",
-   "url": "https://www.wisden.com/cricket-news/4-8-and-two-double-wicket-maidens-afghanistan-debutant-spins-his-way-to-national-record-with-stunning-spell-in-asian-games-opener",
-   "source": "Wisden",
+   "id": 2065,
+   "sport": "tennis",
+   "one_line": "Zverev's comeback secures Laver Cup win for Team Europe.",
+   "title": "Zverev comeback leads Europe to Laver Cup victory",
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/c3dx0w2rqqzpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Tennis",
    "also_reported_by": [],
-   "category": "Player Milestone & Record",
-   "published_at": "2026-09-24T13:42:00+00:00",
+   "category": "Match Result",
+   "published_at": "2026-09-27T16:55:10+00:00",
    "events": [],
+   "teams": []
+  },
+  {
+   "id": 2066,
+   "sport": "tennis",
+   "one_line": "Czech Republic win the Billie Jean King Cup, defeating Ukraine in the final.",
+   "title": "Czechs beat Ukraine for 12th Billie Jean King Cup title",
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/cqdj4vgxn1g1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Tennis",
+   "also_reported_by": [],
+   "category": "Match Result",
+   "published_at": "2026-09-27T13:57:26+00:00",
+   "events": [
+    "billie-jean-king-cup"
+   ],
    "teams": []
   },
   {
@@ -397,6 +485,233 @@
    "teams": []
   },
   {
+   "id": 2015,
+   "sport": "football",
+   "one_line": "Chelsea show early signs of resurgence in current Women's Super League campaign.",
+   "title": "Chelsea restore resilience - are they title contenders again?",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Preview & Build-up",
+   "published_at": "2026-09-27T19:46:44+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2013,
+   "sport": "football",
+   "one_line": "Denmark defeat Wales 2-0 in Nations League A match.",
+   "title": "Bellamy 'hurting' as Denmark outclass Wales",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqvgyjp3lgv9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Match Result",
+   "published_at": "2026-09-27T19:16:16+00:00",
+   "events": [
+    "uefa-nations-league"
+   ],
+   "teams": []
+  },
+  {
+   "id": 2012,
+   "sport": "football",
+   "one_line": "Ireland and Israel players skip handshakes before Nations League match.",
+   "title": "No handshakes between Republic of Ireland and Israel",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-27T18:58:35+00:00",
+   "events": [
+    "uefa-nations-league"
+   ],
+   "teams": [
+    "Hungary"
+   ]
+  },
+  {
+   "id": 2032,
+   "sport": "football",
+   "one_line": "Birmingham draw Crystal Palace 1-1 after late equaliser.",
+   "title": "Late goal helps Birmingham snatch Palace draw in six-goal thriller",
+   "url": "https://www.bbc.co.uk/sport/football/videos/ckx2zq7elpgwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Match Result",
+   "published_at": "2026-09-27T18:51:44+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2031,
+   "sport": "football",
+   "one_line": "Tottenham win 4-0 against Aston Villa, stay unbeaten.",
+   "title": "Tottenham put four past Villa to continue their brilliant start to the season",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cjr4vyrxql9ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Match Result",
+   "published_at": "2026-09-27T18:50:00+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2030,
+   "sport": "football",
+   "one_line": "Liverpool beat Everton in Merseyside derby, ending five‑home‑defeat streak.",
+   "title": "Swedish duo help Liverpool to derby win over Everton",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c65ywngpw59yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Match Result",
+   "published_at": "2026-09-27T18:49:13+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 1994,
+   "sport": "cricket",
+   "one_line": "India win 8 wickets over West Indies, Hope blames middle order.",
+   "title": "Shai Hope blames West Indies middle order after 8-wicket loss to India",
+   "url": "https://cricketaddictor.com/cricket-news/shai-hope-blames-west-indies-middle-order-after-8-wicket-loss-to-india-464344",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Match Result",
+   "published_at": "2026-09-27T18:04:35+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 1995,
+   "sport": "cricket",
+   "one_line": "Gill comments on India's 8‑wicket ODI win over West Indies.",
+   "title": "'He’s enjoying the game a lot more': Shubman Gill opens up on Virat Kohli’s amazing ODI form",
+   "url": "https://cricketaddictor.com/cricket-news/hes-enjoying-the-game-a-lot-more-shubman-gill-opens-up-on-virat-kohlis-amazing-odi-form-464343",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Match Result",
+   "published_at": "2026-09-27T18:04:34+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2001,
+   "sport": "cricket",
+   "one_line": "Keemo Paul misses catch, Gill survives on 11 runs in first ODI.",
+   "title": "Shubman Gill survives as Keemo Paul drops India captain on 11 runs in 1st ODI",
+   "url": "https://cricketaddictor.com/cricket-news/shubman-gill-survives-as-keemo-paul-drops-india-captain-on-11-runs-in-1st-odi-464337",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Match Result",
+   "published_at": "2026-09-27T18:04:32+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2002,
+   "sport": "cricket",
+   "one_line": "West Indies achieve century stand, India suffer in first ODI.",
+   "title": "Justin Greaves, John Campbell create history with century stand as Shubman Gill's India suffer in 1st ODI",
+   "url": "https://cricketaddictor.com/cricket-news/justin-greaves-john-campbell-create-history-with-century-stand-as-shubman-gills-india-suffer-in-1st-odi-464336",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Match Result",
+   "published_at": "2026-09-27T18:04:32+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2003,
+   "sport": "cricket",
+   "one_line": "Karthik explains Sharma's potential role in India's 2027 World Cup plans.",
+   "title": "Dinesh Karthik reveals why Rohit Sharma could be crucial for India at 2027 World Cup",
+   "url": "https://cricketaddictor.com/cricket-news/dinesh-karthik-reveals-why-rohit-sharma-could-be-crucial-for-india-at-2027-world-cup-464335",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Selection & Squad",
+   "published_at": "2026-09-27T18:04:32+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2029,
+   "sport": "football",
+   "one_line": "Manchester United win first Women's Super League match against West Ham.",
+   "title": "Man Utd bag their first win of the season against West Ham",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cm9qrzlqyz58o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Match Result",
+   "published_at": "2026-09-27T18:03:59+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 1962,
+   "sport": "cricket",
+   "one_line": "ICC ODI rankings updated after Sunday triple‑header, England and Sri Lanka swapped.",
+   "title": "Latest ICC men's ODI team rankings: Updated table after Sunday's triple-header",
+   "url": "https://www.wisden.com/series/england-vs-sri-lanka-m-2026/cricket-news/latest-icc-mens-odi-team-rankings-updated-table-after-sundays-triple-header",
+   "source": "Wisden",
+   "also_reported_by": [],
+   "category": "Series & Tournament",
+   "published_at": "2026-09-27T17:00:00+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 1940,
+   "sport": "cricket",
+   "one_line": "India chase 296, win first ODI over West Indies.",
+   "title": "First ODI: Kohli, Gill tons ace the chase after Kuldeep’s 4-for",
+   "url": "https://www.hindustantimes.com/cricket/first-odi-kohli-gill-tons-ace-the-chase-after-kuldeep-s-4for-101790527551579.html",
+   "source": "Hindustan Times Cricket",
+   "also_reported_by": [],
+   "category": "Match Result",
+   "published_at": "2026-09-27T16:45:51+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 1963,
+   "sport": "cricket",
+   "one_line": "The Blaze win the domestic treble after edging Hampshire in a last‑ball thriller.",
+   "title": "Blaze complete domestic treble, county transfers & Katie George on her batting transformation",
+   "url": "https://www.wisden.com/cricket-news/blaze-complete-domestic-treble-county-transfers-katie-george-on-her-batting-transformation",
+   "source": "Wisden",
+   "also_reported_by": [],
+   "category": "Series & Tournament",
+   "published_at": "2026-09-27T16:11:00+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 1942,
+   "sport": "cricket",
+   "one_line": "Ravi Shastri reacts angrily to a selector's alleged desire to remove Rohit Sharma and Virat Kohli.",
+   "title": "‘Pissed off’ Ravi Shastri launches into emotional outburst: ‘People who want to take Rohit, Kohli out might disappear’",
+   "url": "https://www.hindustantimes.com/cricket/pissed-off-ravi-shastri-launches-into-emotional-outburst-people-who-want-to-take-rohit-kohli-out-might-disappear-101790518408723.html",
+   "source": "Hindustan Times Cricket",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-27T14:23:13+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 1943,
+   "sport": "cricket",
+   "one_line": "Kuldeep Yadav's 4/40 against West Indies highlights India's selection paradox.",
+   "title": "Too good to ignore, too easy to drop: Kuldeep Yadav's West Indies spell exposes India's recurring selection paradox",
+   "url": "https://www.hindustantimes.com/cricket/too-good-to-ignore-too-easy-to-drop-kuldeep-yadavs-west-indies-spell-exposes-indias-recurring-selection-paradox-101790518304712.html",
+   "source": "Hindustan Times Cricket",
+   "also_reported_by": [],
+   "category": "Selection & Squad",
+   "published_at": "2026-09-27T14:20:42+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
    "id": 1922,
    "sport": "football",
    "one_line": "Switzerland say they compensated for Xhaka and Embolo before facing Scotland after a 3‑0 win.",
@@ -421,22 +736,6 @@
    "published_at": "2026-09-27T12:31:22+00:00",
    "events": [],
    "teams": []
-  },
-  {
-   "id": 1889,
-   "sport": "football",
-   "one_line": "Craig Bellamy scored Wales' 1998 winner against Denmark.",
-   "title": "Bellamy scores 1998 winner for Wales against Denmark",
-   "url": "https://www.bbc.co.uk/sport/football/videos/c9vgyr4k2k0xo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Match Result",
-   "published_at": "2026-09-27T12:28:36+00:00",
-   "events": [],
-   "teams": [
-    "Denmark",
-    "Wales"
-   ]
   },
   {
    "id": 1815,
@@ -490,7 +789,9 @@
    "category": "Injury & Fitness",
    "published_at": "2026-09-27T11:26:42+00:00",
    "events": [],
-   "teams": []
+   "teams": [
+    "Sweden"
+   ]
   },
   {
    "id": 1868,
@@ -625,21 +926,6 @@
    "teams": []
   },
   {
-   "id": 1798,
-   "sport": "cricket",
-   "one_line": "Live score updates for India's 1st ODI against West Indies.",
-   "title": "India vs West Indies Live Score 1st ODI: Rohit Sharma, Virat Kohli with a task ahead as IND chase 296",
-   "url": "https://www.hindustantimes.com/cricket/ind-vs-wi-live-cricket-score-india-vs-west-indies-1st-odi-updates-today-27-september-latest-scorecard-101790475243988.html",
-   "source": "Hindustan Times Cricket",
-   "also_reported_by": [
-    "CricketAddictor"
-   ],
-   "category": "Match Result",
-   "published_at": "2026-09-27T07:00:19+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
    "id": 1867,
    "sport": "football",
    "one_line": "Tony Pulis comments on Stoke fans' reaction to Manchester City's disciplinary case.",
@@ -713,19 +999,6 @@
    "source": "CricketAddictor",
    "also_reported_by": [],
    "category": "Selection & Squad",
-   "published_at": "2026-09-26T18:04:27+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1564,
-   "sport": "cricket",
-   "one_line": "Shai Hope believes West Indies can challenge India in the upcoming ODI series.",
-   "title": "Shai Hope confident West Indies can challenge India in ODI series",
-   "url": "https://cricketaddictor.com/cricket-news/shai-hope-confident-west-indies-can-challenge-india-in-odi-series-464301",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Preview & Build-up",
    "published_at": "2026-09-26T18:04:27+00:00",
    "events": [],
    "teams": []
@@ -835,22 +1108,6 @@
    "teams": []
   },
   {
-   "id": 1584,
-   "sport": "football",
-   "one_line": "Ireland players will wear black armbands for the Israel match.",
-   "title": "Republic of Ireland to wear black armbands for Israel game",
-   "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-26T14:58:44+00:00",
-   "events": [],
-   "teams": [
-    "Israel",
-    "Rep of Ireland"
-   ]
-  },
-  {
    "id": 1602,
    "sport": "football",
    "one_line": "Man City won narrowly against Charlton in the Women's Super League.",
@@ -929,7 +1186,8 @@
     "uefa-nations-league"
    ],
    "teams": [
-    "Georgia"
+    "Georgia",
+    "Northern Ireland"
    ]
   },
   {
@@ -1029,7 +1287,8 @@
     "uefa-nations-league"
    ],
    "teams": [
-    "Georgia"
+    "Georgia",
+    "Northern Ireland"
    ]
   },
   {
@@ -1046,7 +1305,8 @@
     "uefa-nations-league"
    ],
    "teams": [
-    "Georgia"
+    "Georgia",
+    "Northern Ireland"
    ]
   },
   {
@@ -1165,6 +1425,19 @@
    "also_reported_by": [],
    "category": "Player Milestone & Record",
    "published_at": "2026-09-25T11:03:46+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 1134,
+   "sport": "football",
+   "one_line": "Jason Knight is first Republic of Ireland player to oppose playing Israel.",
+   "title": "Israel game should not go ahead - Republic of Ireland's Knight",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm750g0zx9weo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-25T10:59:44+00:00",
    "events": [],
    "teams": []
   },
@@ -1389,7 +1662,9 @@
    "category": "Preview & Build-up",
    "published_at": "2026-09-25T05:51:22+00:00",
    "events": [],
-   "teams": []
+   "teams": [
+    "France"
+   ]
   },
   {
    "id": 885,
@@ -1401,6 +1676,19 @@
    "also_reported_by": [],
    "category": "Off-field & Controversy",
    "published_at": "2026-09-25T05:48:45+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 960,
+   "sport": "cricket",
+   "one_line": "Sanath Jayasuriya supports Rohit Sharma and Virat Kohli to play in India's 2027 ODI World Cup.",
+   "title": "Sanath Jayasuriya weighs in on Rohit Sharma, Virat Kohli’s 2027 World Cup future",
+   "url": "https://cricketaddictor.com/cricket-news/sanath-jayasuriya-weighs-in-on-rohit-sharma-virat-kohlis-2027-world-cup-future-464227",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Selection & Squad",
+   "published_at": "2026-09-25T05:16:12+00:00",
    "events": [],
    "teams": []
   },
@@ -1458,10 +1746,7 @@
    "events": [
     "uefa-nations-league"
    ],
-   "teams": [
-    "Israel",
-    "Rep of Ireland"
-   ]
+   "teams": []
   },
   {
    "id": 989,
@@ -1477,100 +1762,19 @@
     "uefa-nations-league"
    ],
    "teams": [
-    "Portugal",
-    "Wales"
+    "Portugal"
    ]
   },
   {
-   "id": 788,
+   "id": 1939,
    "sport": "cricket",
-   "one_line": "Gautam Gambhir explains dropping Sanju Samson from England T20I squad.",
-   "title": "Gautam Gambhir explains why he dropped Sanju Samson in England",
-   "url": "https://cricketaddictor.com/cricket-news/gautam-gambhir-explains-why-he-dropped-sanju-samson-in-england-464218",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Selection & Squad",
-   "published_at": "2026-09-24T18:04:25+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 791,
-   "sport": "cricket",
-   "one_line": "Nicholas Pooran named captain and icon player for Royal Desert Champions.",
-   "title": "Nicholas Pooran joins Royal Desert Champions as captain and icon player",
-   "url": "https://cricketaddictor.com/cricket-news/nicholas-pooran-joins-royal-desert-champions-as-captain-and-icon-player-464215",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Selection & Squad",
-   "published_at": "2026-09-24T18:04:05+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 793,
-   "sport": "cricket",
-   "one_line": "Babar Azam registers for upcoming ILT20 auction.",
-   "title": "Babar Azam set to make ILT20 debut after registering for auction",
-   "url": "https://cricketaddictor.com/cricket-news/babar-azam-set-to-make-ilt20-debut-after-registering-for-auction-464212",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Selection & Squad",
-   "published_at": "2026-09-24T18:04:05+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 808,
-   "sport": "football",
-   "one_line": "Premier League seeks agreement with EFL over funding model.",
-   "title": "Premier League keen to resolve EFL funding stalemate",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cmly4qkly434o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-24T17:52:44+00:00",
-   "events": [
-    "premier-league"
-   ],
-   "teams": []
-  },
-  {
-   "id": 719,
-   "sport": "cricket",
-   "one_line": "Matthew Breetzke scores 112 as South Africa defeats Australia in Durban.",
-   "title": "Matthew Breetzke's 112 powers South Africa past Australia after tourists collapse spectacularly in Durban",
-   "url": "https://www.hindustantimes.com/cricket/matthew-breetzkes-112-powers-south-africa-past-australia-after-tourists-collapse-spectacularly-in-durban-101790268522502.html",
+   "one_line": "Kohli discusses his approach to cricket longevity.",
+   "title": "‘I have never been a guy who practised a lot’: Virat Kohli's unfazed admission after another masterclass against WI",
+   "url": "https://www.hindustantimes.com/cricket/i-have-never-been-a-guy-who-practised-a-lot-virat-kohlis-unfazed-admission-after-another-masterclass-against-wi-101790526134760.html",
    "source": "Hindustan Times Cricket",
    "also_reported_by": [],
-   "category": "Match Result",
-   "published_at": "2026-09-24T16:54:32+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 820,
-   "sport": "football",
-   "one_line": "Emily Fox signs three-year contract with Arsenal.",
-   "title": "Fox makes 'easy decision' to sign three-year Arsenal deal",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c046lgw20nno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Selection & Squad",
-   "published_at": "2026-09-24T12:59:44+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 721,
-   "sport": "cricket",
-   "one_line": "Jayasuriya supports Rohit Sharma and Virat Kohli for 2027 ODI World Cup.",
-   "title": "‘Lot of things to learn from experienced players’: Jayasuriya backs Rohit-Virat to play 2027 ODI World Cup",
-   "url": "https://www.hindustantimes.com/cricket/lot-of-things-to-learn-from-experienced-players-jayasuriya-backs-rohit-virat-to-play-2027-odi-world-cup-101790254468947.html",
-   "source": "Hindustan Times Cricket",
-   "also_reported_by": [],
-   "category": "Selection & Squad",
-   "published_at": "2026-09-24T12:57:09+00:00",
+   "category": "Other",
+   "published_at": "2026-09-27T16:55:32+00:00",
    "events": [],
    "teams": []
   },
@@ -1791,6 +1995,21 @@
    "teams": []
   },
   {
+   "id": 1729,
+   "sport": "football",
+   "one_line": "Craig Bellamy looks to add to his history against Denmark in the Nations League.",
+   "title": "Bellamy eyes more history against wounded Denmark",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmeq88152w8go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Preview & Build-up",
+   "published_at": "2026-09-26T20:17:02+00:00",
+   "events": [
+    "uefa-nations-league"
+   ],
+   "teams": []
+  },
+  {
    "id": 1562,
    "sport": "cricket",
    "one_line": "Wasim Akram criticises the Pakistan Super League for its length and quality.",
@@ -1884,6 +2103,19 @@
    "teams": []
   },
   {
+   "id": 1567,
+   "sport": "cricket",
+   "one_line": "India stars praised Kohli and Sharma in the dressing room before the series.",
+   "title": "Virat Kohli and Rohit Sharma get big dressing-room praise from India stars",
+   "url": "https://cricketaddictor.com/cricket-news/virat-kohli-and-rohit-sharma-get-big-dressing-room-praise-from-india-stars-464298",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-26T14:33:39+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
    "id": 1587,
    "sport": "football",
    "one_line": "Mohamed Salah omitted from Egypt's match against South Sudan due to artificial turf.",
@@ -1937,9 +2169,7 @@
    "events": [
     "uefa-nations-league"
    ],
-   "teams": [
-    "Wales"
-   ]
+   "teams": []
   },
   {
    "id": 1599,
@@ -2175,7 +2405,9 @@
    "category": "Preview & Build-up",
    "published_at": "2026-09-25T07:49:25+00:00",
    "events": [],
-   "teams": []
+   "teams": [
+    "Northern Ireland"
+   ]
   },
   {
    "id": 973,
@@ -2310,8 +2542,7 @@
     "uefa-nations-league"
    ],
    "teams": [
-    "Portugal",
-    "Wales"
+    "Portugal"
    ]
   },
   {
@@ -2337,45 +2568,6 @@
    "also_reported_by": [],
    "category": "Selection & Squad",
    "published_at": "2026-09-24T21:40:37+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 988,
-   "sport": "football",
-   "one_line": "Chelsea target Alex Scott, Bayern eye Dani Olmo, Bellingham denies City interest.",
-   "title": "Chelsea lead race for Scott - Friday's gossip",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c6eq8eygy4e5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-24T20:16:58+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 790,
-   "sport": "cricket",
-   "one_line": "Leicestershire appeals 27-point deduction and fine for Glamorgan pitch.",
-   "title": "Leicestershire take action after 27-point deduction over Glamorgan pitch",
-   "url": "https://cricketaddictor.com/cricket-news/leicestershire-take-action-after-27-point-deduction-over-glamorgan-pitch-464216",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-24T18:04:17+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 816,
-   "sport": "football",
-   "one_line": "Bradford City allows Preston to speak with manager Graham Alexander.",
-   "title": "Bradford 'reluctantly' let Preston talk to Alexander",
-   "url": "https://www.bbc.co.uk/sport/football/articles/ckzdzm01ymdzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-24T14:47:00+00:00",
    "events": [],
    "teams": []
   }
@@ -2456,6 +2648,37 @@
    ]
   },
   {
+   "first": "2026-09-25",
+   "last": "2026-09-27",
+   "days": 3,
+   "stories": [
+    {
+     "id": 957,
+     "one_line": "West Indies players face 25% pay cut before India series.",
+     "url": "https://cricketaddictor.com/cricket-news/west-indies-cricketers-hit-with-25-pay-cut-ahead-of-india-series-464231",
+     "published_at": "2026-09-25T06:27:26+00:00"
+    },
+    {
+     "id": 1510,
+     "one_line": "Yashasvi Jaiswal must wait for opening role in India ODIs.",
+     "url": "https://www.hindustantimes.com/cricket/yashasvi-jaiswal-will-have-to-wait-india-team-management-clear-ahead-of-the-first-odi-against-the-west-indies-at-kerala-101790421846625.html",
+     "published_at": "2026-09-26T11:43:51+00:00"
+    },
+    {
+     "id": 1564,
+     "one_line": "Shai Hope believes West Indies can challenge India in the upcoming ODI series.",
+     "url": "https://cricketaddictor.com/cricket-news/shai-hope-confident-west-indies-can-challenge-india-in-odi-series-464301",
+     "published_at": "2026-09-26T18:04:27+00:00"
+    },
+    {
+     "id": 1994,
+     "one_line": "India win 8 wickets over West Indies, Hope blames middle order.",
+     "url": "https://cricketaddictor.com/cricket-news/shai-hope-blames-west-indies-middle-order-after-8-wicket-loss-to-india-464344",
+     "published_at": "2026-09-27T18:04:35+00:00"
+    }
+   ]
+  },
+  {
    "first": "2026-09-23",
    "last": "2026-09-27",
    "days": 3,
@@ -2477,6 +2700,31 @@
      "one_line": "Live score updates for India's 1st ODI against West Indies.",
      "url": "https://www.hindustantimes.com/cricket/ind-vs-wi-live-cricket-score-india-vs-west-indies-1st-odi-updates-today-27-september-latest-scorecard-101790475243988.html",
      "published_at": "2026-09-27T07:00:19+00:00"
+    }
+   ]
+  },
+  {
+   "first": "2026-09-25",
+   "last": "2026-09-27",
+   "days": 3,
+   "stories": [
+    {
+     "id": 1270,
+     "one_line": "Shubman Gill sustained an injury during practice ahead of the first ODI against West Indies.",
+     "url": "https://cricketaddictor.com/cricket-news/shubman-gill-suffers-injury-scare-ahead-of-india-vs-west-indies-1st-odi-464259",
+     "published_at": "2026-09-25T18:04:22+00:00"
+    },
+    {
+     "id": 1417,
+     "one_line": "Shubman Gill suffered a major elbow injury before the first West Indies ODI on September 27.",
+     "url": "https://cricketaddictor.com/cricket-news/shubman-gill-injury-update-will-india-captain-play-1st-west-indies-odi-464267",
+     "published_at": "2026-09-26T05:10:05+00:00"
+    },
+    {
+     "id": 1993,
+     "one_line": "India win first ODI 8 wickets over West Indies, Kohli comments.",
+     "url": "https://cricketaddictor.com/cricket-news/virat-kohli-makes-big-shubman-gill-revelation-after-indias-8-wicket-win-over-west-indies-464347",
+     "published_at": "2026-09-27T18:04:36+00:00"
     }
    ]
   },
@@ -2512,31 +2760,6 @@
    ]
   },
   {
-   "first": "2026-09-25",
-   "last": "2026-09-26",
-   "days": 2,
-   "stories": [
-    {
-     "id": 957,
-     "one_line": "West Indies players face 25% pay cut before India series.",
-     "url": "https://cricketaddictor.com/cricket-news/west-indies-cricketers-hit-with-25-pay-cut-ahead-of-india-series-464231",
-     "published_at": "2026-09-25T06:27:26+00:00"
-    },
-    {
-     "id": 1510,
-     "one_line": "Yashasvi Jaiswal must wait for opening role in India ODIs.",
-     "url": "https://www.hindustantimes.com/cricket/yashasvi-jaiswal-will-have-to-wait-india-team-management-clear-ahead-of-the-first-odi-against-the-west-indies-at-kerala-101790421846625.html",
-     "published_at": "2026-09-26T11:43:51+00:00"
-    },
-    {
-     "id": 1564,
-     "one_line": "Shai Hope believes West Indies can challenge India in the upcoming ODI series.",
-     "url": "https://cricketaddictor.com/cricket-news/shai-hope-confident-west-indies-can-challenge-india-in-odi-series-464301",
-     "published_at": "2026-09-26T18:04:27+00:00"
-    }
-   ]
-  },
-  {
    "first": "2026-09-21",
    "last": "2026-09-26",
    "days": 2,
@@ -2552,44 +2775,6 @@
      "one_line": "India will play the West Indies in the first ODI of their series on September 27.",
      "url": "https://cricketaddictor.com/cricket-news/ind-vs-wi-playing-11-today-live-streaming-pitch-weather-india-vs-west-indies-1st-odi-2026-464228",
      "published_at": "2026-09-26T02:30:24+00:00"
-    }
-   ]
-  },
-  {
-   "first": "2026-09-25",
-   "last": "2026-09-26",
-   "days": 2,
-   "stories": [
-    {
-     "id": 1134,
-     "one_line": "Jason Knight is first Republic of Ireland player to oppose playing Israel.",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cm750g0zx9weo?at_medium=RSS&at_campaign=rss",
-     "published_at": "2026-09-25T10:59:44+00:00"
-    },
-    {
-     "id": 1584,
-     "one_line": "Ireland players will wear black armbands for the Israel match.",
-     "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
-     "published_at": "2026-09-26T14:58:44+00:00"
-    }
-   ]
-  },
-  {
-   "first": "2026-09-25",
-   "last": "2026-09-26",
-   "days": 2,
-   "stories": [
-    {
-     "id": 1270,
-     "one_line": "Shubman Gill sustained an injury during practice ahead of the first ODI against West Indies.",
-     "url": "https://cricketaddictor.com/cricket-news/shubman-gill-suffers-injury-scare-ahead-of-india-vs-west-indies-1st-odi-464259",
-     "published_at": "2026-09-25T18:04:22+00:00"
-    },
-    {
-     "id": 1417,
-     "one_line": "Shubman Gill suffered a major elbow injury before the first West Indies ODI on September 27.",
-     "url": "https://cricketaddictor.com/cricket-news/shubman-gill-injury-update-will-india-captain-play-1st-west-indies-odi-464267",
-     "published_at": "2026-09-26T05:10:05+00:00"
     }
    ]
   },
@@ -2716,29 +2901,31 @@
  ],
  "matches_with_news": [
   {
-   "scoretab_url": "https://scoretab.in/matches/football/2026-09-27/uefa-nations-league/denmark-vs-wales/1528897",
+   "scoretab_url": "https://scoretab.in/matches/football/2026-09-29/uefa-nations-league/northern-ireland-vs-hungary/1528906",
    "sport": "football",
    "event": "uefa-nations-league",
-   "date": "2026-09-27",
-   "home": "Denmark",
-   "away": "Wales",
+   "date": "2026-09-29",
+   "home": "Northern Ireland",
+   "away": "Hungary",
    "story_ids": [
-    1889,
-    989,
-    1595,
-    969
+    2012,
+    1596,
+    1458,
+    1445,
+    974
    ]
   },
   {
-   "scoretab_url": "https://scoretab.in/matches/football/2026-09-28/uefa-nations-league/israel-vs-rep-of-ireland/1528901",
+   "scoretab_url": "https://scoretab.in/matches/football/2026-09-28/uefa-nations-league/georgia-vs-ukraine/1528902",
    "sport": "football",
    "event": "uefa-nations-league",
    "date": "2026-09-28",
-   "home": "Israel",
-   "away": "Rep of Ireland",
+   "home": "Georgia",
+   "away": "Ukraine",
    "story_ids": [
-    1584,
-    986
+    1596,
+    1458,
+    1445
    ]
   },
   {
@@ -2755,16 +2942,25 @@
    ]
   },
   {
-   "scoretab_url": "https://scoretab.in/matches/football/2026-09-28/uefa-nations-league/georgia-vs-ukraine/1528902",
+   "scoretab_url": "https://scoretab.in/matches/football/2026-09-29/uefa-nations-league/belgium-vs-france/1528904",
    "sport": "football",
    "event": "uefa-nations-league",
-   "date": "2026-09-28",
-   "home": "Georgia",
-   "away": "Ukraine",
+   "date": "2026-09-29",
+   "home": "Belgium",
+   "away": "France",
    "story_ids": [
-    1596,
-    1458,
-    1445
+    976
+   ]
+  },
+  {
+   "scoretab_url": "https://scoretab.in/matches/football/2026-09-29/uefa-nations-league/sweden-vs-poland/1528907",
+   "sport": "football",
+   "event": "uefa-nations-league",
+   "date": "2026-09-29",
+   "home": "Sweden",
+   "away": "Poland",
+   "story_ids": [
+    1881
    ]
   }
  ]
