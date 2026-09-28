@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T05:34:06+00:00",
+ "generated_at": "2026-09-28T12:33:12+00:00",
  "about": "Concept feed: source headline + our own one-line summary + link. No article text. Events and matches are read from scoretab.in.",
  "events": [
   {
@@ -7,13 +7,13 @@
    "name": "UEFA Nations League",
    "sport": "football",
    "matches_listed": 8,
-   "stories": 12
+   "stories": 15
   },
   {
    "slug": "ifa-shield",
    "name": "IFA Shield",
    "sport": "football",
-   "matches_listed": 2,
+   "matches_listed": 1,
    "stories": 0
   },
   {
@@ -21,20 +21,20 @@
    "name": "Premier League",
    "sport": "football",
    "matches_listed": 0,
-   "stories": 12
+   "stories": 11
   },
   {
    "slug": "chengdu",
    "name": "Chengdu Open",
    "sport": "tennis",
-   "matches_listed": 3,
+   "matches_listed": 2,
    "stories": 0
   },
   {
    "slug": "hangzhou",
    "name": "Hangzhou Open",
    "sport": "tennis",
-   "matches_listed": 3,
+   "matches_listed": 2,
    "stories": 0
   },
   {
@@ -47,6 +47,19 @@
  ],
  "stories": [
   {
+   "id": 2266,
+   "sport": "cricket",
+   "one_line": "Pakistan champions barred from participating in WCL 2026 due to India‑Pakistan tension.",
+   "title": "India-Pakistan tension impacts WCL 2026 as Pakistan Champions removed",
+   "url": "https://cricketaddictor.com/cricket-news/india-pakistan-tension-impacts-wcl-2026-as-pakistan-champions-removed-464380",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-28T12:24:40+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
    "id": 1998,
    "sport": "cricket",
    "one_line": "Kohli becomes fastest to 15,000 ODI runs in first ODI.",
@@ -54,7 +67,8 @@
    "url": "https://cricketaddictor.com/cricket-news/virat-kohli-becomes-fastest-to-reach-15000-odi-runs-in-1st-odi-vs-west-indies-464341",
    "source": "CricketAddictor",
    "also_reported_by": [
-    "Hindustan Times Cricket"
+    "Hindustan Times Cricket",
+    "Wisden"
    ],
    "category": "Player Milestone & Record",
    "published_at": "2026-09-27T18:04:34+00:00",
@@ -146,15 +160,56 @@
    "teams": []
   },
   {
-   "id": 956,
+   "id": 2297,
+   "sport": "football",
+   "one_line": "FAI is gathering evidence of alleged racist abuse involving Idah.",
+   "title": "FAI investigates alleged racist abuse of Idah",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cx4gq167288lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-28T12:17:49+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2267,
    "sport": "cricket",
-   "one_line": "Jos Buttler becomes first England player to reach 10,000 ODI and T20I runs.",
-   "title": "Jos Buttler scripts history with 10,000-run milestone for England",
-   "url": "https://cricketaddictor.com/cricket-news/jos-buttler-scripts-history-with-10000-run-milestone-for-england-464232",
+   "one_line": "Karthik praised Kohli’s legacy and warned about pressure to reach 100 centuries.",
+   "title": "Dinesh Karthik hails Virat Kohli’s legacy, warns over 100-century pressure",
+   "url": "https://cricketaddictor.com/cricket-news/dinesh-karthik-hails-virat-kohlis-legacy-warns-over-100-century-pressure-464379",
    "source": "CricketAddictor",
    "also_reported_by": [],
    "category": "Player Milestone & Record",
-   "published_at": "2026-09-25T06:37:54+00:00",
+   "published_at": "2026-09-28T11:52:53+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2268,
+   "sport": "cricket",
+   "one_line": "Buttler is ruled out of Pakistan tour due to hamstring injury.",
+   "title": "Jos Buttler ruled out of Pakistan tour, doubtful for Australia series",
+   "url": "https://cricketaddictor.com/cricket-news/jos-buttler-ruled-out-of-pakistan-tour-doubtful-for-australia-series-464378",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Injury & Fitness",
+   "published_at": "2026-09-28T11:43:50+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2269,
+   "sport": "cricket",
+   "one_line": "Rahane outlines Kohli’s path to breaking the 100-century record.",
+   "title": "Ajinkya Rahane reveals Virat Kohli’s timeline to break Sachin Tendulkar’s 100-century record",
+   "url": "https://cricketaddictor.com/cricket-news/ajinkya-rahane-reveals-virat-kohlis-timeline-to-break-sachin-tendulkars-100-century-record-464377",
+   "source": "CricketAddictor",
+   "also_reported_by": [
+    "Hindustan Times Cricket"
+   ],
+   "category": "Player Milestone & Record",
+   "published_at": "2026-09-28T11:19:05+00:00",
    "events": [],
    "teams": []
   },
@@ -420,54 +475,214 @@
    "teams": []
   },
   {
-   "id": 1076,
+   "id": 2238,
    "sport": "cricket",
-   "one_line": "West Indies Cricket Board cuts player fees by 25% and suspends two domestic tournaments.",
-   "title": "West Indies players face 25% pay cut, CWI suspends domestic tournaments as part of cost-cutting measures",
-   "url": "https://www.wisden.com/cricket-news/cricket-west-indies-cuts-player-pay-by-25-suspends-domestic-tournaments-in-sweeping-cost-cutting-measures",
+   "one_line": "Several young players stood out during the 2026 County Championship season.",
+   "title": "Eight breakout stars of the 2026 county season",
+   "url": "https://www.wisden.com/series/county-championship-2026/cricket-features/eight-breakout-stars-of-the-2026-county-season",
    "source": "Wisden",
    "also_reported_by": [],
-   "category": "Series & Tournament",
-   "published_at": "2026-09-25T12:17:00+00:00",
+   "category": "Player Milestone & Record",
+   "published_at": "2026-09-28T12:18:00+00:00",
    "events": [],
    "teams": []
   },
   {
-   "id": 1119,
+   "id": 2271,
    "sport": "cricket",
-   "one_line": "Marco Jansen joins a rare ODI list after an all‑round performance against Australia.",
-   "title": "Marco Jansen joins Sachin Tendulkar in rare ODI list after heroics vs Australia",
-   "url": "https://cricketaddictor.com/cricket-news/marco-jansen-joins-sachin-tendulkar-in-rare-odi-list-after-heroics-vs-australia-464248",
+   "one_line": "All WPL teams have announced their retained players for 2027.",
+   "title": "WPL 2027 Retentions: Full list of players retained by all Women's Premier League teams",
+   "url": "https://cricketaddictor.com/cricket-news/wpl-2027-retentions-full-list-of-players-retained-by-all-womens-premier-league-teams-464375",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Selection & Squad",
+   "published_at": "2026-09-28T11:10:09+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2270,
+   "sport": "cricket",
+   "one_line": "Yadav receives praise from BCCI selector, boosting his India prospects.",
+   "title": "Kuldeep Yadav’s India future gets boost after incoming BCCI chief selector’s praise",
+   "url": "https://cricketaddictor.com/cricket-news/kuldeep-yadavs-india-future-gets-boost-after-incoming-bcci-chief-selectors-praise-464376",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Selection & Squad",
+   "published_at": "2026-09-28T11:05:05+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2272,
+   "sport": "cricket",
+   "one_line": "ICC and CSA will announce 2027 ODI World Cup schedule on Oct 1 2026.",
+   "title": "ICC ODI World Cup 2027 schedule announcement date revealed",
+   "url": "https://cricketaddictor.com/cricket-news/icc-odi-world-cup-2027-schedule-announcement-date-revealed-464374",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Series & Tournament",
+   "published_at": "2026-09-28T10:44:31+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2273,
+   "sport": "cricket",
+   "one_line": "Conrad updates on Nortje’s future after his Test recall.",
+   "title": "Shukri Conrad gives update on Anrich Nortje’s future after Test recall",
+   "url": "https://cricketaddictor.com/cricket-news/shukri-conrad-gives-update-on-anrich-nortjes-future-after-test-recall-464371",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Selection & Squad",
+   "published_at": "2026-09-28T10:23:55+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2274,
+   "sport": "cricket",
+   "one_line": "Coach Conrad comments on the heated exchange between Bavuma and de Kock.",
+   "title": "South Africa head coach breaks silence on Temba Bavuma-Quinton de Kock fight",
+   "url": "https://cricketaddictor.com/cricket-news/south-africa-head-coach-breaks-silence-on-temba-bavuma-quinton-de-kock-fight-464372",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-28T10:22:15+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2293,
+   "sport": "football",
+   "one_line": "Two players were sent off for pulling a rival’s dreadlocks.",
+   "title": "Two players sent off for pulling rival's dreadlocks",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm70lpkjplyyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-28T10:21:43+00:00",
+   "events": [
+    "uefa-nations-league"
+   ],
+   "teams": []
+  },
+  {
+   "id": 2292,
+   "sport": "football",
+   "one_line": "Mancini dismisses concerns over alleged double contract during City tenure.",
+   "title": "Man City rule breaches not my concern - Mancini",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmn45e2e1qplo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-28T09:42:03+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2286,
+   "sport": "football",
+   "one_line": "FAI is uncertain about sanctions if a game is not played.",
+   "title": "FAI unclear over possible sanctions if game not played",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqx2z9p30rlxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-28T09:37:09+00:00",
+   "events": [
+    "uefa-nations-league"
+   ],
+   "teams": []
+  },
+  {
+   "id": 2277,
+   "sport": "cricket",
+   "one_line": "Srikkanth questions the inclusion of Naman Dhir in India’s XI.",
+   "title": "\"You can’t play Naman Dhir\": Kris Srikkanth questions India XI vs West Indies",
+   "url": "https://cricketaddictor.com/cricket-news/you-cant-play-naman-dhir-kris-srikkanth-questions-india-xi-vs-west-indies-464366",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Selection & Squad",
+   "published_at": "2026-09-28T09:35:25+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2278,
+   "sport": "cricket",
+   "one_line": "Pakistan women’s training video sparked mockery for unusual exercises.",
+   "title": "Watch: Pakistan women’s cricketers face mockery over unusual & dangerous training video",
+   "url": "https://cricketaddictor.com/cricket-news/watch-pakistan-womens-cricketers-face-mockery-over-unusual-dangerous-training-video-464367",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-28T09:33:40+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2210,
+   "sport": "cricket",
+   "one_line": "Bavuma and de Kock had a heated exchange during a review.",
+   "title": "Temba Bavuma, Quinton de Kock involved in heated exchange over a review, Marco Jansen intervenes - Watch",
+   "url": "https://www.hindustantimes.com/cricket/temba-bavuma-quinton-de-kock-involved-in-heated-exchange-over-a-review-marco-jansen-intervenes-watch-101790586063015.html",
+   "source": "Hindustan Times Cricket",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-28T09:21:44+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2282,
+   "sport": "cricket",
+   "one_line": "South Africa announces 18-player squad for first Test against Australia.",
+   "title": "South Africa squad for 1st Test vs Australia announced, Kagiso Rabada, Anrich Nortje return",
+   "url": "https://cricketaddictor.com/cricket-news/south-africa-squad-for-1st-test-vs-australia-announced-kagiso-rabada-anrich-nortje-return-464364",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Selection & Squad",
+   "published_at": "2026-09-28T09:11:16+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2280,
+   "sport": "cricket",
+   "one_line": "PCB considers Tait and Guptill for coaching positions.",
+   "title": "PCB eyes Shaun Tait and Martin Guptill for Pakistan coaching roles",
+   "url": "https://cricketaddictor.com/cricket-news/pcb-eyes-shaun-tait-and-martin-guptill-for-pakistan-coaching-roles-464365",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Selection & Squad",
+   "published_at": "2026-09-28T08:37:09+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2284,
+   "sport": "cricket",
+   "one_line": "Australia captain Sophie Molineux is doubtful for the Bangladesh ODI series due to a hip injury.",
+   "title": "Sophie Molineux injury update: Australia captain in doubt for Bangladesh ODI series",
+   "url": "https://cricketaddictor.com/cricket-news/sophie-molineux-injury-update-australia-captain-in-doubt-for-bangladesh-odi-series-464362",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Injury & Fitness",
+   "published_at": "2026-09-28T07:44:13+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2283,
+   "sport": "cricket",
+   "one_line": "Mohammad Kaif praises Virat Kohli after his unbeaten 139 in the first ODI against West Indies.",
+   "title": "Mohammad Kaif recalls Virat Kohli’s ODI retirement talks after 55th ton",
+   "url": "https://cricketaddictor.com/cricket-news/mohammad-kaif-recalls-virat-kohlis-odi-retirement-talks-after-55th-ton-464360",
    "source": "CricketAddictor",
    "also_reported_by": [],
    "category": "Player Milestone & Record",
-   "published_at": "2026-09-25T10:19:08+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 949,
-   "sport": "cricket",
-   "one_line": "Nebal defeats Afghanistan by five wickets in Asian Games 2026 men's cricket.",
-   "title": "Nepal stun Afghanistan to register historic Asian Games win",
-   "url": "https://cricketaddictor.com/cricket-news/nepal-stun-afghanistan-to-register-historic-asian-games-win-464240",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Match Result",
-   "published_at": "2026-09-25T08:38:26+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 982,
-   "sport": "football",
-   "one_line": "Scottish Premiership crowds exceed four million for first time last season.",
-   "title": "Scottish Premiership crowds break four million mark",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cmy5zdrp54wlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-25T07:00:45+00:00",
+   "published_at": "2026-09-28T07:42:27+00:00",
    "events": [],
    "teams": []
   },
@@ -620,6 +835,21 @@
    "category": "Match Result",
    "published_at": "2026-09-27T18:49:13+00:00",
    "events": [],
+   "teams": []
+  },
+  {
+   "id": 2307,
+   "sport": "football",
+   "one_line": "Denmark defeated Wales 2-0 in the Nations League in Copenhagen.",
+   "title": "Highlights: Denmark 2-0 Wales",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cwm2q3jmvvg7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Match Result",
+   "published_at": "2026-09-27T18:22:08+00:00",
+   "events": [
+    "uefa-nations-league"
+   ],
    "teams": []
   },
   {
@@ -1427,309 +1657,128 @@
    "teams": []
   },
   {
-   "id": 1113,
+   "id": 2239,
    "sport": "cricket",
-   "one_line": "Kevin Pietersen may extend his England white‑ball consultancy into Test cricket after discussion with new coach Stephen Fleming.",
-   "title": "Kevin Pietersen eyes England Test role after discussion with Stephen Fleming",
-   "url": "https://cricketaddictor.com/cricket-news/kevin-pietersen-eyes-england-test-role-after-discussion-with-stephen-fleming-464255",
-   "source": "CricketAddictor",
+   "one_line": "Explanation of the laws behind Rathnayake’s dramatic dismissal.",
+   "title": "Out, not out & out again! The laws behind Pavan Rathnayake's dramatic dismissal against England, explained",
+   "url": "https://www.wisden.com/series/england-vs-sri-lanka-m-2026/cricket-news/out-not-out-out-again-the-law-behind-pavan-rathnayakes-dramatic-dismissal-against-england-explained",
+   "source": "Wisden",
    "also_reported_by": [],
-   "category": "Selection & Squad",
-   "published_at": "2026-09-25T12:28:32+00:00",
+   "category": "Other",
+   "published_at": "2026-09-28T10:14:00+00:00",
    "events": [],
    "teams": []
   },
   {
-   "id": 1135,
+   "id": 2276,
+   "sport": "cricket",
+   "one_line": "Chopra advises Sharma to improve a specific area of his batting.",
+   "title": "Aakash Chopra advises Rohit Sharma to improve this area of his batting",
+   "url": "https://cricketaddictor.com/cricket-news/aakash-chopra-advises-rohit-sharma-to-improve-this-area-of-his-batting-464369",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Other",
+   "published_at": "2026-09-28T09:56:58+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2279,
+   "sport": "cricket",
+   "one_line": "Yousuf praises Dhoni and Dravid while criticizing Pakistan.",
+   "title": "Mohammad Yousuf credits MS Dhoni, Rahul Dravid for India’s rise, takes dig at Pakistan",
+   "url": "https://cricketaddictor.com/cricket-news/mohammad-yousuf-credits-ms-dhoni-rahul-dravid-for-indias-rise-takes-dig-at-pakistan-464368",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Other",
+   "published_at": "2026-09-28T09:29:42+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2240,
+   "sport": "cricket",
+   "one_line": "Program for women’s cricket thrives in Milton Keynes.",
+   "title": "Coffee with Cricket thriving in Milton Keynes",
+   "url": "https://www.wisden.com/club-news/cricket-news/coffee-with-cricket-thriving-in-milton-keynes",
+   "source": "Wisden",
+   "also_reported_by": [],
+   "category": "Other",
+   "published_at": "2026-09-28T09:25:00+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2211,
+   "sport": "cricket",
+   "one_line": "Kohli praises team bonding with Shubman Gill.",
+   "title": "Virat Kohli gives Shubman Gill his flowers: ‘Senior players in the team are smiling, laughing under him’",
+   "url": "https://www.hindustantimes.com/cricket/virat-kohli-gives-shubman-gill-his-flowers-senior-players-in-the-team-are-smiling-laughing-under-him-101790586628692.html",
+   "source": "Hindustan Times Cricket",
+   "also_reported_by": [],
+   "category": "Other",
+   "published_at": "2026-09-28T09:17:34+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2290,
    "sport": "football",
-   "one_line": "Premier League joins other European leagues in calling for fundamental FIFA reforms.",
-   "title": "Premier League joins call for Fifa reforms",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cq62k9pzy21do?at_medium=RSS&at_campaign=rss",
+   "one_line": "Aaron Ramsdale, former Arsenal and England goalkeeper, is now Southampton's fourth-choice keeper.",
+   "title": "Award-winner to fourth choice - what has gone wrong for Ramsdale?",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cvgy802y2n9o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Football",
    "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-25T11:53:25+00:00",
+   "category": "Selection & Squad",
+   "published_at": "2026-09-28T08:10:08+00:00",
    "events": [
     "premier-league"
    ],
    "teams": []
   },
   {
-   "id": 1114,
+   "id": 2285,
    "sport": "cricket",
-   "one_line": "Australia Women will tour Sri Lanka for a three‑match ODI series in December 2026.",
-   "title": "Australia Women set for historic Sri Lanka tour in December 2026",
-   "url": "https://cricketaddictor.com/cricket-news/australia-women-set-for-historic-sri-lanka-tour-in-december-2026-464254",
+   "one_line": "Border and North West Dragons will play the eighth match of South Africa Championship T20 2026.",
+   "title": "BOR vs NTW Dream11 Prediction Today Match, My11Circle Prediction, Dream11 Team Today, Fantasy Cricket Tips, Playing XI, Pitch Report, Injury Update- South Africa Championship T20 2026, Match 8",
+   "url": "https://cricketaddictor.com/fantasy-cricket/bor-vs-ntw-dream11-prediction-today-match-my11circle-prediction-dream11-team-today-fantasy-cricket-tips-playing-xi-pitch-report-injury-update-south-africa-championship-t20-2026-match-8-464354",
    "source": "CricketAddictor",
    "also_reported_by": [],
    "category": "Series & Tournament",
-   "published_at": "2026-09-25T11:43:42+00:00",
+   "published_at": "2026-09-28T07:46:54+00:00",
    "events": [],
    "teams": []
   },
   {
-   "id": 1115,
-   "sport": "cricket",
-   "one_line": "Rohit Sharma has delivered five notable ODI innings against West Indies.",
-   "title": "Rohit Sharma’s Top 5 iconic ODI knocks against West Indies",
-   "url": "https://cricketaddictor.com/cricket-news/rohit-sharmas-top-5-iconic-odi-knocks-against-west-indies-464252",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Player Milestone & Record",
-   "published_at": "2026-09-25T11:03:46+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1134,
+   "id": 2338,
    "sport": "football",
-   "one_line": "Jason Knight is first Republic of Ireland player to oppose playing Israel.",
-   "title": "Israel game should not go ahead - Republic of Ireland's Knight",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cm750g0zx9weo?at_medium=RSS&at_campaign=rss",
+   "one_line": "Scotland coach Sebastien Pocognoli selects his first home XI for the match against Switzerland.",
+   "title": "You are the Scotland boss - what would you change for Switzerland?",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cr9dwwn5zdyzo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Football",
    "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-25T10:59:44+00:00",
+   "category": "Preview & Build-up",
+   "published_at": "2026-09-28T07:46:12+00:00",
    "events": [],
    "teams": []
   },
   {
-   "id": 1116,
-   "sport": "cricket",
-   "one_line": "Cricket Association of Bengal plans a special India tri‑series at Eden Gardens.",
-   "title": "Sourav Ganguly reveals CAB plans for special India tri-series at Eden Gardens",
-   "url": "https://cricketaddictor.com/cricket-news/sourav-ganguly-reveals-cab-plans-for-special-india-tri-series-at-eden-gardens-464251",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Series & Tournament",
-   "published_at": "2026-09-25T10:43:33+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1188,
+   "id": 2302,
    "sport": "football",
-   "one_line": "September 2026 sees significant signings and departures across Premier League, Scottish Premiership, EFL and Women’s Super League.",
-   "title": "All done deals in September 2026",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
+   "one_line": "Northern Ireland will host Hungary in the UEFA Nations League after 315 days.",
+   "title": "NI players relish Windsor return against Hungary",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmje85wv2p0lo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Football",
    "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-25T10:21:39+00:00",
+   "category": "Preview & Build-up",
+   "published_at": "2026-09-28T07:09:26+00:00",
    "events": [
-    "premier-league"
+    "uefa-nations-league"
    ],
-   "teams": []
-  },
-  {
-   "id": 1133,
-   "sport": "football",
-   "one_line": "Chelsea faces an FA charge for alleged discriminatory chanting during a win at Fulham.",
-   "title": "Chelsea charged by FA over discriminatory chanting",
-   "url": "https://www.bbc.co.uk/sport/football/articles/crvgyw9qnpl3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-25T10:19:05+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1120,
-   "sport": "cricket",
-   "one_line": "England and Wales Cricket Board names a 15‑player squad for the 2027 Women’s U19 T20 World Cup.",
-   "title": "England squad announced for 2027 Women’s U19 T20 World Cup",
-   "url": "https://cricketaddictor.com/cricket-news/england-squad-announced-for-2027-womens-u19-t20-world-cup-464249",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Selection & Squad",
-   "published_at": "2026-09-25T10:12:06+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1192,
-   "sport": "football",
-   "one_line": "Aberdeen lose 500 semi‑final tickets after a pitch invasion and pyrotechnics display by fans.",
-   "title": "Aberdeen lose 500 semi-final tickets after pitch invasion",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cq62jxymr012o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-25T09:47:09+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 948,
-   "sport": "cricket",
-   "one_line": "Aakash Chopra questions Auqib Nabi's readiness for ODI bowling after his inclusion in India's squad.",
-   "title": "Aakash Chopra questions Auqib Nabi’s white-ball credentials after ODI call-up",
-   "url": "https://cricketaddictor.com/cricket-news/aakash-chopra-questions-auqib-nabis-white-ball-credentials-after-odi-call-up-464239",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Selection & Squad",
-   "published_at": "2026-09-25T08:39:20+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 953,
-   "sport": "cricket",
-   "one_line": "India A beats Australia A by 162 runs in first unofficial Test.",
-   "title": "Devdutt Padikkal leads from front as India A thrash Australia A in 1st unofficial Test",
-   "url": "https://cricketaddictor.com/cricket-news/devdutt-padikkal-leads-from-front-as-india-a-thrash-australia-a-in-1st-unofficial-test-464236",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Match Result",
-   "published_at": "2026-09-25T08:28:02+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 912,
-   "sport": "cricket",
-   "one_line": "Asa Tribe scores second consecutive century for Glamorgan in Division One.",
-   "title": "England hopeful backs up maiden Division One hundred with a statement second ton",
-   "url": "https://www.wisden.com/series/county-championship-2026/cricket-news/england-hopeful-asa-tribe-backs-up-maiden-division-one-hundred-with-a-statement-second-ton",
-   "source": "Wisden",
-   "also_reported_by": [],
-   "category": "Player Milestone & Record",
-   "published_at": "2026-09-25T08:25:00+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 972,
-   "sport": "football",
-   "one_line": "Mulbarton Wanderers must replay FA Cup qualifying tie after referee error.",
-   "title": "FA Cup qualifying tie to be replayed after ref's error",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cmjw5x569epvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-25T08:02:11+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 882,
-   "sport": "cricket",
-   "one_line": "India A defeats Australia A by 162 runs in first unofficial Test; Kushagra named Man of the Match.",
-   "title": "Kumar Kushagra and Shams Mulani the standout performers as India A beat Australia A by 162 runs in 1st unofficial Test",
-   "url": "https://www.hindustantimes.com/cricket/kumar-kushagra-and-shams-mulani-the-standout-performers-as-india-a-beat-australia-a-by-162-runs-in-1st-unofficial-test-101790319661237.html",
-   "source": "Hindustan Times Cricket",
-   "also_reported_by": [],
-   "category": "Match Result",
-   "published_at": "2026-09-25T07:34:44+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 951,
-   "sport": "cricket",
-   "one_line": "Rajkumar Sharma named Delhi State Mentor; Vijay Dahiya appointed senior men's head coach.",
-   "title": "Virat Kohli’s childhood coach Rajkumar Sharma appointed Delhi State mentor, Vijay Dahiya head coach",
-   "url": "https://cricketaddictor.com/cricket-news/virat-kohlis-childhood-coach-rajkumar-sharma-appointed-delhi-state-mentor-vijay-dahiya-head-coach-464237",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Selection & Squad",
-   "published_at": "2026-09-25T07:32:51+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 913,
-   "sport": "cricket",
-   "one_line": "Dan Lawrence and Emilio Gay score centuries for Surrey and Durham before South Africa tour.",
-   "title": "England Test incumbents sign off red-ball season with centuries ahead of batting-order squeeze",
-   "url": "https://www.wisden.com/series/county-championship-2026/cricket-news/england-test-incumbents-dan-lawrence-sign-off-red-ball-season-with-centuries-ahead-of-batting-order-squeeze",
-   "source": "Wisden",
-   "also_reported_by": [],
-   "category": "Player Milestone & Record",
-   "published_at": "2026-09-25T07:13:00+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 883,
-   "sport": "cricket",
-   "one_line": "Sri Lanka level series against England after Headingley thriller, Wellalage and Mendis star.",
-   "title": "Dunith Wellalage and Kusal Mendis star as Sri Lanka level England series after Headingley thriller",
-   "url": "https://www.hindustantimes.com/cricket/dunith-wellalage-and-kusal-mendis-star-as-sri-lanka-level-england-series-after-headingley-thriller-101790318816144.html",
-   "source": "Hindustan Times Cricket",
-   "also_reported_by": [],
-   "category": "Match Result",
-   "published_at": "2026-09-25T07:01:17+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 954,
-   "sport": "cricket",
-   "one_line": "Daren Sammy aims for West Indies' first ODI series win in India in 24 years.",
-   "title": "“Have to beat India”: Daren Sammy eyes first series win in 24 years",
-   "url": "https://cricketaddictor.com/cricket-news/have-to-beat-india-daren-sammy-eyes-first-series-win-in-24-years-464234",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Preview & Build-up",
-   "published_at": "2026-09-25T06:58:03+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1031,
-   "sport": "football",
-   "one_line": "Celtic winger Jota approaches return after long-term injury and heart operation.",
-   "title": "Celtic step up plans for Jota return - gossip",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c6x2zrp30kxko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Injury & Fitness",
-   "published_at": "2026-09-25T06:36:12+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 959,
-   "sport": "cricket",
-   "one_line": "Dhruv Jurel explains the confrontation between Yashasvi Jaiswal and Asitha Fernando during the second Test.",
-   "title": "Dhruv Jurel reveals what happened in Yashasvi Jaiswal-Asitha Fernando fight",
-   "url": "https://cricketaddictor.com/cricket-news/dhruv-jurel-reveals-what-happened-in-yashasvi-jaiswal-asitha-fernando-fight-464230",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-25T05:52:37+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 976,
-   "sport": "football",
-   "one_line": "Zinedine Zidane reflects on waiting for the France job and his potential contributions after five years away from management.",
-   "title": "Zidane waited for France - now can he harness their star power?",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c20dxgpjng3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Preview & Build-up",
-   "published_at": "2026-09-25T05:51:22+00:00",
-   "events": [],
    "teams": [
-    "France"
+    "Hungary",
+    "Northern Ireland"
    ]
-  },
-  {
-   "id": 885,
-   "sport": "cricket",
-   "one_line": "Dhruv Jurel recounts Yashasvi Jaiswal's angry response to Sri Lankan pacer Asitha Fernando during the second Test.",
-   "title": "‘You can’t abuse me': ‘Feisty’ Yashasvi Jaiwal turned back in anger, told Sri Lankan pacer to rein it in",
-   "url": "https://www.hindustantimes.com/cricket/you-can-t-abuse-me-feisty-yashasvi-jaiwal-turned-back-in-anger-told-sri-lankan-pacer-to-rein-it-in-101790314027186.html",
-   "source": "Hindustan Times Cricket",
-   "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-25T05:48:45+00:00",
-   "events": [],
-   "teams": []
   },
   {
    "id": 2132,
@@ -1741,32 +1790,6 @@
    "also_reported_by": [],
    "category": "Off-field & Controversy",
    "published_at": "2026-09-28T05:20:31+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 2133,
-   "sport": "cricket",
-   "one_line": "De Kock uses profanity during DRS dispute with Bavuma in SA vs AUS ODI.",
-   "title": "Watch: Quinton de Kock drops F-bomb in fight with Temba Bavuma during SA vs AUS ODI",
-   "url": "https://cricketaddictor.com/cricket-news/watch-quinton-de-kock-drops-f-bomb-in-fight-with-temba-bavuma-during-sa-vs-aus-odi-464349",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-28T05:15:29+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 2135,
-   "sport": "cricket",
-   "one_line": "Fantasy tips and playing XI preview for Bangladesh vs Malaysia 4th quarter-final at Asian Games 2026.",
-   "title": "BAN vs MAL Dream11 Prediction Today Match, Dream11 Team Today, Fantasy Cricket Tips, Playing XI, Pitch Report, Injury Update- Asian Games Men’s T20I 2026, 4th Quarter-final",
-   "url": "https://cricketaddictor.com/fantasy-cricket/ban-vs-mal-dream11-prediction-today-match-dream11-team-today-fantasy-cricket-tips-playing-xi-pitch-report-injury-update-asian-games-mens-t20i-2026-4th-quarter-final-464345",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Preview & Build-up",
-   "published_at": "2026-09-28T04:38:17+00:00",
    "events": [],
    "teams": []
   },
@@ -1806,6 +1829,19 @@
    "also_reported_by": [],
    "category": "Other",
    "published_at": "2026-09-28T01:56:52+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2137,
+   "sport": "cricket",
+   "one_line": "Bangladesh vs Malaysia 4th quarter-final preview with playing XI and weather details.",
+   "title": "BAN vs MLY Playing 11 Today, Live Streaming, Pitch & Weather: Bangladesh vs Malaysia, Asian Games 2026, 4th Quarter-Final",
+   "url": "https://cricketaddictor.com/cricket-news/ban-vs-mly-playing-11-today-live-streaming-pitch-weather-bangladesh-vs-malaysia-asian-games-2026-4th-quarter-final-464286",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Preview & Build-up",
+   "published_at": "2026-09-28T01:30:02+00:00",
    "events": [],
    "teams": []
   },
@@ -2147,6 +2183,19 @@
    "teams": []
   },
   {
+   "id": 1574,
+   "sport": "cricket",
+   "one_line": "Prediction and fantasy tips for the third ODI between England and Sri Lanka.",
+   "title": "ENG vs SL Dream11 Prediction Today Match, Dream11 Team Today, Fantasy Cricket Tips, Playing XI, Pitch Report, Injury Update- Sri Lanka Tour of England 2026, 3rd ODI",
+   "url": "https://cricketaddictor.com/fantasy-cricket/eng-vs-sl-dream11-prediction-today-match-dream11-team-today-fantasy-cricket-tips-playing-xi-pitch-report-injury-update-sri-lanka-tour-of-england-2026-3rd-odi-464283",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Preview & Build-up",
+   "published_at": "2026-09-26T18:04:12+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
    "id": 1583,
    "sport": "football",
    "one_line": "Scotland's first match under Pocognoli ended in a draw with Slovenia.",
@@ -2346,244 +2395,6 @@
    "published_at": "2026-09-25T13:00:09+00:00",
    "events": [],
    "teams": []
-  },
-  {
-   "id": 1137,
-   "sport": "football",
-   "one_line": "Southend United boss Kieron Dyer cites his liver transplant anniversary as inspiration for a pre‑match talk.",
-   "title": "Liver transplant anniversary inspired team talk - Southend boss Dyer",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cm0e3jvn3rvyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-25T11:27:13+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1048,
-   "sport": "cricket",
-   "one_line": "Joe Root recalls watching Sachin Tendulkar, Sourav Ganguly and Rahul Dravid dominate England in 2002.",
-   "title": "Hot on Sachin Tendulkar’s heels, Joe Root remembers master blaster’s 2002 onslaught: ‘It was a great experience’",
-   "url": "https://www.hindustantimes.com/cricket/hot-on-sachin-tendulkar-s-heels-joe-root-remembers-master-blaster-s-2002-onslaught-it-was-a-great-experience-101790331693296.html",
-   "source": "Hindustan Times Cricket",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-25T10:45:33+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1117,
-   "sport": "cricket",
-   "one_line": "Malaysia will play Oman in the sixth match of the Asian Games Men’s T20I 2026.",
-   "title": "MAL vs OMN Dream11 Prediction Today Match, Dream11 Team Today, Fantasy Cricket Tips, Playing XI, Pitch Report, Injury Update- Asian Games Men’s T20I 2026, Match 6",
-   "url": "https://cricketaddictor.com/fantasy-cricket/mal-vs-omn-dream11-prediction-today-match-dream11-team-today-fantasy-cricket-tips-playing-xi-pitch-report-injury-update-asian-games-mens-t20i-2026-match-6-464244",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Preview & Build-up",
-   "published_at": "2026-09-25T10:39:30+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1118,
-   "sport": "cricket",
-   "one_line": "Dhruv Jurel says he admires Vaibhav Sooryavanshi’s fearless batting but finds comparison unfair.",
-   "title": "Dhruv Jurel jealous of Vaibhav Sooryavanshi? India star drops honest statement",
-   "url": "https://cricketaddictor.com/cricket-news/dhruv-jurel-jealous-of-vaibhav-sooryavanshi-india-star-drops-honest-statement-464250",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-25T10:23:22+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1146,
-   "sport": "football",
-   "one_line": "Paris Saint‑Germain visits Reading for an AI summit, according to Reading’s Head of AI Stuart Fenton.",
-   "title": "Why PSG are visiting League One club Reading for AI summit",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cv62k9k2nwx2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-25T10:09:03+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1121,
-   "sport": "cricket",
-   "one_line": "Prasidh Krishna says ODIs are the toughest format ahead of India’s three‑match series against West Indies.",
-   "title": "Prasidh Krishna calls ODIs the toughest format ahead of West Indies series",
-   "url": "https://cricketaddictor.com/cricket-news/prasidh-krishna-calls-odis-the-toughest-format-ahead-of-west-indies-series-464247",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Preview & Build-up",
-   "published_at": "2026-09-25T09:34:43+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1122,
-   "sport": "cricket",
-   "one_line": "Virender Sehwag supports his son Arjun Tendulkar and others amid father‑son comparisons.",
-   "title": "Virender Sehwag backs Aaryavir, Anvay and Arjun Tendulkar amid father-son comparisons",
-   "url": "https://cricketaddictor.com/cricket-news/virender-sehwag-backs-aaryavir-anvay-and-arjun-tendulkar-amid-father-son-comparisons-464245",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-25T09:27:18+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1049,
-   "sport": "cricket",
-   "one_line": "Vijay Dahiya will coach Delhi in the upcoming domestic season, his second stint.",
-   "title": "Former India wicketkeeper batsman Vijay Dahiya to coach Delhi in the upcoming domestic season; it's his second stint",
-   "url": "https://www.hindustantimes.com/cricket/former-india-wicketkeeper-batsman-vijay-dahiya-to-coach-delhi-in-the-upcoming-domestic-season-its-his-second-stint-101790324911694.html",
-   "source": "Hindustan Times Cricket",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-25T08:46:46+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 950,
-   "sport": "cricket",
-   "one_line": "Praful Hinge names Rohit Sharma his dream wicket and admires Virat Kohli.",
-   "title": "Praful Hinge reveals love for Virat Kohli, names Rohit Sharma dream wicket",
-   "url": "https://cricketaddictor.com/cricket-news/praful-hinge-reveals-love-for-virat-kohli-names-rohit-sharma-dream-wicket-464238",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Preview & Build-up",
-   "published_at": "2026-09-25T07:59:19+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 974,
-   "sport": "football",
-   "one_line": "Michael O'Neill says Northern Ireland's young squad still has room to grow.",
-   "title": "Young NI team 'still not near its peak' - O'Neill",
-   "url": "https://www.bbc.co.ukundefined/?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Preview & Build-up",
-   "published_at": "2026-09-25T07:49:25+00:00",
-   "events": [],
-   "teams": [
-    "Northern Ireland"
-   ]
-  },
-  {
-   "id": 973,
-   "sport": "football",
-   "one_line": "Lee Carsley plans to guide England U21s to a third consecutive title.",
-   "title": "How Carsley aims to lead England to U21 glory - for third time in row",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cmqjk1k254dlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Preview & Build-up",
-   "published_at": "2026-09-25T07:44:23+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 952,
-   "sport": "cricket",
-   "one_line": "Dhruv Jurel prefers Virat Kohli over Sachin Tendulkar and Rohit Sharma over Ricky Ponting.",
-   "title": "Dhruv Jurel picks Virat Kohli over Sachin Tendulkar, Rohit Sharma over Ricky Ponting",
-   "url": "https://cricketaddictor.com/cricket-news/dhruv-jurel-picks-virat-kohli-over-sachin-tendulkar-rohit-sharma-over-ricky-ponting-464235",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Preview & Build-up",
-   "published_at": "2026-09-25T07:24:29+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 970,
-   "sport": "football",
-   "one_line": "Sebastien Pocognoli imagines his first XI as Scotland's new head coach.",
-   "title": "You are the new Scotland boss - what would you do?",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cje3reed6dx4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Preview & Build-up",
-   "published_at": "2026-09-25T07:04:36+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1079,
-   "sport": "cricket",
-   "one_line": "The article questions whether hitting a tree can earn four runs in cricket.",
-   "title": "Hit the tree and get four runs: Is this one of cricket’s strangest rules?",
-   "url": "https://www.wisden.com/cricket-videos/hit-the-tree-and-get-four-runs-is-this-one-of-crickets-strangest-rules",
-   "source": "Wisden",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-25T06:45:00+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 955,
-   "sport": "cricket",
-   "one_line": "Ben Stokes praises Harry Brook after unbeaten century, comparing him to Kevin Pietersen.",
-   "title": "Former England captains react to Ben Stokes’ Harry Brook vs Kevin Pietersen comparison",
-   "url": "https://cricketaddictor.com/cricket-news/former-england-captains-react-to-ben-stokes-harry-brook-vs-kevin-pietersen-comparison-464233",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Preview & Build-up",
-   "published_at": "2026-09-25T06:40:00+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 971,
-   "sport": "football",
-   "one_line": "Analysis of increasing transfer of academy players in English football.",
-   "title": "Why schoolboys have become a huge part of football's transfer market",
-   "url": "https://www.bbc.co.uk/sport/football/articles/ckeq8vq7rwe7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-25T06:32:33+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 977,
-   "sport": "football",
-   "one_line": "Explores why Spain dominate football, citing education and culture.",
-   "title": "Education, Barcelona & Basque culture - why Spain are dominating football",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c1e5d2n273zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-25T06:20:57+00:00",
-   "events": [
-    "uefa-nations-league"
-   ],
-   "teams": []
-  },
-  {
-   "id": 884,
-   "sport": "cricket",
-   "one_line": "Zaheer Khan starts CSK captaincy, recalling past achievements.",
-   "title": "Zaheer Khan relives every great achievement of his career - featuring Sachin, Dhoni, Yuvraj - as he begins CSK journey",
-   "url": "https://www.hindustantimes.com/cricket/zaheer-khan-relives-every-great-achievement-of-his-career-featuring-sachin-dhoni-yuvraj-as-he-begins-csk-journey-101790315609650.html",
-   "source": "Hindustan Times Cricket",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-25T06:11:21+00:00",
-   "events": [],
-   "teams": []
   }
  ],
  "storylines": [
@@ -2657,6 +2468,62 @@
      "one_line": "Fantasy tips and playing XI preview for Bangladesh vs Malaysia 4th quarter-final at Asian Games 2026.",
      "url": "https://cricketaddictor.com/fantasy-cricket/ban-vs-mal-dream11-prediction-today-match-dream11-team-today-fantasy-cricket-tips-playing-xi-pitch-report-injury-update-asian-games-mens-t20i-2026-4th-quarter-final-464345",
      "published_at": "2026-09-28T04:38:17+00:00"
+    },
+    {
+     "id": 2285,
+     "one_line": "Border and North West Dragons will play the eighth match of South Africa Championship T20 2026.",
+     "url": "https://cricketaddictor.com/fantasy-cricket/bor-vs-ntw-dream11-prediction-today-match-my11circle-prediction-dream11-team-today-fantasy-cricket-tips-playing-xi-pitch-report-injury-update-south-africa-championship-t20-2026-match-8-464354",
+     "published_at": "2026-09-28T07:46:54+00:00"
+    }
+   ]
+  },
+  {
+   "first": "2026-09-25",
+   "last": "2026-09-28",
+   "days": 4,
+   "stories": [
+    {
+     "id": 1270,
+     "one_line": "Shubman Gill sustained an injury during practice ahead of the first ODI against West Indies.",
+     "url": "https://cricketaddictor.com/cricket-news/shubman-gill-suffers-injury-scare-ahead-of-india-vs-west-indies-1st-odi-464259",
+     "published_at": "2026-09-25T18:04:22+00:00"
+    },
+    {
+     "id": 1417,
+     "one_line": "Shubman Gill suffered a major elbow injury before the first West Indies ODI on September 27.",
+     "url": "https://cricketaddictor.com/cricket-news/shubman-gill-injury-update-will-india-captain-play-1st-west-indies-odi-464267",
+     "published_at": "2026-09-26T05:10:05+00:00"
+    },
+    {
+     "id": 1993,
+     "one_line": "India win first ODI 8 wickets over West Indies, Kohli comments.",
+     "url": "https://cricketaddictor.com/cricket-news/virat-kohli-makes-big-shubman-gill-revelation-after-indias-8-wicket-win-over-west-indies-464347",
+     "published_at": "2026-09-27T18:04:36+00:00"
+    },
+    {
+     "id": 2212,
+     "one_line": "Shubman Gill praised Virat Kohli after his 55th ODI century, making him the second player to reach 15,000 runs.",
+     "url": "https://www.hindustantimes.com/cricket/shubman-gill-staunchly-backs-his-seasoned-batter-virat-kohli-after-thrashing-west-indies-you-just-let-him-be-101790582771552.html",
+     "published_at": "2026-09-28T08:19:37+00:00"
+    }
+   ]
+  },
+  {
+   "first": "2026-09-23",
+   "last": "2026-09-28",
+   "days": 2,
+   "stories": [
+    {
+     "id": 301,
+     "one_line": "Gambhir says Gill benefits from experience of Sharma and Kohli.",
+     "url": "https://cricketaddictor.com/cricket-news/gautam-gambhir-reveals-why-shubman-gill-is-lucky-to-have-rohit-sharma-and-virat-kohli-around-464192",
+     "published_at": "2026-09-23T18:04:10+00:00"
+    },
+    {
+     "id": 2275,
+     "one_line": "Kohli discusses his conversations with Gill during the match.",
+     "url": "https://cricketaddictor.com/cricket-news/virat-kohli-finally-reveals-his-conversations-with-shubman-gill-in-the-middle-464370",
+     "published_at": "2026-09-28T10:04:33+00:00"
     }
    ]
   },
@@ -2763,31 +2630,6 @@
      "one_line": "Live score updates for India's 1st ODI against West Indies.",
      "url": "https://www.hindustantimes.com/cricket/ind-vs-wi-live-cricket-score-india-vs-west-indies-1st-odi-updates-today-27-september-latest-scorecard-101790475243988.html",
      "published_at": "2026-09-27T07:00:19+00:00"
-    }
-   ]
-  },
-  {
-   "first": "2026-09-25",
-   "last": "2026-09-27",
-   "days": 3,
-   "stories": [
-    {
-     "id": 1270,
-     "one_line": "Shubman Gill sustained an injury during practice ahead of the first ODI against West Indies.",
-     "url": "https://cricketaddictor.com/cricket-news/shubman-gill-suffers-injury-scare-ahead-of-india-vs-west-indies-1st-odi-464259",
-     "published_at": "2026-09-25T18:04:22+00:00"
-    },
-    {
-     "id": 1417,
-     "one_line": "Shubman Gill suffered a major elbow injury before the first West Indies ODI on September 27.",
-     "url": "https://cricketaddictor.com/cricket-news/shubman-gill-injury-update-will-india-captain-play-1st-west-indies-odi-464267",
-     "published_at": "2026-09-26T05:10:05+00:00"
-    },
-    {
-     "id": 1993,
-     "one_line": "India win first ODI 8 wickets over West Indies, Kohli comments.",
-     "url": "https://cricketaddictor.com/cricket-news/virat-kohli-makes-big-shubman-gill-revelation-after-indias-8-wicket-win-over-west-indies-464347",
-     "published_at": "2026-09-27T18:04:36+00:00"
     }
    ]
   },
@@ -2975,7 +2817,7 @@
     1596,
     1458,
     1445,
-    974
+    2302
    ]
   },
   {
@@ -2989,17 +2831,6 @@
     1596,
     1458,
     1445
-   ]
-  },
-  {
-   "scoretab_url": "https://scoretab.in/matches/football/2026-09-29/uefa-nations-league/belgium-vs-france/1528904",
-   "sport": "football",
-   "event": "uefa-nations-league",
-   "date": "2026-09-29",
-   "home": "Belgium",
-   "away": "France",
-   "story_ids": [
-    976
    ]
   },
   {
