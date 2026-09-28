@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-09-28T12:33:12+00:00",
+ "generated_at": "2026-09-28T19:21:52+00:00",
  "about": "Concept feed: source headline + our own one-line summary + link. No article text. Events and matches are read from scoretab.in.",
  "events": [
   {
    "slug": "uefa-nations-league",
    "name": "UEFA Nations League",
    "sport": "football",
-   "matches_listed": 8,
-   "stories": 15
+   "matches_listed": 15,
+   "stories": 17
   },
   {
    "slug": "ifa-shield",
    "name": "IFA Shield",
    "sport": "football",
-   "matches_listed": 1,
+   "matches_listed": 2,
    "stories": 0
   },
   {
@@ -21,7 +21,7 @@
    "name": "Premier League",
    "sport": "football",
    "matches_listed": 0,
-   "stories": 11
+   "stories": 9
   },
   {
    "slug": "chengdu",
@@ -43,9 +43,31 @@
    "sport": "tennis",
    "matches_listed": 0,
    "stories": 1
+  },
+  {
+   "slug": "uefa-champions-league-women",
+   "name": "UEFA Champions League Women",
+   "sport": "football",
+   "matches_listed": 3,
+   "stories": 0
   }
  ],
  "stories": [
+  {
+   "id": 2428,
+   "sport": "football",
+   "one_line": "Ferran Soriano issues a defiant message after City found guilty of most Premier League charges.",
+   "title": "Man City CEO 'defiant' over Premier League charges",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ckz7zxzdwl7lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-28T18:53:30+00:00",
+   "events": [
+    "premier-league"
+   ],
+   "teams": []
+  },
   {
    "id": 2266,
    "sport": "cricket",
@@ -102,21 +124,6 @@
    "teams": []
   },
   {
-   "id": 2014,
-   "sport": "football",
-   "one_line": "Premier League faces uncertainty after a ruling on 115 charges against Manchester City.",
-   "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-27T14:24:46+00:00",
-   "events": [
-    "premier-league"
-   ],
-   "teams": []
-  },
-  {
    "id": 1585,
    "sport": "football",
    "one_line": "Premier League may strip Manchester City of eight trophies after breach charges.",
@@ -132,31 +139,29 @@
    "teams": []
   },
   {
-   "id": 1286,
-   "sport": "football",
-   "one_line": "A judgement has been made regarding the 115 charges against Manchester City.",
-   "title": "Man City and the 115 charges - key questions answered",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
+   "id": 2410,
+   "sport": "cricket",
+   "one_line": "Ashwin claims Kohli will reach 100 centuries.",
+   "title": "R Ashwin backs Virat Kohli’s 2027 retirement, makes big 100-century claim",
+   "url": "https://cricketaddictor.com/cricket-news/r-ashwin-backs-virat-kohlis-2027-retirement-makes-big-100-century-claim-464388",
+   "source": "CricketAddictor",
    "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-25T16:03:43+00:00",
+   "category": "Player Milestone & Record",
+   "published_at": "2026-09-28T18:04:31+00:00",
    "events": [],
    "teams": []
   },
   {
-   "id": 1310,
-   "sport": "football",
-   "one_line": "Rui Pinto is the hacker whose revelations triggered Manchester City’s financial rule breach charges.",
-   "title": "Who is hacker whose revelations led to Man City charges?",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cmj644284k18o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
+   "id": 2416,
+   "sport": "cricket",
+   "one_line": "Najmul Hossain Shanto ruled out of Asian Games quarter-final.",
+   "title": "Najmul Hossain Shanto ruled out of Asian Games 2026",
+   "url": "https://cricketaddictor.com/cricket-news/najmul-hossain-shanto-ruled-out-of-asian-games-2026-464382",
+   "source": "CricketAddictor",
    "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-25T15:55:40+00:00",
-   "events": [
-    "premier-league"
-   ],
+   "category": "Injury & Fitness",
+   "published_at": "2026-09-28T18:04:28+00:00",
+   "events": [],
    "teams": []
   },
   {
@@ -434,43 +439,165 @@
    "teams": []
   },
   {
-   "id": 1304,
-   "sport": "football",
-   "one_line": "Celtic and Rangers appeal the decision to play their next home Scottish Cup ties behind closed doors.",
-   "title": "Celtic and Rangers contest closed doors sanctions",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cw9800568e15o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
+   "id": 2409,
+   "sport": "cricket",
+   "one_line": "Ireland appoints Ed Joyce as new high-performance batting coach.",
+   "title": "Ed Joyce returns to Ireland setup in new high performance batting coach role",
+   "url": "https://cricketaddictor.com/cricket-news/ed-joyce-returns-to-ireland-setup-in-new-high-performance-batting-coach-role-464389",
+   "source": "CricketAddictor",
    "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-25T15:38:40+00:00",
+   "category": "Selection & Squad",
+   "published_at": "2026-09-28T18:04:32+00:00",
    "events": [],
    "teams": []
   },
   {
-   "id": 1285,
-   "sport": "football",
-   "one_line": "Premier League clubs seek legal advice regarding compensation claims over Manchester City’s 115 charges case.",
-   "title": "Clubs seek legal advice over Man City charges compensation",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
+   "id": 2411,
+   "sport": "cricket",
+   "one_line": "Praveen Kumar applies for BCCI junior selection committee role.",
+   "title": "Praveen Kumar makes big move, applies for special BCCI role",
+   "url": "https://cricketaddictor.com/cricket-news/praveen-kumar-makes-big-move-applies-for-special-bcci-role-464387",
+   "source": "CricketAddictor",
    "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-25T15:07:21+00:00",
-   "events": [
-    "premier-league"
-   ],
+   "category": "Selection & Squad",
+   "published_at": "2026-09-28T18:04:30+00:00",
+   "events": [],
    "teams": []
   },
   {
-   "id": 1287,
+   "id": 2412,
+   "sport": "cricket",
+   "one_line": "Ashwin praises Shubman Gill's growth as a batter and leader.",
+   "title": "\"Getting better every day\": Ravichandran Ashwin hails Shubman Gill as Team India captain",
+   "url": "https://cricketaddictor.com/cricket-news/getting-better-every-day-ravichandran-ashwin-hails-shubman-gill-as-team-india-captain-464385",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Selection & Squad",
+   "published_at": "2026-09-28T18:04:30+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2413,
+   "sport": "cricket",
+   "one_line": "Jaffer explains Shubman Gill's absence from India's T20I squad.",
+   "title": "Wasim Jaffer hails Shubman Gill, reveals why he is missing from India’s T20I team",
+   "url": "https://cricketaddictor.com/cricket-news/wasim-jaffer-hails-shubman-gill-reveals-why-he-is-missing-from-indias-t20i-team-464383",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Selection & Squad",
+   "published_at": "2026-09-28T18:04:28+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2415,
+   "sport": "cricket",
+   "one_line": "Brevis snubbed from South Africa's Test team.",
+   "title": "Dewald Brevis’ Test snub justified by South Africa coach with Rafael Nadal comparison",
+   "url": "https://cricketaddictor.com/cricket-news/dewald-brevis-test-snub-justified-by-south-africa-coach-with-rafael-nadal-comparison-464381",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Selection & Squad",
+   "published_at": "2026-09-28T18:04:26+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2378,
+   "sport": "cricket",
+   "one_line": "Wisden names team of the 2026 County Championship.",
+   "title": "Wisden's 2026 County Championship team of the tournament",
+   "url": "https://www.wisden.com/series/county-championship-2026/cricket-news/wisdens-2026-county-championship-team-of-the-tournament",
+   "source": "Wisden",
+   "also_reported_by": [],
+   "category": "Series & Tournament",
+   "published_at": "2026-09-28T16:25:00+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2408,
+   "sport": "cricket",
+   "one_line": "Bengal includes Abishek Porel in squad amid controversy.",
+   "title": "Abishek Porel included in Bengal squad despite legal controversy",
+   "url": "https://cricketaddictor.com/cricket-news/abishek-porel-included-in-bengal-squad-despite-legal-controversy-464390",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Selection & Squad",
+   "published_at": "2026-09-28T16:16:54+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2450,
    "sport": "football",
-   "one_line": "Kieran Maguire predicts significant sanctions for Manchester City after the club was found guilty of breaching most financial rules.",
-   "title": "What could the potential sanctions for Man City be?",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss",
+   "one_line": "Ferguson says move to Rangers never close.",
+   "title": "Ferguson retains Rangers dream but Bologna exit never close",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cw62jy1e40mlo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Football",
    "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-25T14:55:14+00:00",
+   "category": "Selection & Squad",
+   "published_at": "2026-09-28T15:27:38+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2350,
+   "sport": "cricket",
+   "one_line": "WPL teams reveal 2027 retentions and releases.",
+   "title": "WPL 2027 retentions: RCB, Mumbai Indians make bold calls as Grace Harris and G Kamalini lead the list of major releases",
+   "url": "https://www.hindustantimes.com/cricket/wpl-2027-retentions-rcb-mumbai-indians-make-bold-calls-as-grace-harris-and-g-kamalini-lead-the-list-of-major-releases-101790604202067.html",
+   "source": "Hindustan Times Cricket",
+   "also_reported_by": [],
+   "category": "Selection & Squad",
+   "published_at": "2026-09-28T14:16:34+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2437,
+   "sport": "football",
+   "one_line": "Forest Green allows Savage to talk to other club.",
+   "title": "Forest Green allow Savage to talk to another club",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c68xkzw9r7rko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Selection & Squad",
+   "published_at": "2026-09-28T13:37:08+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2432,
+   "sport": "football",
+   "one_line": "Konsa and O'Reilly doubtful for England's Nations League.",
+   "title": "Konsa and O'Reilly doubts to face Czech Republic",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cj62eyx9grzxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Injury & Fitness",
+   "published_at": "2026-09-28T13:20:44+00:00",
+   "events": [
+    "uefa-nations-league"
+   ],
+   "teams": [
+    "Czechia",
+    "England"
+   ]
+  },
+  {
+   "id": 2380,
+   "sport": "cricket",
+   "one_line": "WPL lists retained players for each franchise.",
+   "title": "WPL 2027 auction retentions: Full list of players retained by each Women's Premier League team",
+   "url": "https://www.wisden.com/cricket-news/wpl-2027-auction-retentions-full-list-of-players-retained-by-each-womens-premier-league-team",
+   "source": "Wisden",
+   "also_reported_by": [
+    "CricketAddictor"
+   ],
+   "category": "Selection & Squad",
+   "published_at": "2026-09-28T13:04:00+00:00",
    "events": [],
    "teams": []
   },
@@ -484,19 +611,6 @@
    "also_reported_by": [],
    "category": "Player Milestone & Record",
    "published_at": "2026-09-28T12:18:00+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 2271,
-   "sport": "cricket",
-   "one_line": "All WPL teams have announced their retained players for 2027.",
-   "title": "WPL 2027 Retentions: Full list of players retained by all Women's Premier League teams",
-   "url": "https://cricketaddictor.com/cricket-news/wpl-2027-retentions-full-list-of-players-retained-by-all-womens-premier-league-teams-464375",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Selection & Squad",
-   "published_at": "2026-09-28T11:10:09+00:00",
    "events": [],
    "teams": []
   },
@@ -738,7 +852,9 @@
    "category": "Other",
    "published_at": "2026-09-27T22:13:19+00:00",
    "events": [],
-   "teams": []
+   "teams": [
+    "Spain"
+   ]
   },
   {
    "id": 2166,
@@ -1006,7 +1122,10 @@
    "category": "Preview & Build-up",
    "published_at": "2026-09-27T12:43:59+00:00",
    "events": [],
-   "teams": []
+   "teams": [
+    "Scotland",
+    "Switzerland"
+   ]
   },
   {
    "id": 1846,
@@ -1389,7 +1508,10 @@
    "category": "Match Result",
    "published_at": "2026-09-26T15:19:39+00:00",
    "events": [],
-   "teams": []
+   "teams": [
+    "Scotland",
+    "Slovenia"
+   ]
   },
   {
    "id": 1602,
@@ -1470,7 +1592,6 @@
     "uefa-nations-league"
    ],
    "teams": [
-    "Georgia",
     "Northern Ireland"
    ]
   },
@@ -1569,7 +1690,6 @@
     "uefa-nations-league"
    ],
    "teams": [
-    "Georgia",
     "Northern Ireland"
    ]
   },
@@ -1587,73 +1707,76 @@
     "uefa-nations-league"
    ],
    "teams": [
-    "Georgia",
     "Northern Ireland"
    ]
   },
   {
-   "id": 1268,
-   "sport": "cricket",
-   "one_line": "ECB announced a wicket‑keeper replacement for Jos Buttler before the third ODI against Sri Lanka.",
-   "title": "ECB confirm Jos Buttler's replacement ahead of 3rd ODI vs Sri Lanka",
-   "url": "https://cricketaddictor.com/cricket-news/ecb-confirm-jos-buttlers-replacement-ahead-of-3rd-odi-vs-sri-lanka-464261",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Selection & Squad",
-   "published_at": "2026-09-25T18:04:24+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1271,
-   "sport": "cricket",
-   "one_line": "Virender Sehwag commented on the retirement discussions of Rohit Sharma and Virat Kohli.",
-   "title": "\"We won’t watch\": Virender Sehwag reacts to Rohit Sharma and Virat Kohli retirement talks",
-   "url": "https://cricketaddictor.com/cricket-news/we-wont-watch-virender-sehwag-reacts-to-rohit-sharma-and-virat-kohli-retirement-talks-464257",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Player Milestone & Record",
-   "published_at": "2026-09-25T18:04:22+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1295,
+   "id": 2441,
    "sport": "football",
-   "one_line": "Preston North End is nearing the appointment of Graham Alexander as manager.",
-   "title": "Preston closing in on Alexander appointment",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c60m33n3nxgko?at_medium=RSS&at_campaign=rss",
+   "one_line": "Chelsea considered biggest threat to City title defence.",
+   "title": "BBC Women's Football Weekly",
+   "url": "https://www.bbc.co.uk/sounds/play/p0pcwtmc?at_medium=RSS&at_campaign=rss",
    "source": "BBC Football",
    "also_reported_by": [],
-   "category": "Selection & Squad",
-   "published_at": "2026-09-25T16:03:02+00:00",
+   "category": "Preview & Build-up",
+   "published_at": "2026-09-28T15:04:00+00:00",
    "events": [],
    "teams": []
   },
   {
-   "id": 1288,
+   "id": 2456,
    "sport": "football",
-   "one_line": "Thomas Tuchel said Cole Palmer misses opportunities to play for England after withdrawing from the squad.",
-   "title": "Palmer misses too many opportunities to play for England - Tuchel",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cm9dww15527lo?at_medium=RSS&at_campaign=rss",
+   "one_line": "CAS regulates legal disputes in sport.",
+   "title": "How does Cas work and why can't Man City appeal to it?",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c920v34y4l2zo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Football",
    "also_reported_by": [],
-   "category": "Selection & Squad",
-   "published_at": "2026-09-25T15:54:03+00:00",
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-28T14:43:05+00:00",
    "events": [],
    "teams": []
   },
   {
-   "id": 1301,
+   "id": 2436,
    "sport": "football",
-   "one_line": "Wycombe Wanderers signed former England striker Danny Ings.",
-   "title": "Wycombe sign ex-England striker Ings",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cmj6436g4w03o?at_medium=RSS&at_campaign=rss",
+   "one_line": "Potter highlighted as potential England breakthrough star.",
+   "title": "Could Potter be England's next breakthrough star?",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cry8z31pl534o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Football",
    "also_reported_by": [],
-   "category": "Selection & Squad",
-   "published_at": "2026-09-25T14:17:37+00:00",
+   "category": "Preview & Build-up",
+   "published_at": "2026-09-28T13:33:23+00:00",
    "events": [],
+   "teams": [
+    "England"
+   ]
+  },
+  {
+   "id": 2448,
+   "sport": "football",
+   "one_line": "Vozinha seeks peace after World Cup fame.",
+   "title": "'I've lost my peace' - Cape Verde hero Vozinha on newfound fame",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cw4gr1vj845vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Other",
+   "published_at": "2026-09-28T12:59:30+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2439,
+   "sport": "football",
+   "one_line": "Bellamy says Wales deserve Nations League A spot.",
+   "title": "Bellamy sure Wales belong as Haaland threat looms",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6vgy934nvq4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Preview & Build-up",
+   "published_at": "2026-09-28T12:08:16+00:00",
+   "events": [
+    "uefa-nations-league"
+   ],
    "teams": []
   },
   {
@@ -1734,7 +1857,9 @@
    "events": [
     "premier-league"
    ],
-   "teams": []
+   "teams": [
+    "England"
+   ]
   },
   {
    "id": 2285,
@@ -1760,7 +1885,10 @@
    "category": "Preview & Build-up",
    "published_at": "2026-09-28T07:46:12+00:00",
    "events": [],
-   "teams": []
+   "teams": [
+    "Scotland",
+    "Switzerland"
+   ]
   },
   {
    "id": 2302,
@@ -1923,7 +2051,10 @@
    "category": "Off-field & Controversy",
    "published_at": "2026-09-27T11:35:25+00:00",
    "events": [],
-   "teams": []
+   "teams": [
+    "Scotland",
+    "Slovenia"
+   ]
   },
   {
    "id": 1886,
@@ -1977,7 +2108,10 @@
    "events": [
     "uefa-nations-league"
    ],
-   "teams": []
+   "teams": [
+    "Scotland",
+    "Slovenia"
+   ]
   },
   {
    "id": 1864,
@@ -2042,7 +2176,9 @@
    "category": "Selection & Squad",
    "published_at": "2026-09-26T23:06:07+00:00",
    "events": [],
-   "teams": []
+   "teams": [
+    "England"
+   ]
   },
   {
    "id": 1726,
@@ -2055,7 +2191,10 @@
    "category": "Other",
    "published_at": "2026-09-26T22:47:10+00:00",
    "events": [],
-   "teams": []
+   "teams": [
+    "England",
+    "Spain"
+   ]
   },
   {
    "id": 1725,
@@ -2068,7 +2207,10 @@
    "category": "Other",
    "published_at": "2026-09-26T22:39:52+00:00",
    "events": [],
-   "teams": []
+   "teams": [
+    "England",
+    "Spain"
+   ]
   },
   {
    "id": 1731,
@@ -2098,7 +2240,10 @@
    "events": [
     "uefa-nations-league"
    ],
-   "teams": []
+   "teams": [
+    "England",
+    "Spain"
+   ]
   },
   {
    "id": 1729,
@@ -2206,7 +2351,10 @@
    "category": "Preview & Build-up",
    "published_at": "2026-09-26T17:05:53+00:00",
    "events": [],
-   "teams": []
+   "teams": [
+    "Scotland",
+    "Slovenia"
+   ]
   },
   {
    "id": 1567,
@@ -2260,7 +2408,10 @@
    "events": [
     "uefa-nations-league"
    ],
-   "teams": []
+   "teams": [
+    "England",
+    "Spain"
+   ]
   },
   {
    "id": 1595,
@@ -2368,32 +2519,6 @@
    "events": [
     "premier-league"
    ],
-   "teams": []
-  },
-  {
-   "id": 1294,
-   "sport": "football",
-   "one_line": "The article reviews Derek McInnes’s first 100 days as Rangers manager.",
-   "title": "From shaky start to statement wins - 100 days of McInnes at Rangers",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cqd08xkm22reo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-25T14:29:57+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1272,
-   "sport": "cricket",
-   "one_line": "Zaheer Khan outlines his plan to protect Chennai Super Kings’ brand as new head coach.",
-   "title": "\"It's about protecting that brand\": Zaheer Khan reveals his plan after taking charge as CSK head coach",
-   "url": "https://cricketaddictor.com/cricket-news/its-about-protecting-that-brand-zaheer-khan-reveals-his-plan-after-taking-charge-as-csk-head-coach-464256",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-25T13:00:09+00:00",
-   "events": [],
    "teams": []
   }
  ],
@@ -2806,6 +2931,40 @@
  ],
  "matches_with_news": [
   {
+   "scoretab_url": "https://scoretab.in/matches/football/2026-09-30/uefa-nations-league/czechia-vs-england/1528910",
+   "sport": "football",
+   "event": "uefa-nations-league",
+   "date": "2026-09-30",
+   "home": "Czechia",
+   "away": "England",
+   "story_ids": [
+    2432,
+    2436,
+    2290,
+    1733,
+    1726,
+    1725,
+    1732,
+    1589
+   ]
+  },
+  {
+   "scoretab_url": "https://scoretab.in/matches/football/2026-09-30/uefa-nations-league/scotland-vs-switzerland/1545651",
+   "sport": "football",
+   "event": "uefa-nations-league",
+   "date": "2026-09-30",
+   "home": "Scotland",
+   "away": "Switzerland",
+   "story_ids": [
+    1922,
+    1601,
+    2338,
+    1879,
+    1869,
+    1583
+   ]
+  },
+  {
    "scoretab_url": "https://scoretab.in/matches/football/2026-09-29/uefa-nations-league/northern-ireland-vs-hungary/1528906",
    "sport": "football",
    "event": "uefa-nations-league",
@@ -2821,16 +2980,32 @@
    ]
   },
   {
-   "scoretab_url": "https://scoretab.in/matches/football/2026-09-28/uefa-nations-league/georgia-vs-ukraine/1528902",
+   "scoretab_url": "https://scoretab.in/matches/football/2026-09-30/uefa-nations-league/spain-vs-croatia/1528909",
    "sport": "football",
    "event": "uefa-nations-league",
-   "date": "2026-09-28",
-   "home": "Georgia",
-   "away": "Ukraine",
+   "date": "2026-09-30",
+   "home": "Spain",
+   "away": "Croatia",
    "story_ids": [
-    1596,
-    1458,
-    1445
+    2159,
+    1726,
+    1725,
+    1732,
+    1589
+   ]
+  },
+  {
+   "scoretab_url": "https://scoretab.in/matches/football/2026-09-30/uefa-nations-league/slovenia-vs-fyr-macedonia/1545661",
+   "sport": "football",
+   "event": "uefa-nations-league",
+   "date": "2026-09-30",
+   "home": "Slovenia",
+   "away": "Fyr Macedonia",
+   "story_ids": [
+    1601,
+    1879,
+    1869,
+    1583
    ]
   },
   {
