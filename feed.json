@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-27T20:43:21+00:00",
+ "generated_at": "2026-09-28T05:34:06+00:00",
  "about": "Concept feed: source headline + our own one-line summary + link. No article text. Events and matches are read from scoretab.in.",
  "events": [
   {
    "slug": "uefa-nations-league",
    "name": "UEFA Nations League",
    "sport": "football",
-   "matches_listed": 9,
-   "stories": 15
+   "matches_listed": 8,
+   "stories": 12
   },
   {
    "slug": "ifa-shield",
@@ -21,7 +21,7 @@
    "name": "Premier League",
    "sport": "football",
    "matches_listed": 0,
-   "stories": 14
+   "stories": 12
   },
   {
    "slug": "chengdu",
@@ -34,7 +34,7 @@
    "slug": "hangzhou",
    "name": "Hangzhou Open",
    "sport": "tennis",
-   "matches_listed": 4,
+   "matches_listed": 3,
    "stories": 0
   },
   {
@@ -159,15 +159,17 @@
    "teams": []
   },
   {
-   "id": 968,
-   "sport": "football",
-   "one_line": "Billy Vigar's parents claim the Football Association could have prevented their son's death.",
-   "title": "Our son's death could have been prevented by FA - Billy Vigar's parents",
-   "url": "https://www.bbc.co.uk/sport/football/articles/ckwyzjny99vjo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
+   "id": 2134,
+   "sport": "cricket",
+   "one_line": "Mike Baird resigns as Cricket Australia chairman; David Boon becomes interim chairman.",
+   "title": "Mike Baird resigns as Cricket Australia Chairman after BBL privatisation row, David Boon takes charge",
+   "url": "https://cricketaddictor.com/cricket-news/mike-baird-resigns-as-cricket-australia-chairman-after-bbl-privatisation-row-david-boon-takes-charge-464351",
+   "source": "CricketAddictor",
+   "also_reported_by": [
+    "Hindustan Times Cricket"
+   ],
    "category": "Off-field & Controversy",
-   "published_at": "2026-09-25T05:25:29+00:00",
+   "published_at": "2026-09-28T05:10:14+00:00",
    "events": [],
    "teams": []
   },
@@ -470,18 +472,70 @@
    "teams": []
   },
   {
-   "id": 975,
+   "id": 2131,
+   "sport": "cricket",
+   "one_line": "BCB launches Domestic-3, a franchise-based competition replacing existing formats for 2026-27.",
+   "title": "Bangladesh Cricket Board announces domestic-3 with six franchises ahead of 2026-27 season",
+   "url": "https://cricketaddictor.com/cricket-news/bangladesh-cricket-board-announces-domestic-3-with-six-franchises-ahead-of-2026-27-season-464352",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Series & Tournament",
+   "published_at": "2026-09-28T05:26:52+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2136,
+   "sport": "cricket",
+   "one_line": "India and Pakistan advance to Asian Games 2026 semi-finals after quarterfinals abandoned by rain.",
+   "title": "India, Pakistan reach Asian Games 2026 semi-finals after washouts",
+   "url": "https://cricketaddictor.com/cricket-news/india-pakistan-reach-asian-games-2026-semi-finals-after-washouts-464348",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Match Result",
+   "published_at": "2026-09-28T04:42:30+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2075,
+   "sport": "cricket",
+   "one_line": "India progresses to Asian Games 2026 semi-finals after Afghanistan match abandoned by rain.",
+   "title": "India vs Afghanistan Asian Games quarter-final: Match abandoned without toss, India through to semis",
+   "url": "https://www.hindustantimes.com/cricket/ind-vs-afg-live-cricket-score-india-vs-afghanistan-men-asian-games-2026-quarterfinal-today-28-september-latest-scorecard-101790553966384.html",
+   "source": "Hindustan Times Cricket",
+   "also_reported_by": [
+    "CricketAddictor"
+   ],
+   "category": "Match Result",
+   "published_at": "2026-09-28T02:31:52+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2159,
    "sport": "football",
-   "one_line": "Dan Robathan explains how a spinal tumour ended his career as an assistant referee in the FA Cup final.",
-   "title": "The FA Cup final assistant ref whose life was turned upside down by tumour discovery",
-   "url": "https://www.bbc.co.uk/news/articles/c62kd2r65l1o?at_medium=RSS&at_campaign=rss",
+   "one_line": "Explores reasons behind Spain's dominance with 17 titles in five years across all levels.",
+   "title": "Seventeen titles in five years - why Spain are a dominant force",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c39elvrye40o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Football",
    "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-24T23:50:49+00:00",
-   "events": [
-    "premier-league"
-   ],
+   "category": "Other",
+   "published_at": "2026-09-27T22:13:19+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2166,
+   "sport": "football",
+   "one_line": "Chelsea defeats Arsenal in women's derby thanks to Thompson's goal.",
+   "title": "Thompson goal enough to give Chelsea feisty derby win over Arsenal",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cmq8jnqxjx5no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Match Result",
+   "published_at": "2026-09-27T21:21:37+00:00",
+   "events": [],
    "teams": []
   },
   {
@@ -1201,9 +1255,7 @@
    "category": "Off-field & Controversy",
    "published_at": "2026-09-26T05:56:40+00:00",
    "events": [],
-   "teams": [
-    "Portugal"
-   ]
+   "teams": []
   },
   {
    "id": 1516,
@@ -1680,90 +1732,108 @@
    "teams": []
   },
   {
-   "id": 960,
+   "id": 2132,
    "sport": "cricket",
-   "one_line": "Sanath Jayasuriya supports Rohit Sharma and Virat Kohli to play in India's 2027 ODI World Cup.",
-   "title": "Sanath Jayasuriya weighs in on Rohit Sharma, Virat Kohli’s 2027 World Cup future",
-   "url": "https://cricketaddictor.com/cricket-news/sanath-jayasuriya-weighs-in-on-rohit-sharma-virat-kohlis-2027-world-cup-future-464227",
+   "one_line": "Aakash Chopra says Kohli’s Test retirement is his best ODI decision.",
+   "title": "Aakash Chopra calls Test retirement Virat Kohli’s best ODI decision",
+   "url": "https://cricketaddictor.com/cricket-news/aakash-chopra-calls-test-retirement-virat-kohlis-best-odi-decision-464350",
    "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Selection & Squad",
-   "published_at": "2026-09-25T05:16:12+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 914,
-   "sport": "cricket",
-   "one_line": "Emilio Gay scored a century on his County Championship return for Durham, boosting hopes of retaining his Test opener spot.",
-   "title": "Emilio Gay scores century on County Championship return to boost hopes of retaining England Test opener spot",
-   "url": "https://www.wisden.com/series/county-championship-2026/cricket-news/emilio-gay-scores-century-on-county-championship-return-to-boost-hopes-of-retaining-england-test-opener-spot",
-   "source": "Wisden",
-   "also_reported_by": [],
-   "category": "Player Milestone & Record",
-   "published_at": "2026-09-25T05:15:00+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 962,
-   "sport": "cricket",
-   "one_line": "Venkatesh Iyer underwent shoulder surgery in London, ruling him out of the immediate domestic season.",
-   "title": "Venkatesh Iyer undergoes shoulder surgery in London ahead of domestic season",
-   "url": "https://cricketaddictor.com/cricket-news/venkatesh-iyer-undergoes-shoulder-surgery-in-london-ahead-of-domestic-season-464225",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Injury & Fitness",
-   "published_at": "2026-09-25T04:42:17+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 979,
-   "sport": "football",
-   "one_line": "UEFA warns that Premier League spending may create a two-speed transfer market.",
-   "title": "Uefa fears impact of Premier League spending on transfer market",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c639merx84jno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-24T22:09:28+00:00",
-   "events": [
-    "premier-league"
-   ],
-   "teams": []
-  },
-  {
-   "id": 986,
-   "sport": "football",
-   "one_line": "Chiedozie Ogbene urges Ireland not to pressure the team over Israel Nations League games.",
-   "title": "'Don't put pressure on us' over Israel games - Ogbene",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c61kx1lyxz91o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
    "also_reported_by": [],
    "category": "Off-field & Controversy",
-   "published_at": "2026-09-24T22:03:28+00:00",
-   "events": [
-    "uefa-nations-league"
-   ],
+   "published_at": "2026-09-28T05:20:31+00:00",
+   "events": [],
    "teams": []
   },
   {
-   "id": 989,
+   "id": 2133,
+   "sport": "cricket",
+   "one_line": "De Kock uses profanity during DRS dispute with Bavuma in SA vs AUS ODI.",
+   "title": "Watch: Quinton de Kock drops F-bomb in fight with Temba Bavuma during SA vs AUS ODI",
+   "url": "https://cricketaddictor.com/cricket-news/watch-quinton-de-kock-drops-f-bomb-in-fight-with-temba-bavuma-during-sa-vs-aus-odi-464349",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-28T05:15:29+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2135,
+   "sport": "cricket",
+   "one_line": "Fantasy tips and playing XI preview for Bangladesh vs Malaysia 4th quarter-final at Asian Games 2026.",
+   "title": "BAN vs MAL Dream11 Prediction Today Match, Dream11 Team Today, Fantasy Cricket Tips, Playing XI, Pitch Report, Injury Update- Asian Games Men’s T20I 2026, 4th Quarter-final",
+   "url": "https://cricketaddictor.com/fantasy-cricket/ban-vs-mal-dream11-prediction-today-match-dream11-team-today-fantasy-cricket-tips-playing-xi-pitch-report-injury-update-asian-games-mens-t20i-2026-4th-quarter-final-464345",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Preview & Build-up",
+   "published_at": "2026-09-28T04:38:17+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2073,
+   "sport": "cricket",
+   "one_line": "India's management praises Kuldeep's spell against West Indies as a match-winner.",
+   "title": "Brilliant spell against WI shows why India need Kuldeep",
+   "url": "https://www.hindustantimes.com/cricket/brilliant-spell-against-wi-shows-why-india-need-kuldeep-101790569200949.html",
+   "source": "Hindustan Times Cricket",
+   "also_reported_by": [],
+   "category": "Other",
+   "published_at": "2026-09-28T04:20:00+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2074,
+   "sport": "cricket",
+   "one_line": "Kohli says comparisons with Tendulkar are meaningless, emphasizing personal admiration.",
+   "title": "Why Virat Kohli thinks comparisons with Tendulkar make no sense: ‘For me, Sachin paaji will always be Sachin paaji’",
+   "url": "https://www.hindustantimes.com/cricket/why-virat-kohli-thinks-comparisons-with-tendulkar-make-no-sense-for-me-sachin-paaji-will-always-be-sachin-paaji-101790564643190.html",
+   "source": "Hindustan Times Cricket",
+   "also_reported_by": [],
+   "category": "Other",
+   "published_at": "2026-09-28T03:17:46+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2076,
+   "sport": "cricket",
+   "one_line": "Pakistan advances to Asian Games 2026 semi-finals after Hong Kong match washed out.",
+   "title": "Why Pakistan reached Asian Games semis without a ball bowled vs Hong Kong",
+   "url": "https://www.hindustantimes.com/cricket/why-pakistan-reached-asian-games-semis-without-a-ball-bowled-vs-hong-kong-101790558542616.html",
+   "source": "Hindustan Times Cricket",
+   "also_reported_by": [],
+   "category": "Other",
+   "published_at": "2026-09-28T01:56:52+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2078,
+   "sport": "cricket",
+   "one_line": "Analysis of differences between Kohli and Tendulkar after Kohli reaches 15,000 ODI runs.",
+   "title": "Virat Kohli vs Sachin Tendulkar after 15000 ODI runs: Why the gap between them is more complex than it looks",
+   "url": "https://www.hindustantimes.com/cricket/virat-kohli-vs-sachin-tendulkar-after-15000-odi-runs-why-the-gap-between-them-is-more-complex-than-it-looks-101790528916568.html",
+   "source": "Hindustan Times Cricket",
+   "also_reported_by": [],
+   "category": "Other",
+   "published_at": "2026-09-27T23:27:26+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2157,
    "sport": "football",
-   "one_line": "Highlights show Portugal defeating Wales 1-0 in the Nations League.",
-   "title": "Highlights - Felix earns Portugal narrow Nations League win over Wales",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cq770gkr1zy2o?at_medium=RSS&at_campaign=rss",
+   "one_line": "Barcelona monitoring Estevao amid Chelsea gossip and other transfer speculation.",
+   "title": "Barcelona monitor Chelsea's Estevao - Monday's gossip",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm74kp52d3xko?at_medium=RSS&at_campaign=rss",
    "source": "BBC Football",
    "also_reported_by": [],
-   "category": "Match Result",
-   "published_at": "2026-09-24T21:09:33+00:00",
-   "events": [
-    "uefa-nations-league"
-   ],
-   "teams": [
-    "Portugal"
-   ]
+   "category": "Preview & Build-up",
+   "published_at": "2026-09-27T21:19:02+00:00",
+   "events": [],
+   "teams": []
   },
   {
    "id": 1939,
@@ -2077,19 +2147,6 @@
    "teams": []
   },
   {
-   "id": 1574,
-   "sport": "cricket",
-   "one_line": "Prediction and fantasy tips for the third ODI between England and Sri Lanka.",
-   "title": "ENG vs SL Dream11 Prediction Today Match, Dream11 Team Today, Fantasy Cricket Tips, Playing XI, Pitch Report, Injury Update- Sri Lanka Tour of England 2026, 3rd ODI",
-   "url": "https://cricketaddictor.com/fantasy-cricket/eng-vs-sl-dream11-prediction-today-match-dream11-team-today-fantasy-cricket-tips-playing-xi-pitch-report-injury-update-sri-lanka-tour-of-england-2026-3rd-odi-464283",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Preview & Build-up",
-   "published_at": "2026-09-26T18:04:12+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
    "id": 1583,
    "sport": "football",
    "one_line": "Scotland's first match under Pocognoli ended in a draw with Slovenia.",
@@ -2317,6 +2374,19 @@
    "teams": []
   },
   {
+   "id": 1117,
+   "sport": "cricket",
+   "one_line": "Malaysia will play Oman in the sixth match of the Asian Games Men’s T20I 2026.",
+   "title": "MAL vs OMN Dream11 Prediction Today Match, Dream11 Team Today, Fantasy Cricket Tips, Playing XI, Pitch Report, Injury Update- Asian Games Men’s T20I 2026, Match 6",
+   "url": "https://cricketaddictor.com/fantasy-cricket/mal-vs-omn-dream11-prediction-today-match-dream11-team-today-fantasy-cricket-tips-playing-xi-pitch-report-injury-update-asian-games-mens-t20i-2026-match-6-464244",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Preview & Build-up",
+   "published_at": "2026-09-25T10:39:30+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
    "id": 1118,
    "sport": "cricket",
    "one_line": "Dhruv Jurel says he admires Vaibhav Sooryavanshi’s fearless batting but finds comparison unfair.",
@@ -2514,69 +2584,13 @@
    "published_at": "2026-09-25T06:11:21+00:00",
    "events": [],
    "teams": []
-  },
-  {
-   "id": 886,
-   "sport": "cricket",
-   "one_line": "Oman's cricket XI, featuring seven players with the same surname, intrigued spectators at the Asian Games.",
-   "title": "Seven different players, one surname: Oman cricket’s Playing XI captures imagination at Asian Games",
-   "url": "https://www.hindustantimes.com/cricket/seven-different-players-one-surname-oman-cricket-s-playing-xi-captures-imagination-at-asian-games-101790311236729.html",
-   "source": "Hindustan Times Cricket",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-25T05:16:09+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 969,
-   "sport": "football",
-   "one_line": "Craig Bellamy says Wales can achieve more after their Nations League loss to Portugal.",
-   "title": "Bellamy wants more from Wales after loss to Portugal",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c63eqkdnvkq8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-24T22:28:33+00:00",
-   "events": [
-    "uefa-nations-league"
-   ],
-   "teams": [
-    "Portugal"
-   ]
-  },
-  {
-   "id": 980,
-   "sport": "football",
-   "one_line": "Manchester United borrowed an additional £90m, raising total debt above £1.1bn.",
-   "title": "Man Utd borrow another £90m as debt tops £1.1bn",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cmx2zv4e320do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-24T22:22:43+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 987,
-   "sport": "football",
-   "one_line": "Barcelona sporting director Deco says the club is not interested in Manchester United's JJ Gabriel.",
-   "title": "Barcelona's Deco denies interest in Man Utd's Gabriel",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cqrl67e2eye4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Selection & Squad",
-   "published_at": "2026-09-24T21:40:37+00:00",
-   "events": [],
-   "teams": []
   }
  ],
  "storylines": [
   {
    "first": "2026-09-21",
-   "last": "2026-09-27",
-   "days": 4,
+   "last": "2026-09-28",
+   "days": 5,
    "stories": [
     {
      "id": 28,
@@ -2613,6 +2627,55 @@
      "one_line": "The men's cricket knockout matches at the Asian Games start on September 28.",
      "url": "https://www.wisden.com/cricket-news/asian-games-mens-cricket-competition-2026-live-streaming-and-tv-channels-where-to-watch-live-and-match-timings-for-asian-games",
      "published_at": "2026-09-27T11:06:00+00:00"
+    },
+    {
+     "id": 2077,
+     "one_line": "Explains potential outcomes if India vs Afghanistan quarter-final is washed out by rain.",
+     "url": "https://www.hindustantimes.com/cricket/what-happens-if-rain-washes-out-india-vs-afghanistan-asian-games-2026-quarter-final-explained-101790529171282.html",
+     "published_at": "2026-09-27T23:39:39+00:00"
+    },
+    {
+     "id": 2137,
+     "one_line": "Bangladesh vs Malaysia 4th quarter-final preview with playing XI and weather details.",
+     "url": "https://cricketaddictor.com/cricket-news/ban-vs-mly-playing-11-today-live-streaming-pitch-weather-bangladesh-vs-malaysia-asian-games-2026-4th-quarter-final-464286",
+     "published_at": "2026-09-28T01:30:02+00:00"
+    },
+    {
+     "id": 2138,
+     "one_line": "Sri Lanka vs Nepal 3rd quarter-final preview with playing XI and weather information.",
+     "url": "https://cricketaddictor.com/cricket-news/sl-vs-nep-playing-11-today-live-streaming-pitch-weather-sri-lanka-vs-nepal-asian-games-2026-3rd-quarter-final-464284",
+     "published_at": "2026-09-28T01:30:02+00:00"
+    },
+    {
+     "id": 2075,
+     "one_line": "India progresses to Asian Games 2026 semi-finals after Afghanistan match abandoned by rain.",
+     "url": "https://www.hindustantimes.com/cricket/ind-vs-afg-live-cricket-score-india-vs-afghanistan-men-asian-games-2026-quarterfinal-today-28-september-latest-scorecard-101790553966384.html",
+     "published_at": "2026-09-28T02:31:52+00:00"
+    },
+    {
+     "id": 2135,
+     "one_line": "Fantasy tips and playing XI preview for Bangladesh vs Malaysia 4th quarter-final at Asian Games 2026.",
+     "url": "https://cricketaddictor.com/fantasy-cricket/ban-vs-mal-dream11-prediction-today-match-dream11-team-today-fantasy-cricket-tips-playing-xi-pitch-report-injury-update-asian-games-mens-t20i-2026-4th-quarter-final-464345",
+     "published_at": "2026-09-28T04:38:17+00:00"
+    }
+   ]
+  },
+  {
+   "first": "2026-09-27",
+   "last": "2026-09-28",
+   "days": 2,
+   "stories": [
+    {
+     "id": 1941,
+     "one_line": "Virat Kohli reaches 15,000 ODI runs in 74 innings, fastest to the milestone.",
+     "url": "https://www.hindustantimes.com/cricket/virat-kohli-hits-15000-odi-runs-leaves-sachin-tendulkars-record-behind-with-fastest-ever-march-to-the-milestone-101790521273372.html",
+     "published_at": "2026-09-27T15:08:41+00:00"
+    },
+    {
+     "id": 2078,
+     "one_line": "Analysis of differences between Kohli and Tendulkar after Kohli reaches 15,000 ODI runs.",
+     "url": "https://www.hindustantimes.com/cricket/virat-kohli-vs-sachin-tendulkar-after-15000-odi-runs-why-the-gap-between-them-is-more-complex-than-it-looks-101790528916568.html",
+     "published_at": "2026-09-27T23:27:26+00:00"
     }
    ]
   },
@@ -2926,19 +2989,6 @@
     1596,
     1458,
     1445
-   ]
-  },
-  {
-   "scoretab_url": "https://scoretab.in/matches/football/2026-09-28/uefa-nations-league/norway-vs-portugal/1528900",
-   "sport": "football",
-   "event": "uefa-nations-league",
-   "date": "2026-09-28",
-   "home": "Norway",
-   "away": "Portugal",
-   "story_ids": [
-    1586,
-    989,
-    969
    ]
   },
   {
