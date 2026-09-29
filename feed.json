@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-29T12:48:38+00:00",
+ "generated_at": "2026-09-29T19:21:42+00:00",
  "about": "Concept feed: source headline + our own one-line summary + link. No article text. Events and matches are read from scoretab.in.",
  "events": [
   {
    "slug": "uefa-nations-league",
    "name": "UEFA Nations League",
    "sport": "football",
-   "matches_listed": 10,
+   "matches_listed": 9,
    "stories": 14
   },
   {
@@ -21,21 +21,7 @@
    "name": "Premier League",
    "sport": "football",
    "matches_listed": 0,
-   "stories": 10
-  },
-  {
-   "slug": "chengdu",
-   "name": "Chengdu Open",
-   "sport": "tennis",
-   "matches_listed": 1,
-   "stories": 0
-  },
-  {
-   "slug": "hangzhou",
-   "name": "Hangzhou Open",
-   "sport": "tennis",
-   "matches_listed": 1,
-   "stories": 0
+   "stories": 11
   },
   {
    "slug": "billie-jean-king-cup",
@@ -48,11 +34,70 @@
    "slug": "uefa-champions-league-women",
    "name": "UEFA Champions League Women",
    "sport": "football",
-   "matches_listed": 3,
+   "matches_listed": 7,
+   "stories": 0
+  },
+  {
+   "slug": "beijing",
+   "name": "Beijing",
+   "sport": "tennis",
+   "matches_listed": 56,
+   "stories": 0
+  },
+  {
+   "slug": "tokyo",
+   "name": "Tokyo",
+   "sport": "tennis",
+   "matches_listed": 23,
    "stories": 0
   }
  ],
  "stories": [
+  {
+   "id": 2879,
+   "sport": "football",
+   "one_line": "Manchester City found guilty of all charges for breaches of Premier League financial rules from 2009-10 to 2017-18.",
+   "title": "Man City guilty of 'sham' contracts and misleading accounts",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-29T18:12:33+00:00",
+   "events": [
+    "premier-league"
+   ],
+   "teams": []
+  },
+  {
+   "id": 2901,
+   "sport": "football",
+   "one_line": "Manchester City found guilty of all charges for breaches of Premier League financial rules between 2009-10 and 2017-18.",
+   "title": "What have Man City been found guilty of doing?",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cm1j46n74ke6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-29T18:09:34+00:00",
+   "events": [
+    "premier-league"
+   ],
+   "teams": []
+  },
+  {
+   "id": 2902,
+   "sport": "football",
+   "one_line": "Manchester City CEO refuses to answer questions about the guilty verdict.",
+   "title": "Man City CEO refuses to answer questions on guilty verdict",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cjly4dlwd1n5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Football",
+   "also_reported_by": [],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-29T15:05:04+00:00",
+   "events": [
+    "premier-league"
+   ],
+   "teams": []
+  },
   {
    "id": 2753,
    "sport": "football",
@@ -139,18 +184,16 @@
    "teams": []
   },
   {
-   "id": 1585,
-   "sport": "football",
-   "one_line": "Premier League may strip Manchester City of eight trophies after breach charges.",
-   "title": "No Premier League appetite to strip Man City of titles - but threat remains",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cxyvzzj17682o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
+   "id": 2867,
+   "sport": "cricket",
+   "one_line": "Kapil Dev praises Virat Kohli as a special talent after reaching 15,000 ODI runs.",
+   "title": "Kapil Dev hails Virat Kohli, calls him a ‘special talent’ after 15,000 ODI runs",
+   "url": "https://cricketaddictor.com/cricket-news/kapil-dev-hails-virat-kohli-calls-him-a-special-talent-after-15000-odi-runs-464419",
+   "source": "CricketAddictor",
    "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-26T13:26:40+00:00",
-   "events": [
-    "premier-league"
-   ],
+   "category": "Player Milestone & Record",
+   "published_at": "2026-09-29T18:04:23+00:00",
+   "events": [],
    "teams": []
   },
   {
@@ -188,7 +231,9 @@
    "title": "KL Rahul set for 100th ODI in India’s 2nd ODI vs West Indies",
    "url": "https://cricketaddictor.com/cricket-news/kl-rahul-set-for-100th-odi-in-indias-2nd-odi-vs-west-indies-464410",
    "source": "CricketAddictor",
-   "also_reported_by": [],
+   "also_reported_by": [
+    "Hindustan Times Cricket"
+   ],
    "category": "Player Milestone & Record",
    "published_at": "2026-09-29T11:29:34+00:00",
    "events": [],
@@ -382,7 +427,11 @@
    "category": "Match Result",
    "published_at": "2026-09-27T16:55:10+00:00",
    "events": [],
-   "teams": []
+   "teams": [
+    "Alex De Minaur",
+    "Alexander Zverev",
+    "Learner Tien"
+   ]
   },
   {
    "id": 2066,
@@ -413,44 +462,85 @@
    "teams": []
   },
   {
-   "id": 1569,
+   "id": 2860,
    "sport": "cricket",
-   "one_line": "Hardik Pandya remains unfit ahead of the 2027 ODI World Cup.",
-   "title": "Bad News for India: Hardik Pandya faces fresh setback ahead of 2027 ODI World Cup",
-   "url": "https://cricketaddictor.com/cricket-news/bad-news-for-india-hardik-pandya-faces-fresh-setback-ahead-of-2027-odi-world-cup-464296",
+   "one_line": "Abhishek Nayar encourages Rohit Sharma to return stronger before the second ODI of the series.",
+   "title": "'He will come back stronger': Abhishek Nayar backs Rohit Sharma ahead of 2nd ODI",
+   "url": "https://cricketaddictor.com/cricket-news/he-will-come-back-stronger-abhishek-nayar-backs-rohit-sharma-ahead-of-2nd-odi-464425",
    "source": "CricketAddictor",
    "also_reported_by": [],
-   "category": "Injury & Fitness",
-   "published_at": "2026-09-26T18:04:14+00:00",
+   "category": "Preview & Build-up",
+   "published_at": "2026-09-29T18:04:25+00:00",
    "events": [],
    "teams": []
   },
   {
-   "id": 1570,
+   "id": 2869,
    "sport": "cricket",
-   "one_line": "Sohail Khan alleges Mickey Arthur is mentally ill, sparking controversy.",
-   "title": "“Mickey Arthur is mentally ill”: Sohail Khan makes controversial claim on ex-Pakistan coach",
-   "url": "https://cricketaddictor.com/cricket-news/mickey-arthur-is-mentally-ill-sohail-khan-makes-controversial-claim-on-ex-pakistan-coach-464295",
+   "one_line": "Mohammad Rizwan requests NCCIA to return his seized phone.",
+   "title": "Mohammad Rizwan makes big request to NCCIA over his seized phone",
+   "url": "https://cricketaddictor.com/cricket-news/mohammad-rizwan-makes-big-request-to-nccia-over-his-seized-phone-464414",
    "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-26T18:04:13+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1582,
-   "sport": "football",
-   "one_line": "Man City chairman remains confident of proving the club’s innocence.",
-   "title": "Man City chairman confident club will prove innocence",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-26T15:02:28+00:00",
-   "events": [
-    "premier-league"
+   "also_reported_by": [
+    "Hindustan Times Cricket"
    ],
+   "category": "Off-field & Controversy",
+   "published_at": "2026-09-29T18:04:16+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2859,
+   "sport": "cricket",
+   "one_line": "Rohit Sharma's associate replaces Ajit Agarkar as chief selector with a condition.",
+   "title": "Not Parthiv Patel! Rohit Sharma’s mate replaces Ajit Agarkar as chief selector, but there’s a catch",
+   "url": "https://cricketaddictor.com/cricket-news/not-parthiv-patel-rohit-sharmas-mate-replaces-ajit-agarkar-as-chief-selector-but-theres-a-catch-464426",
+   "source": "CricketAddictor",
+   "also_reported_by": [],
+   "category": "Selection & Squad",
+   "published_at": "2026-09-29T17:31:36+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2801,
+   "sport": "cricket",
+   "one_line": "Shoaib Akhtar considered for a major PCB role after talks with Mohsin Naqvi.",
+   "title": "PCB's outspoken critic Shoaib Akhtar now in line for major role after talks with Mohsin Naqvi: Report",
+   "url": "https://www.hindustantimes.com/cricket/pcbs-outspoken-critic-shoaib-akhtar-now-in-line-for-major-role-after-talks-with-mohsin-naqvi-report-101790691989926.html",
+   "source": "Hindustan Times Cricket",
+   "also_reported_by": [
+    "CricketAddictor"
+   ],
+   "category": "Selection & Squad",
+   "published_at": "2026-09-29T14:37:19+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2802,
+   "sport": "cricket",
+   "one_line": "India continues to test out players with World Cup as the target.",
+   "title": "WI ODIs: World Cup the target, India to continue test out players",
+   "url": "https://www.hindustantimes.com/cricket/wi-odis-world-cup-the-target-india-to-continue-test-out-players-101790690366932.html",
+   "source": "Hindustan Times Cricket",
+   "also_reported_by": [],
+   "category": "Series & Tournament",
+   "published_at": "2026-09-29T14:05:17+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
+   "id": 2803,
+   "sport": "cricket",
+   "one_line": "Mohsin Naqvi's ACC presidency likely ends in April 2027, Bangladesh may take over.",
+   "title": "Mohsin Naqvi's ACC tenure faces April 2027 end as extension hopes fade, Bangladesh prepare to take over: Report",
+   "url": "https://www.hindustantimes.com/cricket/mohsin-naqvis-acc-tenure-faces-april-2027-end-as-extension-hopes-fade-bangladesh-prepare-to-take-over-101790689914340.html",
+   "source": "Hindustan Times Cricket",
+   "also_reported_by": [],
+   "category": "Selection & Squad",
+   "published_at": "2026-09-29T13:58:51+00:00",
+   "events": [],
    "teams": []
   },
   {
@@ -571,32 +661,6 @@
    ],
    "category": "Series & Tournament",
    "published_at": "2026-09-29T10:57:29+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 2712,
-   "sport": "cricket",
-   "one_line": "Shoaib Akhtar is reportedly close to a Pakistan Cricket Board board position after meeting Mohsin Naqvi.",
-   "title": "Shoaib Akhtar in line for PCB role after meeting Mohsin Naqvi",
-   "url": "https://cricketaddictor.com/cricket-news/shoaib-akhtar-in-line-for-pcb-role-after-meeting-mohsin-naqvi-464406",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-29T10:48:34+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 2643,
-   "sport": "cricket",
-   "one_line": "Mohammad Rizwan demands clarity from NCCIA on probe and return of his seized phone.",
-   "title": "Mohammad Rizwan escalates NCCIA row, demands clarity on probe and return of phone seized nearly four weeks ago",
-   "url": "https://www.hindustantimes.com/cricket/mohammad-rizwan-escalates-nccia-row-demands-clarity-on-probe-and-return-of-phone-seized-nearly-four-weeks-ago-101790677718457.html",
-   "source": "Hindustan Times Cricket",
-   "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-29T10:39:13+00:00",
    "events": [],
    "teams": []
   },
@@ -1708,7 +1772,9 @@
    "category": "Match Result",
    "published_at": "2026-09-27T06:15:26+00:00",
    "events": [],
-   "teams": []
+   "teams": [
+    "Carlos Alcaraz"
+   ]
   },
   {
    "id": 1865,
@@ -1750,163 +1816,84 @@
    "teams": []
   },
   {
-   "id": 1563,
+   "id": 2862,
    "sport": "cricket",
-   "one_line": "ECB NOC rules may affect Ben Stokes’ plans to play in PSL and MLC.",
-   "title": "ECB NOC rules could complicate Ben Stokes’ PSL And MLC plans",
-   "url": "https://cricketaddictor.com/cricket-news/ecb-noc-rules-could-complicate-ben-stokes-psl-and-mlc-plans-464309",
+   "one_line": "Rishabh Pant discusses MS Dhoni's advice that influenced his cricket career.",
+   "title": "Rishabh Pant reveals MS Dhoni’s priceless advice that changed his career",
+   "url": "https://cricketaddictor.com/cricket-news/rishabh-pant-reveals-ms-dhonis-priceless-advice-that-changed-his-career-464424",
    "source": "CricketAddictor",
    "also_reported_by": [],
-   "category": "Selection & Squad",
-   "published_at": "2026-09-26T18:04:27+00:00",
+   "category": "Other",
+   "published_at": "2026-09-29T18:04:25+00:00",
    "events": [],
    "teams": []
   },
   {
-   "id": 1565,
+   "id": 2863,
    "sport": "cricket",
-   "one_line": "Sohail Khan remembers a heated clash with Virat Kohli during the 2015 World Cup.",
-   "title": "Sohail Khan recalls fiery Virat Kohli clash from 2015 ODI World Cup",
-   "url": "https://cricketaddictor.com/cricket-news/sohail-khan-recalls-fiery-virat-kohli-clash-from-2015-odi-world-cup-464300",
+   "one_line": "Rishabh Pant comments on feeling disappointed after being omitted from the ODI squad.",
+   "title": "'You know, you feel bad when something like this happens': Rishabh Pant on ODI snub",
+   "url": "https://cricketaddictor.com/cricket-news/you-know-you-feel-bad-when-something-like-this-happens-rishabh-pant-on-odi-snub-464423",
    "source": "CricketAddictor",
    "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-26T18:04:25+00:00",
+   "category": "Other",
+   "published_at": "2026-09-29T18:04:24+00:00",
    "events": [],
    "teams": []
   },
   {
-   "id": 1568,
+   "id": 2865,
    "sport": "cricket",
-   "one_line": "Rohit Sharma recalls a painful experience from the 2023 ODI World Cup.",
-   "title": "\"I Want To Forget 19th November\": Rohit Sharma recalls 2023 World Cup painful story",
-   "url": "https://cricketaddictor.com/cricket-news/i-want-to-forget-19th-november-rohit-sharma-recalls-2023-world-cup-painful-story-464297",
+   "one_line": "India coach praises Kuldeep Yadav and notes uncertainty about Ravindra Jadeja's future.",
+   "title": "India coach praises Kuldeep Yadav, keeps Ravindra Jadeja's future in suspense",
+   "url": "https://cricketaddictor.com/cricket-news/india-coach-praises-kuldeep-yadav-keeps-ravindra-jadejas-future-in-suspense-464420",
    "source": "CricketAddictor",
    "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-26T18:04:24+00:00",
+   "category": "Other",
+   "published_at": "2026-09-29T18:04:24+00:00",
    "events": [],
    "teams": []
   },
   {
-   "id": 1575,
+   "id": 2866,
    "sport": "cricket",
-   "one_line": "Ajinkya Rahane supports Rohit Sharma against retirement speculation.",
-   "title": "Ajinkya Rahane backs Rohit Sharma amid retirement speculation",
-   "url": "https://cricketaddictor.com/cricket-news/ajinkya-rahane-backs-rohit-sharma-amid-retirement-speculation-464293",
+   "one_line": "Rishabh Pant explains what makes Virat Kohli special under pressure.",
+   "title": "Rishabh Pant reveals what makes Virat Kohli special despite mounting pressure",
+   "url": "https://cricketaddictor.com/cricket-news/rishabh-pant-reveals-what-makes-virat-kohli-special-despite-mounting-pressure-464421",
    "source": "CricketAddictor",
    "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-26T18:04:13+00:00",
+   "category": "Other",
+   "published_at": "2026-09-29T18:04:24+00:00",
    "events": [],
    "teams": []
   },
   {
-   "id": 1576,
+   "id": 2868,
    "sport": "cricket",
-   "one_line": "Mohammad Kaif selects India XI for the first ODI, giving Yashasvi Jaiswal a surprise role.",
-   "title": "Mohammad Kaif picks India XI for 1st ODI vs WI; Yashasvi Jaiswal gets surprise role",
-   "url": "https://cricketaddictor.com/cricket-news/mohammad-kaif-picks-india-xi-for-1st-odi-vs-wi-yashasvi-jaiswal-gets-surprise-role-464291",
+   "one_line": "India spin coach praises Virat Kohli and explains what sets him apart.",
+   "title": "Team India spin bowling coach hails Virat Kohli, reveals what makes him different from the rest",
+   "url": "https://cricketaddictor.com/cricket-news/team-india-spin-bowling-coach-hails-virat-kohli-reveals-what-makes-him-different-from-the-rest-464418",
    "source": "CricketAddictor",
    "also_reported_by": [],
-   "category": "Selection & Squad",
-   "published_at": "2026-09-26T18:04:13+00:00",
+   "category": "Other",
+   "published_at": "2026-09-29T18:04:23+00:00",
    "events": [],
    "teams": []
   },
   {
-   "id": 1578,
-   "sport": "cricket",
-   "one_line": "Mohammad Kaif comments on the World Cup future of Rohit Sharma and Virat Kohli.",
-   "title": "Mohammad Kaif makes massive claim on Rohit Sharma and Virat Kohli’s World Cup future",
-   "url": "https://cricketaddictor.com/cricket-news/mohammad-kaif-makes-massive-claim-on-rohit-sharma-and-virat-kohlis-world-cup-future-464289",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-26T18:04:13+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1581,
-   "sport": "cricket",
-   "one_line": "CSK questions Ruturaj Gaikwad’s captaincy priorities amid a potential shake-up.",
-   "title": "CSK captaincy shake-up on the cards as Ruturaj Gaikwad's priorities questioned",
-   "url": "https://cricketaddictor.com/cricket-news/csk-captaincy-shake-up-on-the-cards-as-ruturaj-gaikwads-priorities-questioned-464285",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-26T18:04:12+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1509,
-   "sport": "cricket",
-   "one_line": "Prasidh Krishna says he must improve tenfold after his injury layoff.",
-   "title": "Need to be ten times better after injury layoff, says Prasidh Krishna",
-   "url": "https://www.hindustantimes.com/cricket/need-to-be-ten-times-better-after-injury-layoff-says-prasidh-krishna-101790436677190.html",
-   "source": "Hindustan Times Cricket",
-   "also_reported_by": [],
-   "category": "Injury & Fitness",
-   "published_at": "2026-09-26T15:33:06+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1601,
+   "id": 2881,
    "sport": "football",
-   "one_line": "Scotland drew 0-0 with Slovenia, missing several chances.",
-   "title": "Scotland rue missed chances in Slovenia draw",
-   "url": "https://www.bbc.co.uk/sport/football/videos/c6y9zzy79ewyo?at_medium=RSS&at_campaign=rss",
+   "one_line": "PFA chief labels England's Cole Palmer a victim of a 'sick' schedule.",
+   "title": "England's Palmer a 'victim' of 'sick' schedule, says PFA chief",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c68048pynj94o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Football",
    "also_reported_by": [],
-   "category": "Match Result",
-   "published_at": "2026-09-26T15:19:39+00:00",
+   "category": "Other",
+   "published_at": "2026-09-29T15:37:43+00:00",
    "events": [],
    "teams": [
-    "Scotland",
-    "Slovenia"
+    "England"
    ]
-  },
-  {
-   "id": 1602,
-   "sport": "football",
-   "one_line": "Man City won narrowly against Charlton in the Women's Super League.",
-   "title": "Man City maintain winning start with narrow win over Charlton",
-   "url": "https://www.bbc.co.uk/sport/football/videos/c6ly77de8p9po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Match Result",
-   "published_at": "2026-09-26T14:53:44+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1528,
-   "sport": "cricket",
-   "one_line": "Preview of South Africa-Australia Test series and WTC title contenders.",
-   "title": "The Scoop: The race to the WTC final, what to expect from South Africa vs Australia & when will Rohit retire?",
-   "url": "https://www.wisden.com/cricket-news/the-race-to-the-wtc-final-what-to-expect-from-south-africa-vs-australia",
-   "source": "Wisden",
-   "also_reported_by": [],
-   "category": "Preview & Build-up",
-   "published_at": "2026-09-26T13:13:00+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1529,
-   "sport": "cricket",
-   "one_line": "Abdullah Fazal scored triple hundred to help State Bank of Pakistan win.",
-   "title": "309* off 339: Recent Pakistan debutant strengthens case as future star on injury comeback",
-   "url": "https://www.wisden.com/cricket-news/309-off-339-recent-pakistan-debutant-abdullah-fazal-strengthens-case-as-future-star-on-injury-comeback",
-   "source": "Wisden",
-   "also_reported_by": [],
-   "category": "Player Milestone & Record",
-   "published_at": "2026-09-26T13:08:00+00:00",
-   "events": [],
-   "teams": []
   },
   {
    "id": 2706,
@@ -2460,6 +2447,21 @@
    ]
   },
   {
+   "id": 1862,
+   "sport": "cricket",
+   "one_line": "Virat Kohli reflects on the emotional impact of India's 2019 World Cup semi-final loss.",
+   "title": "Virat Kohli recalls trauma of India's 2019 World Cup heartbreak",
+   "url": "https://cricketaddictor.com/cricket-news/virat-kohli-recalls-trauma-of-indias-2019-world-cup-heartbreak-464318",
+   "source": "CricketAddictor",
+   "also_reported_by": [
+    "Hindustan Times Cricket"
+   ],
+   "category": "Other",
+   "published_at": "2026-09-27T07:06:26+00:00",
+   "events": [],
+   "teams": []
+  },
+  {
    "id": 1864,
    "sport": "cricket",
    "one_line": "Virat Kohli comments on the Ro-Ko nickname and other fan monikers.",
@@ -2482,19 +2484,6 @@
    "also_reported_by": [],
    "category": "Other",
    "published_at": "2026-09-27T06:05:26+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1800,
-   "sport": "cricket",
-   "one_line": "Virat Kohli says 2019 World Cup heartbreak was tough to swallow.",
-   "title": "‘I was distraught’: Virat Kohli says 2019 World Cup heartbreak was ‘tough to swallow’; ‘I was totally gone mentally’",
-   "url": "https://www.hindustantimes.com/cricket/i-was-distraught-virat-kohli-says-2019-world-cup-heartbreak-was-tough-to-swallow-i-was-totally-gone-mentally-101790483519525.html",
-   "source": "Hindustan Times Cricket",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-27T05:23:58+00:00",
    "events": [],
    "teams": []
   },
@@ -2604,126 +2593,6 @@
    "events": [
     "uefa-nations-league"
    ],
-   "teams": []
-  },
-  {
-   "id": 1562,
-   "sport": "cricket",
-   "one_line": "Wasim Akram criticises the Pakistan Super League for its length and quality.",
-   "title": "Wasim Akram takes dig at PSL over its length and quality",
-   "url": "https://cricketaddictor.com/cricket-news/wasim-akram-takes-dig-at-psl-over-its-length-and-quality-464310",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-26T18:04:38+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1566,
-   "sport": "cricket",
-   "one_line": "Dhruv Jurel calls Virat Kohli the best sledger but rejects the stylish player label.",
-   "title": "Dhruv Jurel names Virat Kohli best sledger but denies most stylish player tag",
-   "url": "https://cricketaddictor.com/cricket-news/dhruv-jurel-names-virat-kohli-best-sledger-but-denies-most-stylish-player-tag-464299",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-26T18:04:24+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1571,
-   "sport": "cricket",
-   "one_line": "Dhruv Jurel discusses his rivalry with Rishabh Pant.",
-   "title": "Dhruv Jurel opens up on his 'rivalry' with Rishabh Pant",
-   "url": "https://cricketaddictor.com/cricket-news/dhruv-jurel-opens-up-on-his-rivalry-with-rishabh-pant-464294",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-26T18:04:13+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1573,
-   "sport": "cricket",
-   "one_line": "Dhruv Jurel recalls an emotional moment during the Rajasthan Royals auction.",
-   "title": "Dhruv Jurel breaks silence on emotional IPL auction moment with Rajasthan Royals",
-   "url": "https://cricketaddictor.com/cricket-news/dhruv-jurel-breaks-silence-on-emotional-ipl-auction-moment-with-rajasthan-royals-464292",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-26T18:04:13+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1577,
-   "sport": "cricket",
-   "one_line": "Sitanshu Kotak says Yashasvi Jaiswal must wait for his India future.",
-   "title": "\"Will have to wait\": Sitanshu Kotak gives update on Yashasvi Jaiswal’s India future",
-   "url": "https://cricketaddictor.com/cricket-news/will-have-to-wait-sitanshu-kotak-gives-update-on-yashasvi-jaiswals-india-future-464290",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-26T18:04:13+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1574,
-   "sport": "cricket",
-   "one_line": "Prediction and fantasy tips for the third ODI between England and Sri Lanka.",
-   "title": "ENG vs SL Dream11 Prediction Today Match, Dream11 Team Today, Fantasy Cricket Tips, Playing XI, Pitch Report, Injury Update- Sri Lanka Tour of England 2026, 3rd ODI",
-   "url": "https://cricketaddictor.com/fantasy-cricket/eng-vs-sl-dream11-prediction-today-match-dream11-team-today-fantasy-cricket-tips-playing-xi-pitch-report-injury-update-sri-lanka-tour-of-england-2026-3rd-odi-464283",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Preview & Build-up",
-   "published_at": "2026-09-26T18:04:12+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1583,
-   "sport": "football",
-   "one_line": "Scotland's first match under Pocognoli ended in a draw with Slovenia.",
-   "title": "Gilmour catalyst, impressive Welsh, but same issue for Scotland?",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cqevwwnw10w9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Preview & Build-up",
-   "published_at": "2026-09-26T17:05:53+00:00",
-   "events": [],
-   "teams": [
-    "Scotland",
-    "Slovenia"
-   ]
-  },
-  {
-   "id": 1567,
-   "sport": "cricket",
-   "one_line": "India stars praised Kohli and Sharma in the dressing room before the series.",
-   "title": "Virat Kohli and Rohit Sharma get big dressing-room praise from India stars",
-   "url": "https://cricketaddictor.com/cricket-news/virat-kohli-and-rohit-sharma-get-big-dressing-room-praise-from-india-stars-464298",
-   "source": "CricketAddictor",
-   "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-26T14:33:39+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1587,
-   "sport": "football",
-   "one_line": "Mohamed Salah omitted from Egypt's match against South Sudan due to artificial turf.",
-   "title": "Salah out of Egypt game because of artificial turf",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cm1dllzgrdkro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Selection & Squad",
-   "published_at": "2026-09-26T12:57:14+00:00",
-   "events": [],
    "teams": []
   }
  ],
@@ -3195,6 +3064,7 @@
     2724,
     2738,
     2432,
+    2881,
     2436,
     2290,
     1733,
@@ -3213,12 +3083,10 @@
    "story_ids": [
     2786,
     1922,
-    1601,
     2731,
     2338,
     1879,
-    1869,
-    1583
+    1869
    ]
   },
   {
@@ -3243,10 +3111,8 @@
    "home": "Slovenia",
    "away": "Fyr Macedonia",
    "story_ids": [
-    1601,
     1879,
-    1869,
-    1583
+    1869
    ]
   },
   {
@@ -3269,6 +3135,50 @@
    "away": "Kazakhstan",
    "story_ids": [
     2737
+   ]
+  },
+  {
+   "scoretab_url": "https://scoretab.in/matches/tennis/2026-10-01/beijing/learner-tien-vs-hubert-hurkacz/17206243",
+   "sport": "tennis",
+   "event": "beijing",
+   "date": "2026-10-01",
+   "home": "Learner Tien",
+   "away": "Hubert Hurkacz",
+   "story_ids": [
+    2065
+   ]
+  },
+  {
+   "scoretab_url": "https://scoretab.in/matches/tennis/2026-10-01/beijing/alex-de-minaur-vs-mariano-navone/17206247",
+   "sport": "tennis",
+   "event": "beijing",
+   "date": "2026-10-01",
+   "home": "Alex De Minaur",
+   "away": "Mariano Navone",
+   "story_ids": [
+    2065
+   ]
+  },
+  {
+   "scoretab_url": "https://scoretab.in/matches/tennis/2026-10-01/beijing/alexander-zverev-vs-cameron-norrie/17206253",
+   "sport": "tennis",
+   "event": "beijing",
+   "date": "2026-10-01",
+   "home": "Alexander Zverev",
+   "away": "Cameron Norrie",
+   "story_ids": [
+    2065
+   ]
+  },
+  {
+   "scoretab_url": "https://scoretab.in/matches/tennis/2026-10-01/tokyo/carlos-alcaraz-vs-alex-michelsen/17204708",
+   "sport": "tennis",
+   "event": "tokyo",
+   "date": "2026-10-01",
+   "home": "Carlos Alcaraz",
+   "away": "Alex Michelsen",
+   "story_ids": [
+    1931
    ]
   }
  ]
