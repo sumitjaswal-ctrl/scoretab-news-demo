@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-29T19:21:42+00:00",
+ "generated_at": "2026-09-30T05:04:02+00:00",
  "about": "Concept feed: source headline + our own one-line summary + link. No article text. Events and matches are read from scoretab.in.",
  "events": [
   {
    "slug": "uefa-nations-league",
    "name": "UEFA Nations League",
    "sport": "football",
-   "matches_listed": 9,
-   "stories": 14
+   "matches_listed": 1,
+   "stories": 12
   },
   {
    "slug": "ifa-shield",
@@ -21,7 +21,7 @@
    "name": "Premier League",
    "sport": "football",
    "matches_listed": 0,
-   "stories": 11
+   "stories": 10
   },
   {
    "slug": "billie-jean-king-cup",
@@ -41,14 +41,14 @@
    "slug": "beijing",
    "name": "Beijing",
    "sport": "tennis",
-   "matches_listed": 56,
+   "matches_listed": 48,
    "stories": 0
   },
   {
    "slug": "tokyo",
    "name": "Tokyo",
    "sport": "tennis",
-   "matches_listed": 23,
+   "matches_listed": 19,
    "stories": 0
   }
  ],
@@ -619,9 +619,7 @@
    "category": "Selection & Squad",
    "published_at": "2026-09-29T11:39:35+00:00",
    "events": [],
-   "teams": [
-    "England"
-   ]
+   "teams": []
   },
   {
    "id": 2708,
@@ -688,9 +686,7 @@
    "category": "Selection & Squad",
    "published_at": "2026-09-29T10:23:35+00:00",
    "events": [],
-   "teams": [
-    "Kazakhstan"
-   ]
+   "teams": []
   },
   {
    "id": 2676,
@@ -770,9 +766,7 @@
    "category": "Injury & Fitness",
    "published_at": "2026-09-29T09:00:03+00:00",
    "events": [],
-   "teams": [
-    "Albania"
-   ]
+   "teams": []
   },
   {
    "id": 2647,
@@ -826,10 +820,7 @@
    "category": "Preview & Build-up",
    "published_at": "2026-09-29T07:00:00+00:00",
    "events": [],
-   "teams": [
-    "Scotland",
-    "Switzerland"
-   ]
+   "teams": []
   },
   {
    "id": 2648,
@@ -857,10 +848,7 @@
    "events": [
     "uefa-nations-league"
    ],
-   "teams": [
-    "Czechia",
-    "England"
-   ]
+   "teams": []
   },
   {
    "id": 2497,
@@ -1018,10 +1006,7 @@
    "events": [
     "uefa-nations-league"
    ],
-   "teams": [
-    "Czechia",
-    "England"
-   ]
+   "teams": []
   },
   {
    "id": 2380,
@@ -1244,9 +1229,7 @@
    "title": "India vs Afghanistan Asian Games quarter-final: Match abandoned without toss, India through to semis",
    "url": "https://www.hindustantimes.com/cricket/ind-vs-afg-live-cricket-score-india-vs-afghanistan-men-asian-games-2026-quarterfinal-today-28-september-latest-scorecard-101790553966384.html",
    "source": "Hindustan Times Cricket",
-   "also_reported_by": [
-    "CricketAddictor"
-   ],
+   "also_reported_by": [],
    "category": "Match Result",
    "published_at": "2026-09-28T02:31:52+00:00",
    "events": [],
@@ -1263,9 +1246,7 @@
    "category": "Other",
    "published_at": "2026-09-27T22:13:19+00:00",
    "events": [],
-   "teams": [
-    "Spain"
-   ]
+   "teams": []
   },
   {
    "id": 2166,
@@ -1544,10 +1525,7 @@
    "category": "Preview & Build-up",
    "published_at": "2026-09-27T12:43:59+00:00",
    "events": [],
-   "teams": [
-    "Scotland",
-    "Switzerland"
-   ]
+   "teams": []
   },
   {
    "id": 1846,
@@ -1790,32 +1768,6 @@
    "teams": []
   },
   {
-   "id": 1651,
-   "sport": "cricket",
-   "one_line": "Ben Stokes faces a roadblock as the ECB considers a NOC refusal for his PSL move.",
-   "title": "Ben Stokes’ PSL plans hit ECB roadblock as governing body weighs NOC refusal: Report",
-   "url": "https://www.hindustantimes.com/cricket/ben-stokes-psl-plans-hit-ecb-roadblock-as-governing-body-weighs-noc-refusal-101790470407312.html",
-   "source": "Hindustan Times Cricket",
-   "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-27T01:34:16+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1746,
-   "sport": "football",
-   "one_line": "Alexia Putellas scores her first WSL goal as London City defeats Brighton.",
-   "title": "Putellas scores first WSL goal as London City beat Brighton",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cwr7dd0x245yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Match Result",
-   "published_at": "2026-09-26T22:00:53+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
    "id": 2862,
    "sport": "cricket",
    "one_line": "Rishabh Pant discusses MS Dhoni's advice that influenced his cricket career.",
@@ -1891,9 +1843,7 @@
    "category": "Other",
    "published_at": "2026-09-29T15:37:43+00:00",
    "events": [],
-   "teams": [
-    "England"
-   ]
+   "teams": []
   },
   {
    "id": 2706,
@@ -1945,9 +1895,7 @@
    "category": "Other",
    "published_at": "2026-09-29T09:42:29+00:00",
    "events": [],
-   "teams": [
-    "Scotland"
-   ]
+   "teams": []
   },
   {
    "id": 2719,
@@ -2092,9 +2040,7 @@
    "category": "Preview & Build-up",
    "published_at": "2026-09-28T13:33:23+00:00",
    "events": [],
-   "teams": [
-    "England"
-   ]
+   "teams": []
   },
   {
    "id": 2448,
@@ -2202,9 +2148,7 @@
    "events": [
     "premier-league"
    ],
-   "teams": [
-    "England"
-   ]
+   "teams": []
   },
   {
    "id": 2338,
@@ -2217,10 +2161,7 @@
    "category": "Preview & Build-up",
    "published_at": "2026-09-28T07:46:12+00:00",
    "events": [],
-   "teams": [
-    "Scotland",
-    "Switzerland"
-   ]
+   "teams": []
   },
   {
    "id": 2302,
@@ -2283,9 +2224,7 @@
    "title": "Why Pakistan reached Asian Games semis without a ball bowled vs Hong Kong",
    "url": "https://www.hindustantimes.com/cricket/why-pakistan-reached-asian-games-semis-without-a-ball-bowled-vs-hong-kong-101790558542616.html",
    "source": "Hindustan Times Cricket",
-   "also_reported_by": [
-    "CricketAddictor"
-   ],
+   "also_reported_by": [],
    "category": "Other",
    "published_at": "2026-09-28T01:56:52+00:00",
    "events": [],
@@ -2369,10 +2308,7 @@
    "category": "Off-field & Controversy",
    "published_at": "2026-09-27T11:35:25+00:00",
    "events": [],
-   "teams": [
-    "Scotland",
-    "Slovenia"
-   ]
+   "teams": []
   },
   {
    "id": 1816,
@@ -2441,10 +2377,7 @@
    "events": [
     "uefa-nations-league"
    ],
-   "teams": [
-    "Scotland",
-    "Slovenia"
-   ]
+   "teams": []
   },
   {
    "id": 1862,
@@ -2485,114 +2418,6 @@
    "category": "Other",
    "published_at": "2026-09-27T06:05:26+00:00",
    "events": [],
-   "teams": []
-  },
-  {
-   "id": 1801,
-   "sport": "cricket",
-   "one_line": "Sunil Gavaskar warns future selectors about potential mischief makers.",
-   "title": "Sunil Gavaskar has a word of caution for next chairman of selectors after Agarkar: ‘Mischief makers could be others'",
-   "url": "https://www.hindustantimes.com/cricket/sunil-gavaskar-has-a-word-of-caution-for-next-chairman-of-selectors-after-agarkar-mischief-makers-could-be-others-101790483156629.html",
-   "source": "Hindustan Times Cricket",
-   "also_reported_by": [],
-   "category": "Off-field & Controversy",
-   "published_at": "2026-09-27T04:49:08+00:00",
-   "events": [],
-   "teams": []
-  },
-  {
-   "id": 1733,
-   "sport": "football",
-   "one_line": "Jordan Pickford faces potential competition from James Trafford for England's number one spot.",
-   "title": "Pickford or Trafford? The battle to be England's number one is now on",
-   "url": "https://www.bbc.co.uk/sport/football/articles/ckm2qqpjv7nro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Selection & Squad",
-   "published_at": "2026-09-26T23:06:07+00:00",
-   "events": [],
-   "teams": [
-    "England"
-   ]
-  },
-  {
-   "id": 1726,
-   "sport": "football",
-   "one_line": "England's loss to Spain may have been influenced by Man City players' errors.",
-   "title": "Tuchel rues 'big mistakes' - did Man City charges have impact?",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c6j4jjg5qxero?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-26T22:47:10+00:00",
-   "events": [],
-   "teams": [
-    "England",
-    "Spain"
-   ]
-  },
-  {
-   "id": 1725,
-   "sport": "football",
-   "one_line": "England's chaotic style is contrasted with Spain's control in the recent match.",
-   "title": "England embrace the chaos - but control also needed to win big prizes",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cqx2zz6d5716o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-26T22:39:52+00:00",
-   "events": [],
-   "teams": [
-    "England",
-    "Spain"
-   ]
-  },
-  {
-   "id": 1731,
-   "sport": "football",
-   "one_line": "Bayern Munich target Dani Olmo while other clubs show interest in various players.",
-   "title": "Bayern target Barcelona's Olmo - Sunday's gossip",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cw770034l523o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-26T20:54:18+00:00",
-   "events": [
-    "premier-league"
-   ],
-   "teams": []
-  },
-  {
-   "id": 1732,
-   "sport": "football",
-   "one_line": "BBC Sport rates England players after a 3-2 loss to Spain.",
-   "title": "Who made an uncharacteristic error? England player ratings v Spain",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cmy0zz2ylr5no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Other",
-   "published_at": "2026-09-26T20:42:33+00:00",
-   "events": [
-    "uefa-nations-league"
-   ],
-   "teams": [
-    "England",
-    "Spain"
-   ]
-  },
-  {
-   "id": 1729,
-   "sport": "football",
-   "one_line": "Craig Bellamy looks to add to his history against Denmark in the Nations League.",
-   "title": "Bellamy eyes more history against wounded Denmark",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cmeq88152w8go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Football",
-   "also_reported_by": [],
-   "category": "Preview & Build-up",
-   "published_at": "2026-09-26T20:17:02+00:00",
-   "events": [
-    "uefa-nations-league"
-   ],
    "teams": []
   }
  ],
@@ -3053,90 +2878,6 @@
   }
  ],
  "matches_with_news": [
-  {
-   "scoretab_url": "https://scoretab.in/matches/football/2026-09-30/uefa-nations-league/czechia-vs-england/1528910",
-   "sport": "football",
-   "event": "uefa-nations-league",
-   "date": "2026-09-30",
-   "home": "Czechia",
-   "away": "England",
-   "story_ids": [
-    2724,
-    2738,
-    2432,
-    2881,
-    2436,
-    2290,
-    1733,
-    1726,
-    1725,
-    1732
-   ]
-  },
-  {
-   "scoretab_url": "https://scoretab.in/matches/football/2026-09-30/uefa-nations-league/scotland-vs-switzerland/1545651",
-   "sport": "football",
-   "event": "uefa-nations-league",
-   "date": "2026-09-30",
-   "home": "Scotland",
-   "away": "Switzerland",
-   "story_ids": [
-    2786,
-    1922,
-    2731,
-    2338,
-    1879,
-    1869
-   ]
-  },
-  {
-   "scoretab_url": "https://scoretab.in/matches/football/2026-09-30/uefa-nations-league/spain-vs-croatia/1528909",
-   "sport": "football",
-   "event": "uefa-nations-league",
-   "date": "2026-09-30",
-   "home": "Spain",
-   "away": "Croatia",
-   "story_ids": [
-    2159,
-    1726,
-    1725,
-    1732
-   ]
-  },
-  {
-   "scoretab_url": "https://scoretab.in/matches/football/2026-09-30/uefa-nations-league/slovenia-vs-fyr-macedonia/1545661",
-   "sport": "football",
-   "event": "uefa-nations-league",
-   "date": "2026-09-30",
-   "home": "Slovenia",
-   "away": "Fyr Macedonia",
-   "story_ids": [
-    1879,
-    1869
-   ]
-  },
-  {
-   "scoretab_url": "https://scoretab.in/matches/football/2026-09-30/uefa-nations-league/san-marino-vs-albania/1528911",
-   "sport": "football",
-   "event": "uefa-nations-league",
-   "date": "2026-09-30",
-   "home": "San Marino",
-   "away": "Albania",
-   "story_ids": [
-    2740
-   ]
-  },
-  {
-   "scoretab_url": "https://scoretab.in/matches/football/2026-09-30/uefa-nations-league/slovakia-vs-kazakhstan/1528913",
-   "sport": "football",
-   "event": "uefa-nations-league",
-   "date": "2026-09-30",
-   "home": "Slovakia",
-   "away": "Kazakhstan",
-   "story_ids": [
-    2737
-   ]
-  },
   {
    "scoretab_url": "https://scoretab.in/matches/tennis/2026-10-01/beijing/learner-tien-vs-hubert-hurkacz/17206243",
    "sport": "tennis",
